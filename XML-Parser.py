@@ -3,10 +3,8 @@ from collections import Counter
 from re import sub
 import ftfy
 import csv
-import os
 
-cwd = os.getcwd() + "\\"
-path = cwd + "Pubs_basedon_TCIA0618.xml"
+path = "Pubs_basedon_TCIA0618.xml"
 
 class Record:
     def __init__(self,i="",authors="",title="",periodical="",year="",pubtype="",citations="",url="",abstract="",keywords="",abstract_div=""):
@@ -41,7 +39,7 @@ class Record:
     def tuple_form(self):
         return (self.i,self.title,self.authors,self.periodical,self.year,self.pubtype,self.citations,self.url,self.abstract,self.keywords,self.abstract_div)
 
-with open(cwd + "titleinfo.csv","r",encoding="utf8") as f:
+with open("titleinfo.csv","r",encoding="utf8") as f:
     reader = csv.reader(f)
     title_info = []
     for row in reader:
@@ -462,5 +460,5 @@ paperpile_html = """<!DOCTYPE html>
 </html>
 """.format(keywords_to_add,entry)
 
-with open(cwd + "Publications.html","w",encoding="utf8") as f:
+with open("Publications.html","w",encoding="utf8") as f:
     f.write(paperpile_html)
