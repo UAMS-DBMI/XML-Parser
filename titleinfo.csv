@@ -1,537 +1,539 @@
-Robust Computer-Aided Detection of Pulmonary Nodules from Chest Computed Tomography,4,https://www.ingentaconnect.com/contentone/asp/jmihi/2016/00000006/00000003/art00015
-A generalized framework for medical image classification and recognition,17,https://ieeexplore.ieee.org/abstract/document/7094962/
+Robust Computer-Aided Detection of Pulmonary Nodules from Chest Computed Tomography,5,https://www.ingentaconnect.com/contentone/asp/jmihi/2016/00000006/00000003/art00015
+A generalized framework for medical image classification and recognition,19,https://ieeexplore.ieee.org/abstract/document/7094962/
 Adaptive Enhancement Technique for Cancerous Lung Nodule in Computed Tomography Images,1,http://www.enggjournals.com/ijet/docs/IJET16-08-03-406.pdf
-Defining a Radiomic Response Phenotype: A Pilot Study using targeted therapy in NSCLC,36,https://www.nature.com/articles/srep33860
-Decoding tumour phenotype by noninvasive imaging using a quantitative radiomics approach,874,https://www.nature.com/articles/ncomms5006
-Decoding tumour phenotype by noninvasive imaging using a quantitative radiomics approach,874,https://www.nature.com/articles/ncomms5006
+Defining a Radiomic Response Phenotype: A Pilot Study using targeted therapy in NSCLC,40,https://www.nature.com/articles/srep33860
+Decoding tumour phenotype by noninvasive imaging using a quantitative radiomics approach,1025,https://www.nature.com/articles/ncomms5006
+Decoding tumour phenotype by noninvasive imaging using a quantitative radiomics approach,1025,https://www.nature.com/articles/ncomms5006
 Patient-Wise Versus Nodule-Wise Classification of Annotated Pulmonary Nodules using Pathologically Confirmed Cases,5,http://www.jcomputers.us/vol8/jcp0809-13.pdf
-Robust Image Denoising with Multi-Column Deep Neural Networks,46,https://ieeexplore.ieee.org/abstract/document/7018004/
-Adaptive Multi-Column Deep Neural Networks with Application to Robust Image Denoising,104,http://papers.nips.cc/paper/5030-adaptive-multi-column-deep-neural-networks-with-application-to-robust-image-denoising
+Robust Image Denoising with Multi-Column Deep Neural Networks,60,https://ieeexplore.ieee.org/abstract/document/7018004/
+Adaptive Multi-Column Deep Neural Networks with Application to Robust Image Denoising,118,http://papers.nips.cc/paper/5030-adaptive-multi-column-deep-neural-networks-with-application-to-robust-image-denoising
 Tumor Lesion Segmentation from 3D PET Using a Machine Learning Driven Active Surface,4,https://link.springer.com/chapter/10.1007/978-3-319-47157-0_33
 Increased robustness in reference region model analysis of DCE MRI using two‐step constrained approaches,1,https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.26530
 An extended reference region model for DCE‐MRI that accounts for plasma volume,0,https://onlinelibrary.wiley.com/doi/abs/10.1002/nbm.3924
-"GLISTRboost: Combining Multimodal MRI Segmentation, Registration, and Biophysical Tumor Growth Modeling with Gradient Boosting Machines for Glioma Segmentation",22,https://link.springer.com/chapter/10.1007/978-3-319-30858-6_13
-A review of lung cancer screening and the role of computer-aided detection,15,https://www.sciencedirect.com/science/article/pii/S0009926017300296
+"GLISTRboost: Combining Multimodal MRI Segmentation, Registration, and Biophysical Tumor Growth Modeling with Gradient Boosting Machines for Glioma Segmentation",24,https://link.springer.com/chapter/10.1007/978-3-319-30858-6_13
+A review of lung cancer screening and the role of computer-aided detection,23,https://www.sciencedirect.com/science/article/pii/S0009926017300296
 Breast Cancer Diagnostic System Based on MR images Using KPCA-Wavelet Transform and Support Vector Machine,0,http://ijaers.com/uploads/issue_files/41%20IJAERS-MAR-2017-58-Breast%20Cancer%20Diagnostic%20System%20Based%20on%20MR.pdf
-Quantitative assessment of colorectal morphology: Implications for robotic colonoscopy,9,https://www.sciencedirect.com/science/article/pii/S1350453315002763
-Deep learning for segmentation of brain tumors: Impact of cross-institutional training and testing,2,https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.12752
+Quantitative assessment of colorectal morphology: Implications for robotic colonoscopy,11,https://www.sciencedirect.com/science/article/pii/S1350453315002763
+Deep learning for segmentation of brain tumors: Impact of cross-institutional training and testing,5,https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.12752
 Self-organizing Approach to Learn a Level-set Function for Object Segmentation in Complex Background Environments,0,http://rave.ohiolink.edu/etdc/view?acc_num=dayton1429545327
 Automatic intensity windowing of mammographic images based on a perceptual metric,0,https://onlinelibrary.wiley.com/doi/abs/10.1002/mp.12144
 Radiogenomics in renal cell carcinoma,0,https://link.springer.com/content/pdf/10.1007/s00261-018-1624-y.pdf
 SurfCut: Surfaces of Minimal Paths From Topological Structures,0,https://ieeexplore.ieee.org/abstract/document/8306823/
-Robust Detection of Circles in the Vessel Contours and Application to Local Probability Density Estimation,2,https://link.springer.com/chapter/10.1007/978-3-319-67534-3_1
+Robust Detection of Circles in the Vessel Contours and Application to Local Probability Density Estimation,3,https://link.springer.com/chapter/10.1007/978-3-319-67534-3_1
 Breast Cancer Response Prediction in Neoadjuvant Chemotherapy Treatment Based on Texture Analysis,2,http://dlibrary.univ-boumerdes.dz:8080/handle/123456789/3182
-Application of Fuzzy c-means and Neural networks to categorize tumor affected breast MR Images,2,https://pdfs.semanticscholar.org/a8da/6d668deb7d7c3393a53d0efef23db53b8737.pdf
-"Imaging Genomics in Glioblastoma Multiforme: A Predictive Tool for Patients Prognosis, Survival, and Outcome",2,https://www.mri.theclinics.com/article/S1064-9689(16)30051-4/abstract
-Lung nodule detection using 3D convolutional neural networks trained on weakly labeled data,27,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9785/978532/Lung-nodule-detection-using-3D-convolutional-neural-networks-trained-on/10.1117/12.2214876.short
-Brain tumour classification using two-tier classifier with adaptive segmentation technique,36,http://digital-library.theiet.org/content/journals/10.1049/iet-cvi.2014.0193
-Fast wavelet based image characterization for content based medical image retrieval,2,https://ieeexplore.ieee.org/abstract/document/7918956/
-Beyin MR Görüntülerinden Bilgisayar Destekli Tümör Teşhisi Sistemi Computer-aided Tumor Detection System Using Brain MR Images,3,https://ieeexplore.ieee.org/abstract/document/7374544/
-The lung image database consortium (LIDC) and image database resource initiative (IDRI): a completed reference database of lung nodules on CT scans,473,https://aapm.onlinelibrary.wiley.com/doi/abs/10.1118/1.3528204
-Collaborative projects,287,https://www.sciencedirect.com/science/article/pii/S0048733313001212
-SPIE-AAPM-NCI Lung Nodule Classification Challenge Dataset,8,
-Special Section Guest Editorial: LUNGx Challenge for computerized lung nodule classification: reflections and lessons learned,17,https://www.spiedigitallibrary.org/journals/Journal-of-Medical-Imaging/volume-2/issue-2/020103/Special-Section-Guest-Editorial--LUNGx-Challenge-for-computerized-lung/10.1117/1.JMI.2.2.020103.short
+Application of Fuzzy c-means and Neural networks to categorize tumor affected breast MR Images,4,https://pdfs.semanticscholar.org/a8da/6d668deb7d7c3393a53d0efef23db53b8737.pdf
+"Imaging Genomics in Glioblastoma Multiforme: A Predictive Tool for Patients Prognosis, Survival, and Outcome",3,https://www.mri.theclinics.com/article/S1064-9689(16)30051-4/abstract
+Lung nodule detection using 3D convolutional neural networks trained on weakly labeled data,33,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9785/978532/Lung-nodule-detection-using-3D-convolutional-neural-networks-trained-on/10.1117/12.2214876.short
+Brain tumour classification using two-tier classifier with adaptive segmentation technique,46,https://ieeexplore.ieee.org/abstract/document/7383396/
+Fast wavelet based image characterization for content based medical image retrieval,4,https://ieeexplore.ieee.org/abstract/document/7918956/
+Beyin MR Görüntülerinden Bilgisayar Destekli Tümör Teşhisi Sistemi Computer-aided Tumor Detection System Using Brain MR Images,4,https://ieeexplore.ieee.org/abstract/document/7374544/
+The lung image database consortium (LIDC) and image database resource initiative (IDRI): a completed reference database of lung nodules on CT scans,546,https://aapm.onlinelibrary.wiley.com/doi/abs/10.1118/1.3528204
+Collaborative projects,307,https://www.sciencedirect.com/science/article/pii/S0048733313001212
+SPIE-AAPM-NCI Lung Nodule Classification Challenge Dataset,,
+Special Section Guest Editorial: LUNGx Challenge for computerized lung nodule classification: reflections and lessons learned,20,https://www.spiedigitallibrary.org/journals/Journal-of-Medical-Imaging/volume-2/issue-2/020103/Special-Section-Guest-Editorial--LUNGx-Challenge-for-computerized-lung/10.1117/1.JMI.2.2.020103.short
 Computer Aided Detection Scheme To Improve The Prognosis Assessment Of Early Stage Lung Cancer Patients,0,https://www.irjet.net/archives/V5/i4/IRJET-V5I4269.pdf
-Radiogenomics of clear cell renal cell carcinoma: preliminary findings of The Cancer Genome Atlas–Renal Cell Carcinoma (TCGA–RCC) Imaging Research Group,42,https://link.springer.com/article/10.1007/s00261-015-0386-z
-Analysis of dual tree M‐band wavelet transform based features for brain image classification,0,https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27210
+Radiogenomics of clear cell renal cell carcinoma: preliminary findings of The Cancer Genome Atlas–Renal Cell Carcinoma (TCGA–RCC) Imaging Research Group,47,https://link.springer.com/article/10.1007/s00261-015-0386-z
+Analysis of dual tree M‐band wavelet transform based features for brain image classification,1,https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27210
 Analysis of Classification Methods for Diagnosis of Pulmonary Nodules in CT Images,0,http://ijesc.org/upload/1df8c3f7f195a3c8f366f1550463dc6f.Analysis%20of%20%20Classification%20Methods%20for%20Diagnosis%20of%20Pulmonary%20Nodules%20in%20CT%20Images.pdf
 Detection of Brain Tumour in MRI Scan Images using Tetrolet Transform and SVM Classifier,1,http://www.indjst.org/index.php/indjst/article/view/113721
 BIOMEDICAL IMAGE RETRIEVAL USING LBWP,0,https://irjet.net/archives/V4/i9/IRJET-V4I9147.pdf
-Imaging genomics in cancer research: limitations and promises,21,https://www.birpublications.org/doi/abs/10.1259/bjr.20151030
-BraTS Multimodal Brain Tumor Segmentation Challenge,27,https://pdfs.semanticscholar.org/f543/50409f00250419e811c4db8203769adcd08e.pdf
-Test–Retest Reproducibility Analysis of Lung CT Image Features,70,https://link.springer.com/article/10.1007/s10278-014-9716-x
+Imaging genomics in cancer research: limitations and promises,28,https://www.birpublications.org/doi/abs/10.1259/bjr.20151030
+BraTS Multimodal Brain Tumor Segmetation Challenge,,
+Test–Retest Reproducibility Analysis of Lung CT Image Features,85,https://link.springer.com/article/10.1007/s10278-014-9716-x
 A New Adaptive-Weighted Fusion Rule for Wavelet based PET/CT Fusion,1,https://www.researchgate.net/profile/Ramiah_Barani/publication/311590630_A_New_Adaptive-Weighted_Fusion_Rule_for_Wavelet_based_PETCT_Fusion/links/584fe90508aed95c250b4db4.pdf
 Removing Mixture Noise from Medical Images Using Block Matching Filtering and Low-Rank Matrix Completion,2,https://www.computer.org/csdl/proceedings/hisb/2012/4921/00/4921a134-abs.html
 Anatomical DCE-MRI phantoms generated from glioma patient data,0,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10573/105732V/Anatomical-DCE-MRI-phantoms-generated-from-glioma-patient-data/10.1117/12.2294961.short
-Multi‐site quality and variability analysis of 3D FDG PET segmentations based on phantom and clinical image data,6,https://onlinelibrary.wiley.com/doi/abs/10.1002/mp.12041
-Radiogenomic analysis of hypoxia pathway is predictive of overall survival in Glioblastoma,2,https://www.nature.com/articles/s41598-017-18310-0
-Radiogenomic analysis of hypoxia pathway reveals computerized MRI descriptors predictive of overall survival in Glioblastoma,1,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10134/1/Radiogenomic-analysis-of-hypoxia-pathway-reveals-computerized-MRI-descriptors-predictive/10.1117/12.2255694.short
+Multi‐site quality and variability analysis of 3D FDG PET segmentations based on phantom and clinical image data,7,https://onlinelibrary.wiley.com/doi/abs/10.1002/mp.12041
+Radiogenomic analysis of hypoxia pathway is predictive of overall survival in Glioblastoma,5,https://www.nature.com/articles/s41598-017-18310-0
+Radiogenomic analysis of hypoxia pathway reveals computerized MRI descriptors predictive of overall survival in Glioblastoma,3,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10134/1/Radiogenomic-analysis-of-hypoxia-pathway-reveals-computerized-MRI-descriptors-predictive/10.1117/12.2255694.short
 Automatic Design of Window Operators for the Segmentation of the Prostate Gland in Magnetic Resonance Images,0,https://link.springer.com/chapter/10.1007/978-3-319-13117-7_107
-Overview of the American Society for Radiation Oncology–National Institutes of Health–American Association of Physicists in Medicine Workshop 2015: Exploring Opportunities for Radiation Oncology in the Era of Big Data,12,https://www.urologyadvance.com/article/S0360-3016(16)00301-1/abstract
-Segmentation of Three-dimensional Images with Parametric Active Surfaces and Topology Changes,0,https://link.springer.com/article/10.1007/s10915-017-0401-3
+Overview of the American Society for Radiation Oncology–National Institutes of Health–American Association of Physicists in Medicine Workshop 2015: Exploring Opportunities for Radiation Oncology in the Era of Big Data,,
+Segmentation of Three-dimensional Images with Parametric Active Surfaces and Topology Changes,1,https://link.springer.com/article/10.1007/s10915-017-0401-3
 Pulmonary nodule detection using a cascaded SVM classifier,9,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9785/978513/Pulmonary-nodule-detection-using-a-cascaded-SVM-classifier/10.1117/12.2216747.short
-G-DOC Plus–an integrative bioinformatics platform for precision medicine,13,https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1010-0
-A comparison of ground truth estimation methods,16,https://link.springer.com/article/10.1007/s11548-009-0401-3
+G-DOC Plus–an integrative bioinformatics platform for precision medicine,14,https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1010-0
+A comparison of ground truth estimation methods,17,https://link.springer.com/article/10.1007/s11548-009-0401-3
 Performance analysis of unsupervised optimal fuzzy clustering algorithm for MRI brain tumor segmentation,0,https://content.iospress.com/articles/technology-and-health-care/thc00876
 CT Colonography: External Clinical Validation of an Algorithm for Computer-assisted Prone and Supine Registration,5,https://pubs.rsna.org/doi/abs/10.1148/radiol.13122083
 DOIs for DICOM Raw Images: Enabling Science Reproducibility,3,https://pubs.rsna.org/doi/full/10.1148/radiol.15150144
 Singular value decomposition using block least mean square method for image denoising and compression,1,https://ieeexplore.ieee.org/abstract/document/7375585/
 Constructing 3D-Printable CAD Models of Prostates from MR Images,1,https://ieeexplore.ieee.org/abstract/document/6574340/
-Quantitative Imaging Biomarker Ontology (QIBO) for Knowledge Representation of Biomedical Imaging Biomarkers,15,https://link.springer.com/article/10.1007/s10278-013-9599-2
+Quantitative Imaging Biomarker Ontology (QIBO) for Knowledge Representation of Biomedical Imaging Biomarkers,17,https://link.springer.com/article/10.1007/s10278-013-9599-2
 Comparing nonrigid registration techniques for motion corrected MR prostate diffusion imaging,4,https://onlinelibrary.wiley.com/doi/abs/10.1118/1.4903262
-Using computer‐extracted image phenotypes from tumors on breast magnetic resonance imaging to predict breast cancer pathologic stage,25,https://onlinelibrary.wiley.com/doi/abs/10.1002/cncr.29791
+Using computer‐extracted image phenotypes from tumors on breast magnetic resonance imaging to predict breast cancer pathologic stage,28,https://onlinelibrary.wiley.com/doi/abs/10.1002/cncr.29791
 Image Area Reduction for Efficient Medical Image Retrieval,0,https://uwspace.uwaterloo.ca/handle/10012/9349
 Selección de un algoritmo para la clasificación de Nódulos Pulmonares Solitarios,0,http://www.medigraphic.com/cgi-bin/new/resumen.cgi?IDARTICULO=66840
-Highly accurate model for prediction of lung nodule malignancy with CT scans,0,https://www.nature.com/articles/s41598-018-27569-w
-Automated feature extraction in brain tumor by magnetic resonance imaging using gaussian mixture models,26,https://dl.acm.org/citation.cfm?id=2836384
-Phenotypic characterization of glioblastoma identified through shape descriptors,3,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9785/97852M/Phenotypic-characterization-of-glioblastoma-identified-through-shape-descriptors/10.1117/12.2209121.short
-GBM heterogeneity characterization by radiomic analysis of phenotype anatomical planes,3,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9784/978424/GBM-heterogeneity-characterization-by-radiomic-analysis-of-phenotype-anatomical-planes/10.1117/12.2214491.short
-Radiomic analysis of multi-contrast brain MRI for the prediction of survival in patients with glioblastoma multiforme,8,https://ieeexplore.ieee.org/abstract/document/7591612/
-Predicting survival time of lung cancer patients using radiomic analysis,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5732814/
+Highly accurate model for prediction of lung nodule malignancy with CT scans,5,https://www.nature.com/articles/s41598-018-27569-w
+Automated feature extraction in brain tumor by magnetic resonance imaging using gaussian mixture models,29,https://dl.acm.org/citation.cfm?id=2836384
+Phenotypic characterization of glioblastoma identified through shape descriptors,4,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9785/97852M/Phenotypic-characterization-of-glioblastoma-identified-through-shape-descriptors/10.1117/12.2209121.short
+GBM heterogeneity characterization by radiomic analysis of phenotype anatomical planes,4,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9784/978424/GBM-heterogeneity-characterization-by-radiomic-analysis-of-phenotype-anatomical-planes/10.1117/12.2214491.short
+Radiomic analysis of multi-contrast brain MRI for the prediction of survival in patients with glioblastoma multiforme,11,https://ieeexplore.ieee.org/abstract/document/7591612/
+Predicting survival time of lung cancer patients using radiomic analysis,4,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5732814/
 High-Throughput Quantification of Phenotype Heterogeneity Using Statistical Features,5,https://www.hindawi.com/journals/abi/2015/728164/abs/
-Quantitative evaluation of robust skull stripping and tumor detection applied to axial MR images,21,https://link.springer.com/article/10.1007/s40708-016-0033-7
-Extracted magnetic resonance texture features discriminate between phenotypes and are associated with overall survival in glioblastoma multiforme patients,11,https://link.springer.com/article/10.1007/s11517-016-1461-5
-Automated lung field segmentation in CT images using mean shift clustering and geometrical features,4,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8670/867032/Automated-lung-field-segmentation-in-CT-images-using-mean-shift/10.1117/12.2007910.short
-Using Docker to support reproducible research,27,http://pfigshare-u-files.s3.amazonaws.com/1590657/WSSSPE2_Docker.pdf
-Residual Convolutional Neural Network for the Determination of IDH Status in Low-and High-Grade Gliomas from MR Imaging,10,http://clincancerres.aacrjournals.org/content/24/5/1073.abstract
-Deep-Learning Convolutional Neural Networks Accurately Classify Genetic Mutations in Gliomas,0,http://www.ajnr.org/content/early/2018/05/10/ajnr.A5667.abstract
+Quantitative evaluation of robust skull stripping and tumor detection applied to axial MR images,28,https://link.springer.com/article/10.1007/s40708-016-0033-7
+Extracted magnetic resonance texture features discriminate between phenotypes and are associated with overall survival in glioblastoma multiforme patients,16,https://link.springer.com/article/10.1007/s11517-016-1461-5
+Automated lung field segmentation in CT images using mean shift clustering and geometrical features,8,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8670/867032/Automated-lung-field-segmentation-in-CT-images-using-mean-shift/10.1117/12.2007910.short
+Using Docker to support reproducible research,30,http://pfigshare-u-files.s3.amazonaws.com/1590657/WSSSPE2_Docker.pdf
+Residual Convolutional Neural Network for the Determination of IDH Status in Low-and High-Grade Gliomas from MR Imaging,26,http://clincancerres.aacrjournals.org/content/24/5/1073.abstract
+Deep-Learning Convolutional Neural Networks Accurately Classify Genetic Mutations in Gliomas,5,http://www.ajnr.org/content/early/2018/05/10/ajnr.A5667.abstract
 Primer for Image Informatics in Personalized Medicine,0,https://www.sciencedirect.com/science/article/pii/S1877705816322068
 """Big data"" and ""open data"": What kind of access should researchers enjoy?",4,https://www.sciencedirect.com/science/article/pii/S0040595716000123
 MRI prostate cancer radiomics: Assessment of effectiveness and perspectives,0,https://repository.tudelft.nl/islandora/object/uuid:b8459bdb-1761-4f17-8807-e3b1cf7da629
 A Fast Semi-Automatic Segmentation Tool for Processing Brain Tumor Images,0,https://link.springer.com/chapter/10.1007/978-3-319-69775-8_10
-Low-dose CT via convolutional neural network,64,https://www.osapublishing.org/abstract.cfm?uri=boe-8-2-679
-An Assessment of Imaging Informatics for Precision Medicine in Cancer,1,https://pdfs.semanticscholar.org/4b89/06ed7e476ac039858041bf813fae1ef61941.pdf
+aLow-dose CT via convolutional neural network,89,https://onlinelibrary.wiley.com/doi/abs/10.1118/1.4944498
+An Assessment of Imaging Informatics for Precision Medicine in Cancer,2,https://pdfs.semanticscholar.org/4b89/06ed7e476ac039858041bf813fae1ef61941.pdf
 Integrative analysis of imaging and transcriptomic data of the immune landscape associated with tumor metabolism in lung adenocarcinoma: Clinical and prognostic implications,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5858511/
-Incremental Prognostic Value of ADC Histogram Analysis over MGMT Promoter Methylation Status in Patients with Glioblastoma,13,https://pubs.rsna.org/doi/abs/10.1148/radiol.2016151913
-"ST3GAL1-associated transcriptomic program in glioblastoma tumor growth, invasion, and prognosis",13,https://academic.oup.com/jnci/article-abstract/108/2/djv326/2457812
-Automatic detection of spiculation of pulmonary nodules in computed tomography images,4,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9414/941409/Automatic-detection-of-spiculation-of-pulmonary-nodules-in-computed-tomography/10.1117/12.2081426.short
-The Cancer Imaging Archive (TCIA): maintaining and operating a public information repository,385,https://link.springer.com/article/10.1007/s10278-013-9622-7
+Incremental Prognostic Value of ADC Histogram Analysis over MGMT Promoter Methylation Status in Patients with Glioblastoma,18,https://pubs.rsna.org/doi/abs/10.1148/radiol.2016151913
+"ST3GAL1-associated transcriptomic program in glioblastoma tumor growth, invasion, and prognosis",16,https://academic.oup.com/jnci/article-abstract/108/2/djv326/2457812
+Automatic detection of spiculation of pulmonary nodules in computed tomography images,5,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9414/941409/Automatic-detection-of-spiculation-of-pulmonary-nodules-in-computed-tomography/10.1117/12.2081426.short
+The Cancer Imaging Archive (TCIA): maintaining and operating a public information repository,471,https://link.springer.com/article/10.1007/s10278-013-9622-7
 Reproducing 2D breast mammography images with 3D printed phantoms,2,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9783/97830B/Reproducing-2D-breast-mammography-images-with-3D-printed-phantoms/10.1117/12.2217215.short
-The Quantitative Imaging Network: NCI's Historical Perspective and Planned Goals,35,https://www.sciencedirect.com/science/article/pii/S1936523314800016
-Automated Medical Image Modality Recognition by Fusion of Visual and Text Information,9,https://link.springer.com/chapter/10.1007/978-3-319-10470-6_61
+The Quantitative Imaging Network: NCI's Historical Perspective and Planned Goals,38,https://www.sciencedirect.com/science/article/pii/S1936523314800016
+Automated Medical Image Modality Recognition by Fusion of Visual and Text Information,10,https://link.springer.com/chapter/10.1007/978-3-319-10470-6_61
 Semantic Model Vector for ImageCLEF2013,0,http://domino.research.ibm.com/library/CYBERDIG.NSF/papers/42799EB3C5E49D4585257D10004ED95B/$File/rc25477.pdf
-NCI Workshop Report: Clinical and Computational Requirements for Correlating Imaging Phenotypes with Genomics Signatures,38,https://www.sciencedirect.com/science/article/pii/S1936523314000801
-Glioblastoma: Imaging Genomic Mapping Reveals Sex-specific Oncogenic Associations of Cell Death,32,https://pubs.rsna.org/doi/abs/10.1148/radiol.14141800
-Imaging genomic mapping of an invasive MRI phenotype predicts patient outcome and metabolic dysfunction: a TCGA glioma phenotype research group project,43,https://bmcmedgenomics.biomedcentral.com/articles/10.1186/1755-8794-7-30
-Glioblastoma: Imaging Genomic Mapping Reveals Sex-specific Oncogenic Associations of Cell Death,32,https://pubs.rsna.org/doi/abs/10.1148/radiol.14141800
+NCI Workshop Report: Clinical and Computational Requirements for Correlating Imaging Phenotypes with Genomics Signatures,39,https://www.sciencedirect.com/science/article/pii/S1936523314000801
+Glioblastoma: Imaging Genomic Mapping Reveals Sex-specific Oncogenic Associations of Cell Death,36,https://pubs.rsna.org/doi/abs/10.1148/radiol.14141800
+Imaging genomic mapping of an invasive MRI phenotype predicts patient outcome and metabolic dysfunction: a TCGA glioma phenotype research group project,47,https://bmcmedgenomics.biomedcentral.com/articles/10.1186/1755-8794-7-30
+Glioblastoma: Imaging Genomic Mapping Reveals Sex-specific Oncogenic Associations of Cell Death,36,https://pubs.rsna.org/doi/abs/10.1148/radiol.14141800
 A Query Tool for Investigator Access to the Data and Images of the National Lung Screening Trial,4,https://link.springer.com/article/10.1007/s10278-015-9785-5
-Extended Modality Propagation: Image Synthesis of Pathological Cases,16,https://ieeexplore.ieee.org/abstract/document/7508451/
-Bayesian Kernel Models for Statistical Genetics and Cancer Genomics,0,https://dukespace.lib.duke.edu/dspace/handle/10161/14539
+Extended Modality Propagation: Image Synthesis of Pathological Cases,18,https://ieeexplore.ieee.org/abstract/document/7508451/
+Bayesian Kernel Models for Statistical Genetics and Cancer Genomics,,
 Topological Summaries of Tumor Images Improve Prediction of Disease Free Survival in Glioblastoma Multiforme,7,https://www.researchgate.net/profile/Sayan_Mukherjee7/publication/310610299_Topological_Summaries_of_Tumor_Images_Improve_Prediction_of_Disease_Free_Survival_in_Glioblastoma_Multiforme/links/5835911708ae102f073d2a59/Topological-Summaries-of-Tumor-Images-Improve-Prediction-of-Disease-Free-Survival-in-Glioblastoma-Multiforme.pdf
-Primary lung tumor segmentation from PET–CT volumes with spatial–topological constraint,10,https://link.springer.com/article/10.1007/s11548-015-1231-0
-Volume of high-risk intratumoral subregions at multi-parametric MR imaging predicts overall survival and complements molecular analysis of glioblastoma,7,https://link.springer.com/article/10.1007/s00330-017-4751-x
-Prognostic Imaging Biomarkers in Glioblastoma: Development and Independent Validation on the Basis of Multiregion and Quantitative Analysis of MR Images,40,https://pubs.rsna.org/doi/abs/10.1148/radiol.2015150358
-Algorithmic three-dimensional analysis of tumor shape in MRI improves prognosis of survival in glioblastoma: a multi-institutional study,13,https://link.springer.com/article/10.1007/s11060-016-2359-7
+Primary lung tumor segmentation from PET–CT volumes with spatial–topological constraint,14,https://link.springer.com/article/10.1007/s11548-015-1231-0
+Volume of high-risk intratumoral subregions at multi-parametric MR imaging predicts overall survival and complements molecular analysis of glioblastoma,10,https://link.springer.com/article/10.1007/s00330-017-4751-x
+Prognostic Imaging Biomarkers in Glioblastoma: Development and Independent Validation on the Basis of Multiregion and Quantitative Analysis of MR Images,45,https://pubs.rsna.org/doi/abs/10.1148/radiol.2015150358
+Algorithmic three-dimensional analysis of tumor shape in MRI improves prognosis of survival in glioblastoma: a multi-institutional study,15,https://link.springer.com/article/10.1007/s11060-016-2359-7
 Radiogenomics of glioblastoma: a pilot multi-institutional study to investigate a relationship between tumor shape features and tumor molecular subtype,3,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9785/97850V/Radiogenomics-of-glioblastoma--a-pilot-multi-institutional-study-to/10.1117/12.2217084.short
-Machine learning: a useful radiological adjunct in determination of a newly diagnosed glioma's grade and IDH status,0,https://link.springer.com/article/10.1007/s11060-018-2895-4
-Directional local ternary quantized extrema pattern: A new descriptor for biomedical image indexing and retrieval,7,https://www.sciencedirect.com/science/article/pii/S221509861630088X
-Local mesh ternary patterns: a new descriptor for MRI and CT biomedical image indexing and retrieval,2,https://www.tandfonline.com/doi/abs/10.1080/21681163.2016.1193447
+Machine learning: a useful radiological adjunct in determination of a newly diagnosed glioma's grade and IDH status,1,https://link.springer.com/article/10.1007/s11060-018-2895-4
+Directional local ternary quantized extrema pattern: A new descriptor for biomedical image indexing and retrieval,9,https://www.sciencedirect.com/science/article/pii/S221509861630088X
+Local mesh ternary patterns: a new descriptor for MRI and CT biomedical image indexing and retrieval,3,https://www.tandfonline.com/doi/abs/10.1080/21681163.2016.1193447
 Predicting response before initiation of neoadjuvant chemotherapy in breast cancer using new methods for the analysis of dynamic contrast enhanced MRI (DCE MRI) data,5,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9788/978811/Predicting-response-before-initiation-of-neoadjuvant-chemotherapy-in-breast-cancer/10.1117/12.2217008.short
-"Mesoscopic imaging of glioblastomas: Are diffusion, perfusion and spectroscopic measures influenced by the radiogenetic phenotype?",4,http://journals.sagepub.com/doi/abs/10.1177/1971400916678225
-Computer-aided detection of lung nodules using outer surface features,23,https://content.iospress.com/articles/bio-medical-materials-and-engineering/bme1418
-Development of a nomogram combining clinical staging with 18F-FDG PET/CT image features in non-small-cell lung cancer stage I–III,32,https://link.springer.com/article/10.1007/s00259-016-3325-5
+"Mesoscopic imaging of glioblastomas: Are diffusion, perfusion and spectroscopic measures influenced by the radiogenetic phenotype?",5,http://journals.sagepub.com/doi/abs/10.1177/1971400916678225
+Computer-aided detection of lung nodules using outer surface features,28,https://content.iospress.com/articles/bio-medical-materials-and-engineering/bme1418
+Development of a nomogram combining clinical staging with 18F-FDG PET/CT image features in non-small-cell lung cancer stage I–III,34,https://link.springer.com/article/10.1007/s00259-016-3325-5
 Spatial habitats from multiparametric MR imaging are associated with signaling pathway activities and survival in glioblastoma,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5762568/
 Measurement of spiculation index in 3D for solitary pulmonary nodules in volumetric lung CT images,4,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8670/86700K/Measurement-of-spiculation-index-in-3D-for-solitary-pulmonary-nodules/10.1117/12.2006970.short
 3d texture analysis of solitary pulmonary nodules using co-occurrence matrix from volumetric lung CT images,7,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8670/867039/3D-texture-analysis-of-solitary-pulmonary-nodules-using-co-occurrence/10.1117/12.2007016.short
-Automated segmentation refinement of small lung nodules in CT scans by local shape analysis,62,https://ieeexplore.ieee.org/abstract/document/6017105/
-"Most-enhancing tumor volume by MRI radiomics predicts recurrence-free survival ""early on"" in neoadjuvant treatment of breast cancer",2,https://cancerimagingjournal.biomedcentral.com/articles/10.1186/s40644-018-0145-9
-Local Wavelet Pattern: A New Feature Descriptor for Image Retrieval in Medical CT Databases,50,https://ieeexplore.ieee.org/abstract/document/7302044/
+Automated segmentation refinement of small lung nodules in CT scans by local shape analysis,68,https://ieeexplore.ieee.org/abstract/document/6017105/
+"Most-enhancing tumor volume by MRI radiomics predicts recurrence-free survival ""early on"" in neoadjuvant treatment of breast cancer",6,https://cancerimagingjournal.biomedcentral.com/articles/10.1186/s40644-018-0145-9
+Local Wavelet Pattern: A New Feature Descriptor for Image Retrieval in Medical CT Databases,52,https://ieeexplore.ieee.org/abstract/document/7302044/
 Assessing the Effects of Software Platforms on Volumetric Segmentation of Glioblastoma,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5870135/
-Automated 3-D Tissue Segmentation Via Clustering,0,
+Automated 3-D Tissue Segmentation Via Clustering,,
 Performance Analysis of Prediction Methods for Lossless Image Compression,4,https://link.springer.com/chapter/10.1007/978-3-319-19830-9_16
 Decision forests for learning prostate cancer probability maps from multiparametric MRI,2,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9785/97851J/Decision-forests-for-learning-prostate-cancer-probability-maps-from-multiparametric/10.1117/12.2216904.short
 A Content-Based-Image-Retrieval Approach for Medical Image Repositories,2,http://www.academia.edu/download/44013881/CRPITV164el_Rifai.pdf
-Imaging genomics of glioblastoma: state of the art bridge between genomics and neuroradiology,26,https://www.neuroimaging.theclinics.com/article/S1052-5149(14)00103-8/abstract
-A Novel Hybrid Perceptron Neural Network Algorithm for Classifying Breast MRI Tumors,2,https://link.springer.com/chapter/10.1007/978-3-319-13461-1_34
+Imaging genomics of glioblastoma: state of the art bridge between genomics and neuroradiology,29,https://www.neuroimaging.theclinics.com/article/S1052-5149(14)00103-8/abstract
+A Novel Hybrid Perceptron Neural Network Algorithm for Classifying Breast MRI Tumors,3,https://link.springer.com/chapter/10.1007/978-3-319-13461-1_34
 A COMPUTER AIDED DIAGNOSIS SYSTEM FOR LUNG CANCER DETECTION USING SVM,1,http://docs.neu.edu.tr/library/6415495725.pdf
-Radiology and Enterprise Medical Imaging Extensions (REMIX),0,https://link.springer.com/article/10.1007/s10278-017-0010-6
+Radiology and Enterprise Medical Imaging Extensions (REMIX),1,https://link.springer.com/article/10.1007/s10278-017-0010-6
 Multisite Image Data Collection and Management Using the RSNA Image Sharing Network,3,https://www.transonc.com/article/S1936-5233(14)80005-3/abstract
 New prognostic factor telomerase reverse transcriptase promotor mutation presents without MR imaging biomarkers in primary glioblastoma,1,https://link.springer.com/article/10.1007/s00234-017-1920-1
-Adaptive texture energy measure method,13,https://arxiv.org/abs/1406.7075
-Computer-aided detection of Pulmonary Nodules based on SVM in thoracic CT images,9,https://ieeexplore.ieee.org/abstract/document/7288770/
-Feature fusion for lung nodule classification,0,https://link.springer.com/article/10.1007/s11548-017-1626-1
+Adaptive texture energy measure method,14,https://arxiv.org/abs/1406.7075
+Computer-aided detection of Pulmonary Nodules based on SVM in thoracic CT images,12,https://ieeexplore.ieee.org/abstract/document/7288770/
+Feature fusion for lung nodule classification,3,https://link.springer.com/article/10.1007/s11548-017-1626-1
 Hybrid intelligent approach for diagnosis of the lung nodule from CT images using spatial kernelized fuzzy c-means and ensemble learning,1,https://www.sciencedirect.com/science/article/pii/S0378475418300272
-Computational Challenges and Collaborative Projects in the NCI Quantitative Imaging Network,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5548142/
-Signal intensity analysis of ecological defined habitat in soft tissue sarcomas to predict metastasis development,5,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9785/97851H/Signal-intensity-analysis-of-ecological-defined-habitat-in-soft-tissue/10.1117/12.2216961.short
-DICOM for quantitative imaging biomarker development: a standards based approach to sharing clinical data and structured PET/CT analysis results in head and neck cancer research,15,https://peerj.com/articles/2057/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_0&utm_medium=TrendMD
-A comparison of two methods for estimating DCE-MRI parameters via individual and cohort based AIFs in prostate cancer: A step towards practical implementation,29,https://www.sciencedirect.com/science/article/pii/S0730725X14000083
+Computational Challenges and Collaborative Projects in the NCI Quantitative Imaging Network,2,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5548142/
+Signal intensity analysis of ecological defined habitat in soft tissue sarcomas to predict metastasis development,6,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9785/97851H/Signal-intensity-analysis-of-ecological-defined-habitat-in-soft-tissue/10.1117/12.2216961.short
+DICOM for quantitative imaging biomarker development: a standards based approach to sharing clinical data and structured PET/CT analysis results in head and neck cancer research,20,https://peerj.com/articles/2057/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_0&utm_medium=TrendMD
+A comparison of two methods for estimating DCE-MRI parameters via individual and cohort based AIFs in prostate cancer: A step towards practical implementation,30,https://www.sciencedirect.com/science/article/pii/S0730725X14000083
 Somatostatin Receptor Expression on VHL-Associated Hemangioblastomas Offers Novel Therapeutic Target,0,https://insights.ovid.com/neusg/201508001/00006123-201508001-00076
 HEVC optimizations for medical environments,5,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9871/98710B/HEVC-optimizations-for-medical-environments/10.1117/12.2224777.short
-Characterization of Pulmonary Nodules Based on Features of Margin Sharpness and Texture,0,https://link.springer.com/article/10.1007/s10278-017-0029-8
+Characterization of Pulmonary Nodules Based on Features of Margin Sharpness and Texture,1,https://link.springer.com/article/10.1007/s10278-017-0029-8
 LCD-OpenPACS: sistema integrado de telerradiologia com auxílio ao diagnóstico de nódulos pulmonares em exames de tomografia computadorizada,1,https://repositorio.ufrn.br/jspui/handle/123456789/20758
-Computer-aided detection (CADe) and diagnosis (CADx) system for lung cancer with likelihood of malignancy,48,https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/s12938-015-0120-7
-A radiomics model from joint FDG-PET and MRI texture features for the prediction of lung metastases in soft-tissue sarcomas of the extremities,153,http://iopscience.iop.org/article/10.1088/0031-9155/60/14/5471/meta
-Image data sharing for biomedical research—meeting HIPAA requirements for de-identification,34,https://link.springer.com/article/10.1007/s10278-011-9422-x
+Computer-aided detection (CADe) and diagnosis (CADx) system for lung cancer with likelihood of malignancy,63,https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/s12938-015-0120-7
+A radiomics model from joint FDG-PET and MRI texture features for the prediction of lung metastases in soft-tissue sarcomas of the extremities,199,http://iopscience.iop.org/article/10.1088/0031-9155/60/14/5471/meta
+Image data sharing for biomedical research—meeting HIPAA requirements for de-identification,40,https://link.springer.com/article/10.1007/s10278-011-9422-x
 Supervised Machine-Learning Framework and Classifier Evaluation for Automated Three-dimensional Medical Image Segmentation based on Body MRI,0,https://pdfs.semanticscholar.org/88cb/06f126902b4aebd0a39087743f50071b05fd.pdf
-An Improved Mammogram Classification Approach Using Back Propagation Neural Network,12,https://link.springer.com/chapter/10.1007/978-981-10-3223-3_35
-A resource for the assessment of lung nodule size estimation methods: database of thoracic CT scans of an anthropomorphic phantom,48,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3408907/
-Benefit of overlapping reconstruction for improving the quantitative assessment of CT lung nodule volume,22,https://www.sciencedirect.com/science/article/pii/S1076633212004709
+An Improved Mammogram Classification Approach Using Back Propagation Neural Network,16,https://link.springer.com/chapter/10.1007/978-981-10-3223-3_35
+A resource for the assessment of lung nodule size estimation methods: database of thoracic CT scans of an anthropomorphic phantom,50,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3408907/
+Benefit of overlapping reconstruction for improving the quantitative assessment of CT lung nodule volume,23,https://www.sciencedirect.com/science/article/pii/S1076633212004709
 Automatic Segmentation of Colon in 3D CT Images and Removal of Opacified Fluid Using Cascade Feed Forward Neural Network,5,https://www.hindawi.com/journals/cmmm/2015/670739/abs/
 Segmentation of colon and removal of opacified fluid for virtual colonoscopy,0,https://link.springer.com/article/10.1007/s10044-017-0614-y
-Glioblastoma multiforme: exploratory radiogenomic analysis by using quantitative image features,142,https://pubs.rsna.org/doi/abs/10.1148/radiol.14131731
-Glioblastoma Multiforme: Exploratory Radiogenomic Analysis by Using Quantitative Image Features,142,https://pubs.rsna.org/doi/abs/10.1148/radiol.14131731
-Non-small cell lung cancer: identifying prognostic imaging biomarkers by leveraging public gene expression microarray data--methods and preliminary results,173,https://pubs.rsna.org/doi/abs/10.1148/radiol.12111607
-Non-small cell lung cancer: identifying prognostic imaging biomarkers by leveraging public gene expression microarray data--methods and preliminary results.,173,https://pubs.rsna.org/doi/abs/10.1148/radiol.12111607
+Glioblastoma multiforme: exploratory radiogenomic analysis by using quantitative image features,151,https://pubs.rsna.org/doi/abs/10.1148/radiol.14131731
+Glioblastoma Multiforme: Exploratory Radiogenomic Analysis by Using Quantitative Image Features,151,https://pubs.rsna.org/doi/abs/10.1148/radiol.14131731
+Non-small cell lung cancer: identifying prognostic imaging biomarkers by leveraging public gene expression microarray data--methods and preliminary results,187,https://pubs.rsna.org/doi/abs/10.1148/radiol.12111607
+Non-small cell lung cancer: identifying prognostic imaging biomarkers by leveraging public gene expression microarray data--methods and preliminary results.,187,https://pubs.rsna.org/doi/abs/10.1148/radiol.12111607
 "Medical Imaging Segmentation Assessment via Bayesian Approaches to Fusion, Accuracy and Variability Estimation with Application to Head and Neck Cancer",0,http://search.proquest.com/openview/2244c6fe3f9f2bdaa6e8727040a36ca6/1?pq-origsite=gscholar&cbl=18750&diss=y
 Brain tumor detection from MRI image: An approach,0,https://pdfs.semanticscholar.org/1916/f00997b627213b46c874a9a133ee8b6fa92e.pdf
-Role of Imaging in the Era of Precision Medicine,10,https://www.sciencedirect.com/science/article/pii/S1076633217300041
-Automatic Multi-organ Segmentation on Abdominal CT with Dense V-networks,6,https://ieeexplore.ieee.org/abstract/document/8291609/
-Towards Image-Guided Pancreas and Biliary Endoscopy: Automatic Multi-organ Segmentation on Abdominal CT with Dense Dilated Networks,11,https://link.springer.com/chapter/10.1007/978-3-319-66182-7_83
-Machine Learning in Medical Imaging,140,https://ieeexplore.ieee.org/abstract/document/5484160/
-"Radiomics: Images are more than pictures, they are data",536,https://pubs.rsna.org/doi/abs/10.1148/radiol.2015151169
-Intuitive Error Space Exploration of Medical Image Data in Clinical Daily Routine,1,https://corescholar.libraries.wright.edu/cse/493/
+Role of Imaging in the Era of Precision Medicine,12,https://www.sciencedirect.com/science/article/pii/S1076633217300041
+Automatic Multi-organ Segmentation on Abdominal CT with Dense V-networks,14,https://ieeexplore.ieee.org/abstract/document/8291609/
+Towards Image-Guided Pancreas and Biliary Endoscopy: Automatic Multi-organ Segmentation on Abdominal CT with Dense Dilated Networks,14,https://link.springer.com/chapter/10.1007/978-3-319-66182-7_83
+Machine Learning in Medical Imaging,157,https://ieeexplore.ieee.org/abstract/document/5484160/
+"Radiomics: Images are more than pictures, they are data",694,https://pubs.rsna.org/doi/abs/10.1148/radiol.2015151169
+Intuitive Error Space Exploration of Medical Image Data in Clinical Daily Routine,3,https://corescholar.libraries.wright.edu/cse/493/
 DeepCADe: A Deep Learning Architecture for the Detection of Lung Nodules in CT Scans,0,https://prism.ucalgary.ca/handle/1880/106312
-Lung nodule detection in CT images using deep convolutional neural networks,20,https://ieeexplore.ieee.org/abstract/document/7727205/
-Automatic detection of pulmonary nodules in CT images by incorporating 3D tensor filtering with local image feature analysis,0,https://www.sciencedirect.com/science/article/pii/S1120179718300218
-Guest Editorial Deep Learning in Medical Imaging: Overview and Future Promise of an Exciting New Technique,314,https://ieeexplore.ieee.org/abstract/document/7463094/
-Imaging-genomics reveals driving pathways of MRI derived volumetric tumor phenotype features in Glioblastoma,18,https://bmccancer.biomedcentral.com/articles/10.1186/s12885-016-2659-5
+Lung nodule detection in CT images using deep convolutional neural networks,26,https://ieeexplore.ieee.org/abstract/document/7727205/
+Automatic detection of pulmonary nodules in CT images by incorporating 3D tensor filtering with local image feature analysis,4,https://www.sciencedirect.com/science/article/pii/S1120179718300218
+Guest Editorial Deep Learning in Medical Imaging: Overview and Future Promise of an Exciting New Technique,395,https://ieeexplore.ieee.org/abstract/document/7463094/
+Imaging-genomics reveals driving pathways of MRI derived volumetric tumor phenotype features in Glioblastoma,21,https://bmccancer.biomedcentral.com/articles/10.1186/s12885-016-2659-5
 Defining the biological and clinical basis of radiomics: towards clinical imaging biomarkers,0,https://cris.maastrichtuniversity.nl/portal/files/24774858/v5950.pdf
-Data from: Quantitative computed tomographic descriptors associate tumor shape complexity and intratumor heterogeneity with prognosis in lung adenocarcinoma,75,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118261
-Quantitative Computed Tomographic Descriptors Associate Tumor Shape Complexity and Intratumor Heterogeneity with Prognosis in Lung Adenocarcinoma,75,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118261
+Data from: Quantitative computed tomographic descriptors associate tumor shape complexity and intratumor heterogeneity with prognosis in lung adenocarcinoma,87,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118261
+Quantitative Computed Tomographic Descriptors Associate Tumor Shape Complexity and Intratumor Heterogeneity with Prognosis in Lung Adenocarcinoma,87,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118261
 Using Deep Learning for Pulmonary Nodule Detection & Diagnosis,11,https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1109&context=amcis2016
-Smooth extrapolation of unknown anatomy via statistical shape models,1,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9415/941524/Smooth-extrapolation-of-unknown-anatomy-via-statistical-shape-models/10.1117/12.2081310.short
+Smooth extrapolation of unknown anatomy via statistical shape models,2,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9415/941524/Smooth-extrapolation-of-unknown-anatomy-via-statistical-shape-models/10.1117/12.2081310.short
 User-centered design and evaluation of interactive segmentation methods for medical images,1,http://espace.etsmtl.ca/id/eprint/1959
 User-guided graph reduction for fast image segmentation,2,https://ieeexplore.ieee.org/abstract/document/7350805/
-A generalized graph reduction framework for interactive segmentation of large images,4,https://www.sciencedirect.com/science/article/pii/S107731421630056X
+A generalized graph reduction framework for interactive segmentation of large images,5,https://www.sciencedirect.com/science/article/pii/S107731421630056X
 Feature selection and patch-based segmentation in MRI for prostate radiotherapy,0,https://ieeexplore.ieee.org/abstract/document/7532842/
-Prediction of clinical phenotypes in invasive breast carcinomas from the integration of radiomics and genomics data,45,https://www.spiedigitallibrary.org/journals/Journal-of-Medical-Imaging/volume-2/issue-4/041007/Prediction-of-clinical-phenotypes-in-invasive-breast-carcinomas-from-the/10.1117/1.JMI.2.4.041007.short
+Prediction of clinical phenotypes in invasive breast carcinomas from the integration of radiomics and genomics data,57,https://www.spiedigitallibrary.org/journals/Journal-of-Medical-Imaging/volume-2/issue-4/041007/Prediction-of-clinical-phenotypes-in-invasive-breast-carcinomas-from-the/10.1117/1.JMI.2.4.041007.short
 A tool for lung nodules analysis based on segmentation and morphological operation,4,https://ieeexplore.ieee.org/abstract/document/7139186/
 Brain Tumor Detection using Curvelet Transform and Support Vector Machine,8,http://www.academia.edu/download/33584825/V3I4201499b61.pdf
-Appropriate Contrast Enhancement Measures for Brain and Breast Cancer Images,7,https://www.hindawi.com/journals/ijbi/2016/4710842/abs/
-MR Imaging Predictors of Molecular Profile and Survival: Multi-institutional Study of the TCGA Glioblastoma Data Set,198,https://pubs.rsna.org/doi/abs/10.1148/radiol.13120118
-Cancer Digital Slide Archive: an informatics resource to support integrated in silico analysis of TCGA pathology data,61,https://academic.oup.com/jamia/article-abstract/20/6/1091/703483
-MR Imaging Predictors of Molecular Profile and Survival: Multi-institutional Study of the TCGA Glioblastoma Data Set,198,https://pubs.rsna.org/doi/abs/10.1148/radiol.13120118
+Appropriate Contrast Enhancement Measures for Brain and Breast Cancer Images,10,https://www.hindawi.com/journals/ijbi/2016/4710842/abs/
+MR Imaging Predictors of Molecular Profile and Survival: Multi-institutional Study of the TCGA Glioblastoma Data Set,217,https://pubs.rsna.org/doi/abs/10.1148/radiol.13120118
+Cancer Digital Slide Archive: an informatics resource to support integrated in silico analysis of TCGA pathology data,70,https://academic.oup.com/jamia/article-abstract/20/6/1091/703483
+MR Imaging Predictors of Molecular Profile and Survival: Multi-institutional Study of the TCGA Glioblastoma Data Set,217,https://pubs.rsna.org/doi/abs/10.1148/radiol.13120118
 "Web based tools for visualizing imaging data and development of XNATView, a zero footprint image viewer",12,https://www.frontiersin.org/articles/10.3389/fninf.2014.00053
-Somatic mutations associated with MRI-derived volumetric features in glioblastoma,42,https://link.springer.com/article/10.1007/s00234-015-1576-7
+Somatic mutations associated with MRI-derived volumetric features in glioblastoma,45,https://link.springer.com/article/10.1007/s00234-015-1576-7
 OPTIMISING DELINEATION ACCURACY OF TUMOURS IN PET FOR RADIOTHERAPY PLANNING USING BLIND DECONVOLUTION,3,https://academic.oup.com/rpd/article-abstract/165/1-4/495/1603270
 Vector quantization-based automatic detection of pulmonary nodules in thoracic CT images,8,https://ieeexplore.ieee.org/abstract/document/6829365/
 A novel computer-aided detection system for pulmonary nodule identification in CT images,5,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9035/90352D/A-novel-computer-aided-detection-system-for-pulmonary-nodule-identification/10.1117/12.2043964.short
-MRI to MGMT: predicting methylation status in glioblastoma patients using convolutional recurrent neural networks,3,https://www.worldscientific.com/doi/pdf/10.1142/9789813235533_0031
+MRI to MGMT: predicting methylation status in glioblastoma patients using convolutional recurrent neural networks,5,https://www.worldscientific.com/doi/pdf/10.1142/9789813235533_0031
 Predictive capabilities of statistical learning methods for lung nodule malignancy classification using diagnostic image features: an investigation using the Lung Image Database Consortium dataset,0,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10134/1013425/Predictive-capabilities-of-statistical-learning-methods-for-lung-nodule-malignancy/10.1117/12.2254446.short
 SU-E-J-98: Radiogenomics: Correspondence Between Imaging and Genetic Features Based On Clustering Analysis,0,https://aapm.onlinelibrary.wiley.com/doi/abs/10.1118/1.4888150
-Multiparametric MRI of prostate cancer: An update on state‐of‐the‐art techniques and their performance in detecting and localizing prostate cancer,154,https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.23860
+Multiparametric MRI of prostate cancer: An update on state‐of‐the‐art techniques and their performance in detecting and localizing prostate cancer,164,https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.23860
 Quantitative Radiology: Applications to Oncology,1,https://www.sciencedirect.com/science/article/pii/B978012411638200001X
 Design of a Patient-Specific Radiotherapy Treatment Target,3,https://ieeexplore.ieee.org/abstract/document/6574412/
 Approaches to uncovering cancer diagnostic and prognostic molecular signatures,2,https://www.tandfonline.com/doi/abs/10.4161/23723548.2014.957981
-"Publishing descriptions of non-public clinical datasets: proposed guidance for researchers, repositories, editors and funding organisations",7,https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-016-0015-6
-Quantitative glioma grading using transformed gray-scale invariant textures of MRI,5,https://www.sciencedirect.com/science/article/pii/S0010482517300495
-Computer-aided grading of gliomas based on local and global MRI features,10,https://www.sciencedirect.com/science/article/pii/S0169260716303406
-Computer-aided grading of gliomas based on local and global MRI features,10,https://www.sciencedirect.com/science/article/pii/S0169260716303406
-Effect of a computer-aided diagnosis system on radiologists' performance in grading gliomas with MRI,2,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171342
+"Publishing descriptions of non-public clinical datasets: proposed guidance for researchers, repositories, editors and funding organisations",8,https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-016-0015-6
+Quantitative glioma grading using transformed gray-scale invariant textures of MRI,8,https://www.sciencedirect.com/science/article/pii/S0010482517300495
+Computer-aided grading of gliomas based on local and global MRI features,13,https://www.sciencedirect.com/science/article/pii/S0169260716303406
+Computer-aided grading of gliomas based on local and global MRI features,13,https://www.sciencedirect.com/science/article/pii/S0169260716303406
+Effect of a computer-aided diagnosis system on radiologists' performance in grading gliomas with MRI,4,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171342
 A neural network approach to lung nodule segmentation,1,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9784/97842O/A-neural-network-approach-to-lung-nodule-segmentation/10.1117/12.2217291.short
-The Path from Big Data to Precision Medicine,15,https://www.tandfonline.com/doi/abs/10.1080/23808993.2016.1157686
+The Path from Big Data to Precision Medicine,17,https://www.tandfonline.com/doi/abs/10.1080/23808993.2016.1157686
 Image Super-Resolution Algorithm Based on an Improved Sparse Autoencoder,0,https://www.mdpi.com/2078-2489/9/1/11
-The Study on Data Hiding in Medical Images,22,http://ijns.jalaxy.com.tw/contents/ijns-v14-n6/ijns-2012-v14-n6-p301-309.pdf
-A reversible data hiding method by histogram shifting in high quality medical images,56,https://www.sciencedirect.com/science/article/pii/S0164121212003172
-The Impact of Arterial Input Function Determination Variations on Prostate Dynamic Contrast-Enhanced Magnetic Resonance Imaging Pharmacokinetic Modeling: A Multicenter Data Analysis Challenge,18,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4869732/
-Variations of dynamic contrast-enhanced magnetic resonance imaging in evaluation of breast cancer therapy response: a multicenter data analysis challenge,57,https://www.sciencedirect.com/science/article/pii/S1936523314800193
-Variations of dynamic contrast-enhanced magnetic resonance imaging in evaluation of breast cancer therapy response: a multicenter data analysis challenge,57,https://www.sciencedirect.com/science/article/pii/S1936523314800193
-A longitudinal four‐dimensional computed tomography and cone beam computed tomography dataset for image‐guided radiation therapy research in lung cancer,5,https://onlinelibrary.wiley.com/doi/abs/10.1002/mp.12059
+The Study on Data Hiding in Medical Images,25,http://ijns.jalaxy.com.tw/contents/ijns-v14-n6/ijns-2012-v14-n6-p301-309.pdf
+A reversible data hiding method by histogram shifting in high quality medical images,60,https://www.sciencedirect.com/science/article/pii/S0164121212003172
+The Impact of Arterial Input Function Determination Variations on Prostate Dynamic Contrast-Enhanced Magnetic Resonance Imaging Pharmacokinetic Modeling: A Multicenter Data Analysis Challenge,21,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4869732/
+Variations of dynamic contrast-enhanced magnetic resonance imaging in evaluation of breast cancer therapy response: a multicenter data analysis challenge,60,https://www.sciencedirect.com/science/article/pii/S1936523314800193
+Variations of dynamic contrast-enhanced magnetic resonance imaging in evaluation of breast cancer therapy response: a multicenter data analysis challenge,60,https://www.sciencedirect.com/science/article/pii/S1936523314800193
+A longitudinal four‐dimensional computed tomography and cone beam computed tomography dataset for image‐guided radiation therapy research in lung cancer,8,https://onlinelibrary.wiley.com/doi/abs/10.1002/mp.12059
 Radiomics of NSCLC: Quantitative CT Image Feature Characterization and Tumor Shrinkage Prediction,4,https://pdfs.semanticscholar.org/123e/aa9b804e7367aa25e882a505ed611b2bee5e.pdf
 Collage CNN for Renal Cell Carcinoma Detection from CT,0,https://link.springer.com/chapter/10.1007/978-3-319-67389-9_27
-Advanced MRI Techniques in the Monitoring of Treatment of Gliomas,10,https://link.springer.com/article/10.1007/s11940-017-0445-6
-Brain tumor segmentation in multi‐spectral MRI using convolutional neural networks (CNN),1,https://onlinelibrary.wiley.com/doi/abs/10.1002/jemt.22994
-Magnetic resonance image features identify glioblastoma phenotypic subtypes with distinct molecular pathway activities,75,http://stm.sciencemag.org/content/7/303/303ra138.short
-imaging and Genomics: is there a synergy?,31,https://pubs.rsna.org/doi/full/10.1148/radiol.12120871
-Quantitative imaging in radiation oncology: An emerging science and clinical service,8,https://www.sciencedirect.com/science/article/pii/S1053429615000557
-Genomic mapping and survival prediction in glioblastoma: molecular subclassification strengthened by hemodynamic imaging biomarkers,94,https://pubs.rsna.org/doi/abs/10.1148/radiol.12120846
-Correlation of perfusion parameters with genes related to angiogenesis regulation in glioblastoma: a feasibility study,38,http://www.ajnr.org/content/early/2012/03/15/ajnr.A2956.abstract
-"Outcome prediction in patients with glioblastoma by using imaging, clinical, and genomic biomarkers: focus on the nonenhancing component of the tumor",77,https://pubs.rsna.org/doi/abs/10.1148/radiol.14131691
-"Outcome Prediction in Patients with Glioblastoma by Using Imaging, Clinical, and Genomic Biomarkers: Focus on the Nonenhancing Component of the Tumor",77,https://pubs.rsna.org/doi/abs/10.1148/radiol.14131691
+Advanced MRI Techniques in the Monitoring of Treatment of Gliomas,11,https://link.springer.com/article/10.1007/s11940-017-0445-6
+Brain tumor segmentation in multi‐spectral MRI using convolutional neural networks (CNN),8,https://onlinelibrary.wiley.com/doi/abs/10.1002/jemt.22994
+Magnetic resonance image features identify glioblastoma phenotypic subtypes with distinct molecular pathway activities,90,http://stm.sciencemag.org/content/7/303/303ra138.short
+imaging and Genomics: is there a synergy?,36,https://pubs.rsna.org/doi/full/10.1148/radiol.12120871
+Quantitative imaging in radiation oncology: An emerging science and clinical service,9,https://www.sciencedirect.com/science/article/pii/S1053429615000557
+Genomic mapping and survival prediction in glioblastoma: molecular subclassification strengthened by hemodynamic imaging biomarkers,99,https://pubs.rsna.org/doi/abs/10.1148/radiol.12120846
+Correlation of perfusion parameters with genes related to angiogenesis regulation in glioblastoma: a feasibility study,39,http://www.ajnr.org/content/early/2012/03/15/ajnr.A2956.abstract
+"Outcome prediction in patients with glioblastoma by using imaging, clinical, and genomic biomarkers: focus on the nonenhancing component of the tumor",86,https://pubs.rsna.org/doi/abs/10.1148/radiol.14131691
+"Outcome Prediction in Patients with Glioblastoma by Using Imaging, Clinical, and Genomic Biomarkers: Focus on the Nonenhancing Component of the Tumor",86,https://pubs.rsna.org/doi/abs/10.1148/radiol.14131691
 Integrative analysis of diffusion-weighted MRI and genomic data to inform treatment of glioblastoma,4,https://link.springer.com/article/10.1007/s11060-016-2174-1
 Integrating Open Data on Cancer in Support to Tumor Growth Analysis,10,https://link.springer.com/chapter/10.1007/978-3-319-43949-5_4
 Lung nodule detection from CT scans using 3D convolutional neural networks without candidate selection,0,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10575/1057539/Lung-nodule-detection-from-CT-scans-using-3D-convolutional-neural/10.1117/12.2293918.short
-Analysis of Vestibular Labyrinthine Geometry and Variation in the Human Temporal Bone,1,https://www.frontiersin.org/articles/10.3389/fnins.2018.00107
+Analysis of Vestibular Labyrinthine Geometry and Variation in the Human Temporal Bone,4,https://www.frontiersin.org/articles/10.3389/fnins.2018.00107
 Interactive 3D Virtual Colonoscopic Navigation For Polyp Detection From CT Images,0,https://www.sciencedirect.com/science/article/pii/S1877050917319245
-Cloud-based NoSQL open database of pulmonary nodules for computer-aided lung cancer diagnosis and reproducible research,11,https://link.springer.com/article/10.1007/s10278-016-9894-9
-Quantitative Imaging Network: Data Sharing and Competitive AlgorithmValidation Leveraging The Cancer Imaging Archive,25,https://www.transonc.com/article/S1936-5233(14)80018-1/abstract
-Radiomics of Lung Nodules: A Multi-Institutional Study of Robustness and Agreement of Quantitative Imaging Features,12,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5279995/
-Radiomics of Lung Nodules: A Multi-Institutional Study of Robustness and Agreement of Quantitative Imaging Features,12,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5279995/
-QIN multi-site collection of Lung CT data with Nodule Segmentations,2,
-A Comparison of Lung Nodule Segmentation Algorithms: Methods and Results from a Multi-institutional Study,12,https://link.springer.com/article/10.1007/s10278-016-9859-z
-A low cost approach for brain tumor segmentation based on intensity modeling and 3D Random Walker,12,https://www.sciencedirect.com/science/article/pii/S1746809415001068
-Learning MRI-based classification models for MGMT methylation status prediction in glioblastoma,14,https://www.sciencedirect.com/science/article/pii/S0169260716304138
-3D multi-view convolutional neural networks for lung nodule classification,2,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188290
-Public data and open source tools for multi-assay genomic investigation of disease,26,https://academic.oup.com/bib/article-abstract/17/4/603/2240591
+Cloud-based NoSQL open database of pulmonary nodules for computer-aided lung cancer diagnosis and reproducible research,14,https://link.springer.com/article/10.1007/s10278-016-9894-9
+Quantitative Imaging Network: Data Sharing and Competitive AlgorithmValidation Leveraging The Cancer Imaging Archive,26,https://www.transonc.com/article/S1936-5233(14)80018-1/abstract
+Radiomics of Lung Nodules: A Multi-Institutional Study of Robustness and Agreement of Quantitative Imaging Features,19,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5279995/
+Radiomics of Lung Nodules: A Multi-Institutional Study of Robustness and Agreement of Quantitative Imaging Features,19,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5279995/
+QIN multi-site collection of Lung CT data with Nodule Segmentations,,
+A Comparison of Lung Nodule Segmentation Algorithms: Methods and Results from a Multi-institutional Study,18,https://link.springer.com/article/10.1007/s10278-016-9859-z
+A low cost approach for brain tumor segmentation based on intensity modeling and 3D Random Walker,15,https://www.sciencedirect.com/science/article/pii/S1746809415001068
+Learning MRI-based classification models for MGMT methylation status prediction in glioblastoma,16,https://www.sciencedirect.com/science/article/pii/S0169260716304138
+3D multi-view convolutional neural networks for lung nodule classification,7,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188290
+Public data and open source tools for multi-assay genomic investigation of disease,28,https://academic.oup.com/bib/article-abstract/17/4/603/2240591
 Radiogenomic correlation for prognosis in patients with glioblastoma multiformae,0,http://sdsu-dspace.calstate.edu/handle/10211.10/4329
 Identification of Tumor area from Brain MR Image,1,https://ieeexplore.ieee.org/abstract/document/7495863/
 Mediator: A data sharing synchronization platform for heterogeneous medical image archives,4,https://www.researchgate.net/profile/Pradeeban_Kathiravelu/publication/280925169_MEDIator_A_Data_Sharing_Synchronization_Platform_for_Heterogeneous_Medical_Image_Archives/links/55cb9d8308aeca747d6c1f09/MEDIator-A-Data-Sharing-Synchronization-Platform-for-Heterogeneous-Medical-Image-Archives.pdf
 """Radiotranscriptomics"": A synergy of imaging and transcriptomics in clinical assessment",3,https://link.springer.com/article/10.1007/s40484-016-0061-6
 A joint intensity and edge magnitude-based multilevel thresholding algorithm for the automatic segmentation of pathological MR brain images,1,https://link.springer.com/article/10.1007/s00521-016-2751-4
 Radiological Atlas for Patient Specific Model Generation,11,https://link.springer.com/content/pdf/10.1007/978-3-319-06596-0_7.pdf
-Supervised Dimension-Reduction Methods for Brain Tumor Image Data Analysis,0,https://link.springer.com/chapter/10.1007/978-981-10-0126-0_24
+Supervised Dimension-Reduction Methods for Brain Tumor Image Data Analysis,1,https://link.springer.com/chapter/10.1007/978-981-10-0126-0_24
 eFis: A Fuzzy Inference Method for Predicting Malignancy of Small Pulmonary Nodules,3,https://link.springer.com/10.1007/978-3-319-11755-3_29
 Malignancy prediction by using characteristic-based fuzzy sets: A preliminary study,0,https://ieeexplore.ieee.org/abstract/document/7338041/
 Computer-aided detection of brain tumors using image processing techniques,3,https://ieeexplore.ieee.org/abstract/document/7129966/
-Preliminary Detection and Analysis of Lung Cancer on CT images using MATLAB: A Cost-effective Alternative,1,
+Preliminary Detection and Analysis of Lung Cancer on CT images using MATLAB: A Cost-effective Alternative,,
 Associations between gene expression profiles of invasive breast cancer and Breast Imaging Reporting and Data System MRI lexicon,3,https://synapse.koreamed.org/search.php?where=aview&id=10.4174/astr.2017.93.1.18&code=6037ASTR&vmode=FULL
-Modification of population based arterial input function to incorporate individual variation,1,https://www.sciencedirect.com/science/article/pii/S0730725X17302035
+Modification of population based arterial input function to incorporate individual variation,2,https://www.sciencedirect.com/science/article/pii/S0730725X17302035
 Creation and Curation of the Society of Imaging Informatics in Medicine Hackathon Dataset,4,https://link.springer.com/article/10.1007/s10278-017-0003-5
 Creation and curation of the society of imaging informatics in Medicine Hackathon Dataset,4,https://link.springer.com/article/10.1007/s10278-017-0003-5
-Automated Segmentation of Hyperintense Regions in FLAIR MRI Using Deep Learning,11,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5215737/
-Radiomics in Brain Tumors: An Emerging Technique for Characterization of Tumor Environment,16,https://www.mri.theclinics.com/article/S1064-9689(16)30046-0/abstract
-The quest for'diagnostically lossless' medical image compression: a comparative study of objective quality metrics for compressed medical images,21,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9037/903717/The-quest-for-diagnostically-lossless-medical-image-compression--a/10.1117/12.2043196.short
-"Performance Analysis of Denoising in MR Images with Double Density Dual Tree Complex Wavelets, Curvelets and NonSubsampled Contourlet Transforms",1,
-Three-dimensional lung nodule segmentation and shape variance analysis to detect lung cancer with reduced false positives,14,http://journals.sagepub.com/doi/abs/10.1177/0954411915619951
+Automated Segmentation of Hyperintense Regions in FLAIR MRI Using Deep Learning,16,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5215737/
+Radiomics in Brain Tumors: An Emerging Technique for Characterization of Tumor Environment,20,https://www.mri.theclinics.com/article/S1064-9689(16)30046-0/abstract
+The quest for'diagnostically lossless' medical image compression: a comparative study of objective quality metrics for compressed medical images,22,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9037/903717/The-quest-for-diagnostically-lossless-medical-image-compression--a/10.1117/12.2043196.short
+"Performance Analysis of Denoising in MR Images with Double Density Dual Tree Complex Wavelets, Curvelets and NonSubsampled Contourlet Transforms",,
+Three-dimensional lung nodule segmentation and shape variance analysis to detect lung cancer with reduced false positives,17,http://journals.sagepub.com/doi/abs/10.1177/0954411915619951
 An Level Set Evolution Morphology Based Segmentation of Lung Nodules and False Nodule Elimination by 3D Centroid Shift and Frequency Domain DC Constant Analysis,0,https://www.researchgate.net/profile/Senthilkumar_Krishnamurthy2/publication/310740859_An_Level_Set_Evolution_Morphology_Based_Segmentation_of_Lung_Nodules_and_False_Nodule_Elimination_by_3D_Centroid_Shift_and_Frequency_Domain_DC_Constant_Analysis/links/58689f2b08ae8fce4915cad5/An-Level-Set-Evolution-Morphology-Based-Segmentation-of-Lung-Nodules-and-False-Nodule-Elimination-by-3D-Centroid-Shift-and-Frequency-Domain-DC-Constant-Analysis.pdf
-Content-Based Medical Image Retrieval: A Survey of Applications to Multidimensional and Multimodality Data,102,https://link.springer.com/article/10.1007/s10278-013-9619-2
-A Visual Analytics Approach using the Exploration of Multi-Dimensional Feature Spaces for Content-based Medical Image Retrieval,10,https://ieeexplore.ieee.org/abstract/document/6915841/
-Discovery Radiomics for Computed Tomography Cancer Detection,19,
-Lung Nodule Classification Using Deep Features in CT Images,88,https://ieeexplore.ieee.org/abstract/document/7158331/
+Content-Based Medical Image Retrieval: A Survey of Applications to Multidimensional and Multimodality Data,109,https://link.springer.com/article/10.1007/s10278-013-9619-2
+A Visual Analytics Approach using the Exploration of Multi-Dimensional Feature Spaces for Content-based Medical Image Retrieval,13,https://ieeexplore.ieee.org/abstract/document/6915841/
+Discovery Radiomics for Computed Tomography Cancer Detection,,
+Lung Nodule Classification Using Deep Features in CT Images,114,https://ieeexplore.ieee.org/abstract/document/7158331/
 Human Ether-a-Go-Go-Related-1 Gene (hERG) K+ Channel as a Prognostic Marker and Therapeutic Target for Glioblastoma,0,https://academic.oup.com/neurosurgery/article-abstract/62/CN_suppl_1/210/2595674
-Combining Generative Models for Multifocal Glioma Segmentation and Registration,49,https://link.springer.com/chapter/10.1007/978-3-319-10404-1_95
+Combining Generative Models for Multifocal Glioma Segmentation and Registration,55,https://link.springer.com/chapter/10.1007/978-3-319-10404-1_95
 Textural Analysis of Tumour Imaging: A Radiomics Approach,0,https://lib.ugent.be/fulltxt/RUG01/002/367/219/RUG01-002367219_2017_0001_AC.pdf
-A simple texture feature for retrieval of medical images,0,https://link.springer.com/content/pdf/10.1007/s11042-017-5341-2.pdf
+A simple texture feature for retrieval of medical images,2,https://link.springer.com/content/pdf/10.1007/s11042-017-5341-2.pdf
 "Collaborative and Reproducible Research: Goals, Challenges, and Strategies",1,https://link.springer.com/10.1007/s10278-017-0043-x
-A Deep Learning-Based Radiomics Model for Prediction of Survival in Glioblastoma Multiforme,17,https://www.nature.com/articles/s41598-017-10649-8
-4DCT imaging to assess radiomics feature stability: An investigation for thoracic cancers,4,https://www.sciencedirect.com/science/article/pii/S0167814017324829
-Robust semi-automatic segmentation of pulmonary subsolid nodules in chest computed tomography scans,19,http://iopscience.iop.org/article/10.1088/0031-9155/60/3/1307/meta
+A Deep Learning-Based Radiomics Model for Prediction of Survival in Glioblastoma Multiforme,32,https://www.nature.com/articles/s41598-017-10649-8
+4DCT imaging to assess radiomics feature stability: An investigation for thoracic cancers,7,https://www.sciencedirect.com/science/article/pii/S0167814017324829
+Robust semi-automatic segmentation of pulmonary subsolid nodules in chest computed tomography scans,25,http://iopscience.iop.org/article/10.1088/0031-9155/60/3/1307/meta
 Discrimination of Benign and Malignant Suspicious BreastTumors Based on Semi-Quantitative DCE-MRI ParametersEmploying Support Vector Machine,4,http://fbt.tums.ac.ir/index.php/fbt/article/view/49
-Automatic Prostate Cancer Segmentation Using Kinetic Analysis in Dynamic Contrast-Enhanced MRI,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5928300/
-Automatic Prostate Cancer Segmentation Using Kinetic Analysis in Dynamic Contrast-Enhanced MRI,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5928300/
-Liver Tumor Segmentation from MR Images Using 3D Fast Marching Algorithm and Single Hidden Layer Feedforward Neural Network,4,https://www.hindawi.com/journals/bmri/2016/3219068/abs/
+Automatic Prostate Cancer Segmentation Using Kinetic Analysis in Dynamic Contrast-Enhanced MRI,0,https://www.sid.ir/En/Journal/ViewPaper.aspx?ID=570566
+Automatic Prostate Cancer Segmentation Using Kinetic Analysis in Dynamic Contrast-Enhanced MRI,0,https://www.sid.ir/En/Journal/ViewPaper.aspx?ID=570566
+Liver Tumor Segmentation from MR Images Using 3D Fast Marching Algorithm and Single Hidden Layer Feedforward Neural Network,5,https://www.hindawi.com/journals/bmri/2016/3219068/abs/
 Comparison of novel multi-level Otsu (MO-PET) and conventional PET segmentation methods for measuring FDG metabolic tumor volume in patients with soft tissue sarcoma,0,https://ejnmmiphys.springeropen.com/articles/10.1186/s40658-017-0189-0
 Prognostic value and molecular correlates of a CT image-based quantitative pleural contact index in early stage NSCLC,3,https://link.springer.com/article/10.1007/s00330-017-4996-4
-Texture feature ratios from relative CBV maps of perfusion MRI are associated with patient survival in glioblastoma,21,http://www.ajnr.org/content/early/2015/10/15/ajnr.A4534.abstract
-Spatial Habitat Features Derived from Multiparametric Magnetic Resonance Imaging Data Are Associated with Molecular Subtype and 12-Month Survival Status in Glioblastoma Multiforme,13,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136557
-Associating spatial diversity features of radiologically defined tumor habitats with epidermal growth factor receptor driver status and 12-month survival in glioblastoma: methods and preliminary investigation,13,https://www.spiedigitallibrary.org/journals/Journal-of-Medical-Imaging/volume-2/issue-4/041006/Associating-spatial-diversity-features-of-radiologically-defined-tumor-habitats-with/10.1117/1.JMI.2.4.041006.short
-Spatiotemporal genomic architecture informs precision oncology in glioblastoma,33,https://www.nature.com/ng/journal/v49/n4/abs/ng.3806.html
-Quality of Radiomic Features in Glioblastoma Multiforme: Impact of Semi-Automated Tumor Segmentation Software,3,https://synapse.koreamed.org/search.php?where=aview&id=10.3348/kjr.2017.18.3.498&code=0068KJR&vmode=FULL
+Texture feature ratios from relative CBV maps of perfusion MRI are associated with patient survival in glioblastoma,27,http://www.ajnr.org/content/37/1/37.short
+Spatial Habitat Features Derived from Multiparametric Magnetic Resonance Imaging Data Are Associated with Molecular Subtype and 12-Month Survival Status in Glioblastoma Multiforme,14,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136557
+Associating spatial diversity features of radiologically defined tumor habitats with epidermal growth factor receptor driver status and 12-month survival in glioblastoma: methods and preliminary investigation,15,https://www.spiedigitallibrary.org/journals/Journal-of-Medical-Imaging/volume-2/issue-4/041006/Associating-spatial-diversity-features-of-radiologically-defined-tumor-habitats-with/10.1117/1.JMI.2.4.041006.short
+Spatiotemporal genomic architecture informs precision oncology in glioblastoma,45,https://www.nature.com/ng/journal/v49/n4/abs/ng.3806.html
+Quality of Radiomic Features in Glioblastoma Multiforme: Impact of Semi-Automated Tumor Segmentation Software,7,https://synapse.koreamed.org/search.php?where=aview&id=10.3348/kjr.2017.18.3.498&code=0068KJR&vmode=FULL
 High-dimensional regression analysis links magnetic resonance imaging features and protein expression and signaling pathway alterations in breast invasive carcinoma,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5854291/
 Multiple-response regression analysis links magnetic resonance imaging features to de-regulated protein expression and pathway activity in lower grade glioma,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5538849/
-Informatics methods to enable sharing of quantitative imaging research data,11,https://www.sciencedirect.com/science/article/pii/S0730725X12001774
-Automated Segmentation of Prostate MR Images Using Prior Knowledge Enhanced Random Walker,7,https://ieeexplore.ieee.org/abstract/document/6691485/
-"MR Imaging Radiomics Signatures for Predicting the Risk of Breast Cancer Recurrence as Given by Research Versions of MammaPrint, Oncotype DX, and PAM50 Gene Assays",82,https://pubs.rsna.org/doi/abs/10.1148/radiol.2016152110
-Quantitative MRI radiomics in the prediction of molecular classifications of breast cancer subtypes in the TCGA/TCIA data set,49,https://www.nature.com/articles/npjbcancer201612
-Patient-specific biomechanical model as whole-body CT image registration tool,14,https://www.sciencedirect.com/science/article/pii/S1361841515000158
-Biomechanical model for computing deformations for whole‐body image registration: A meshless approach,11,https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.2771
-A Fully-Automatic Multiparametric Radiomics Model: Towards Reproducible and Prognostic Imaging Signature for Prediction of Overall Survival in Glioblastoma Multiforme,5,https://www.nature.com/articles/s41598-017-14753-7
-Comparison Between Radiological Semantic Features and Lung-RADS in Predicting Malignancy of Screen-Detected Lung Nodules in the National Lung Screening Trial,1,https://www.sciencedirect.com/science/article/pii/S1525730417302760
-Genotype prediction of ATRX mutation in lower-grade gliomas using an MRI radiomics signature,0,https://link.springer.com/article/10.1007/s00330-017-5267-0
-Large-scale retrieval for medical image analytics: A comprehensive review,15,https://www.sciencedirect.com/science/article/pii/S136184151730138X
-Evaluate the Malignancy of Pulmonary Nodules Using the 3D Deep Leaky Noisy-or Network,8,https://arxiv.org/abs/1711.08324
-Promises and challenges for the implementation of computational medical imaging (radiomics) in oncology,31,https://academic.oup.com/annonc/article-abstract/28/6/1191/2972138
-High-resolution anatomic correlation of cyclic motor patterns in the human colon: Evidence of a rectosigmoid brake,10,https://www.physiology.org/doi/abs/10.1152/ajpgi.00021.2017
+Informatics methods to enable sharing of quantitative imaging research data,12,https://www.sciencedirect.com/science/article/pii/S0730725X12001774
+Automated Segmentation of Prostate MR Images Using Prior Knowledge Enhanced Random Walker,9,https://ieeexplore.ieee.org/abstract/document/6691485/
+"MR Imaging Radiomics Signatures for Predicting the Risk of Breast Cancer Recurrence as Given by Research Versions of MammaPrint, Oncotype DX, and PAM50 Gene Assays",103,https://pubs.rsna.org/doi/abs/10.1148/radiol.2016152110
+Quantitative MRI radiomics in the prediction of molecular classifications of breast cancer subtypes in the TCGA/TCIA data set,63,https://www.nature.com/articles/npjbcancer201612
+Patient-specific biomechanical model as whole-body CT image registration tool,15,https://www.sciencedirect.com/science/article/pii/S1361841515000158
+Biomechanical model for computing deformations for whole‐body image registration: A meshless approach,13,https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.2771
+A Fully-Automatic Multiparametric Radiomics Model: Towards Reproducible and Prognostic Imaging Signature for Prediction of Overall Survival in Glioblastoma Multiforme,9,https://www.nature.com/articles/s41598-017-14753-7
+Comparison Between Radiological Semantic Features and Lung-RADS in Predicting Malignancy of Screen-Detected Lung Nodules in the National Lung Screening Trial,3,https://www.sciencedirect.com/science/article/pii/S1525730417302760
+Genotype prediction of ATRX mutation in lower-grade gliomas using an MRI radiomics signature,2,https://link.springer.com/article/10.1007/s00330-017-5267-0
+Large-scale retrieval for medical image analytics: A comprehensive review,23,https://www.sciencedirect.com/science/article/pii/S136184151730138X
+Evaluate the Malignancy of Pulmonary Nodules Using the 3D Deep Leaky Noisy-or Network,15,https://arxiv.org/abs/1711.08324
+Promises and challenges for the implementation of computational medical imaging (radiomics) in oncology,49,https://academic.oup.com/annonc/article-abstract/28/6/1191/2972138
+High-resolution anatomic correlation of cyclic motor patterns in the human colon: Evidence of a rectosigmoid brake,12,https://www.physiology.org/doi/abs/10.1152/ajpgi.00021.2017
 Normalized Euclidean Super-Pixels for Medical Image Segmentation,0,https://link.springer.com/chapter/10.1007/978-3-319-63315-2_51
-The Current Role of Image Compression Standards in Medical Imaging,3,https://www.mdpi.com/2078-2489/8/4/131
-Computational Identification of Tumor Anatomic Location Associated with Survival in 2 Large Cohorts of Human Primary Glioblastomas,5,http://www.ajnr.org/content/early/2016/01/07/ajnr.A4631.abstract
-Magnetic resonance perfusion image features uncover an angiogenic subgroup of glioblastoma patients with poor survival and better response to antiangiogenic treatment,11,https://academic.oup.com/neuro-oncology/article-abstract/19/7/997/2729979
-A CADe system for nodule detection in thoracic CT images based on artificial neural network,10,https://link.springer.com/article/10.1007/s11432-016-9008-0
+The Current Role of Image Compression Standards in Medical Imaging,4,https://www.mdpi.com/2078-2489/8/4/131
+Computational Identification of Tumor Anatomic Location Associated with Survival in 2 Large Cohorts of Human Primary Glioblastomas,6,http://www.ajnr.org/content/early/2016/01/07/ajnr.A4631.abstract
+Magnetic resonance perfusion image features uncover an angiogenic subgroup of glioblastoma patients with poor survival and better response to antiangiogenic treatment,15,https://academic.oup.com/neuro-oncology/article-abstract/19/7/997/2729979
+A CADe system for nodule detection in thoracic CT images based on artificial neural network,11,https://link.springer.com/article/10.1007/s11432-016-9008-0
 A Genetic Polymorphism in CTLA-4 Is Associated with Overall Survival in Sunitinib-Treated Patients with Clear Cell Metastatic Renal Cell Carcinoma,0,http://clincancerres.aacrjournals.org/content/early/2018/02/28/1078-0432.CCR-17-2815.abstract
-Relationship between Glioblastoma Heterogeneity and Survival Time: An MR Imaging Texture Analysis,5,http://www.ajnr.org/content/38/9/1695.abstract
+Relationship between Glioblastoma Heterogeneity and Survival Time: An MR Imaging Texture Analysis,8,http://www.ajnr.org/content/38/9/1695.abstract
 Effect of Imaging Parameter Thresholds on MRI Prediction of Neoadjuvant Chemotherapy Response in Breast Cancer Subtypes,7,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142047
-Machine Learning-Based Radiomics for Molecular Subtyping of Gliomas,0,http://clincancerres.aacrjournals.org/content/early/2018/05/22/1078-0432.CCR-17-3445.abstract
+Machine Learning-Based Radiomics for Molecular Subtyping of Gliomas,1,http://clincancerres.aacrjournals.org/content/early/2018/05/22/1078-0432.CCR-17-3445.abstract
 vPSNR: a visualization-aware image fidelity metric tailored for diagnostic imaging,0,https://link.springer.com/article/10.1007/s11548-012-0792-4
-Automatic lung nodule classification with radiomics approach,8,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9789/978906/Automatic-lung-nodule-classification-with-radiomics-approach/10.1117/12.2220768.short
-Automatic Classification of Normal and Cancer Lung CT Images Using Multiscale AM-FM Features,4,https://dl.acm.org/citation.cfm?id=2929798
-Lung Cancer Detection using CT Scan Images,2,https://www.sciencedirect.com/science/article/pii/S1877050917327801
+Automatic lung nodule classification with radiomics approach,10,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9789/978906/Automatic-lung-nodule-classification-with-radiomics-approach/10.1117/12.2220768.short
+Automatic Classification of Normal and Cancer Lung CT Images Using Multiscale AM-FM Features,6,https://dl.acm.org/citation.cfm?id=2929798
+Lung Cancer Detection using CT Scan Images,5,https://www.sciencedirect.com/science/article/pii/S1877050917327801
 Measurement of smaller colon polyp in CT colonography images using morphological image processing,1,https://link.springer.com/article/10.1007/s11548-017-1615-4
 Tumor Growth in the Brain: Complexity and Fractality,1,https://link.springer.com/chapter/10.1007/978-1-4939-3995-4_22
-Can Planning Images Reduce Scatter in Follow-Up Cone-Beam CT?,1,https://link.springer.com/chapter/10.1007/978-3-319-60964-5_55
-Computer-Assisted Decision Support System in Pulmonary Cancer Detection and Stage Classification on CT Images,4,https://www.sciencedirect.com/science/article/pii/S1532046418300078
+Can Planning Images Reduce Scatter in Follow-Up Cone-Beam CT?,2,https://link.springer.com/chapter/10.1007/978-3-319-60964-5_55
+Computer-Assisted Decision Support System in Pulmonary Cancer Detection and Stage Classification on CT Images,10,https://www.sciencedirect.com/science/article/pii/S1532046418300078
 Pilot study for supervised target detection applied to spatially registered multiparametric MRI in order to non-invasively score prostate cancer,0,https://www.sciencedirect.com/science/article/pii/S0010482518300118
-How can we effect culture change toward data driven medicine?,8,https://www.urologyadvance.com/article/S0360-3016(15)27193-3/abstract
-Radiogenomics of lower-grade glioma: algorithmically-assessed tumor shape is associated with tumor genomic subtypes and patient outcomes in a multi-institutional study with The Cancer Genome Atlas data,6,https://link.springer.com/article/10.1007/s11060-017-2420-1
+How can we effect culture change toward data driven medicine?,,
+Radiogenomics of lower-grade glioma: algorithmically-assessed tumor shape is associated with tumor genomic subtypes and patient outcomes in a multi-institutional study with The Cancer Genome Atlas data,8,https://link.springer.com/article/10.1007/s11060-017-2420-1
 Predicting outcomes in glioblastoma patients using computerized analysis of tumor shape: preliminary data,6,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9785/97852T/Predicting-outcomes-in-glioblastoma-patients-using-computerized-analysis-of-tumor/10.1117/12.2217098.short
-Imaging descriptors improve the predictive power of survival models for glioblastoma patients,57,https://academic.oup.com/neuro-oncology/article-abstract/15/10/1389/1309572
-Radiogenomic Analysis of Breast Cancer: Luminal B Molecular Subtype Is Associated with Enhancement Dynamics at MR Imaging,82,https://pubs.rsna.org/doi/abs/10.1148/radiol.14132641
-Radiogenomic Analysis of Breast Cancer: Luminal B Molecular Subtype Is Associated with Enhancement Dynamics at MR Imaging,82,https://pubs.rsna.org/doi/abs/10.1148/radiol.14132641
-Computer-extracted MR imaging features are associated with survival in glioblastoma patients,29,https://link.springer.com/article/10.1007/s11060-014-1580-5
-Quantitative Multiparametric MRI Features and PTEN Expression of Peripheral Zone Prostate Cancer: A Pilot Study,10,https://www.ajronline.org/doi/abs/10.2214/AJR.15.14967
-"Determining the variability of lesion size measurements from ct patient data sets acquired under ""no change"" conditions",13,https://www.sciencedirect.com/science/article/pii/S1936523315000029
-Bolus arrival time and its effect on tissue characterization with dynamic contrast-enhanced magnetic resonance imaging,4,https://www.spiedigitallibrary.org/journals/Journal-of-Medical-Imaging/volume-3/issue-1/014503/Bolus-arrival-time-and-its-effect-on-tissue-characterization-with/10.1117/1.JMI.3.1.014503.short
-Clinical Evaluation of a Fully-automatic Segmentation Method for Longitudinal Brain Tumor Volumetry,24,https://www.nature.com/articles/srep23376
-Comparison of Automatic Seed Generation Methods for Breast Tumor Detection Using Region Growing Technique,5,https://link.springer.com/chapter/10.1007/978-3-319-19578-0_10
-Segmentation of Pulmonary Nodules in Computed Tomography Using a Regression Neural Network Approach and its Application to the Lung Image Database Consortium and Image Database Resource Initiative Dataset,44,https://www.sciencedirect.com/science/article/pii/S1361841515000316
-Segmentation of Pulmonary Nodules in Computed Tomography Using a Regression Neural Network Approach and its Application to the Lung Image Database Consortium and Image Database Resource Initiative Dataset,44,https://www.sciencedirect.com/science/article/pii/S1361841515000316
-Phase I trial of preoperative chemoradiation plus sorafenib for high-risk extremity soft tissue sarcomas with dynamic contrast-enhanced MRI correlates,38,http://clincancerres.aacrjournals.org/content/early/2013/11/26/1078-0432.CCR-13-1594.short
+Imaging descriptors improve the predictive power of survival models for glioblastoma patients,62,https://academic.oup.com/neuro-oncology/article-abstract/15/10/1389/1309572
+Radiogenomic Analysis of Breast Cancer: Luminal B Molecular Subtype Is Associated with Enhancement Dynamics at MR Imaging,88,https://pubs.rsna.org/doi/abs/10.1148/radiol.14132641
+Radiogenomic Analysis of Breast Cancer: Luminal B Molecular Subtype Is Associated with Enhancement Dynamics at MR Imaging,88,https://pubs.rsna.org/doi/abs/10.1148/radiol.14132641
+Computer-extracted MR imaging features are associated with survival in glioblastoma patients,33,https://link.springer.com/article/10.1007/s11060-014-1580-5
+Quantitative Multiparametric MRI Features and PTEN Expression of Peripheral Zone Prostate Cancer: A Pilot Study,11,https://www.ajronline.org/doi/abs/10.2214/AJR.15.14967
+"Determining the variability of lesion size measurements from ct patient data sets acquired under ""no change"" conditions",15,https://www.sciencedirect.com/science/article/pii/S1936523315000029
+Bolus arrival time and its effect on tissue characterization with dynamic contrast-enhanced magnetic resonance imaging,6,https://www.spiedigitallibrary.org/journals/Journal-of-Medical-Imaging/volume-3/issue-1/014503/Bolus-arrival-time-and-its-effect-on-tissue-characterization-with/10.1117/1.JMI.3.1.014503.short
+Clinical Evaluation of a Fully-automatic Segmentation Method for Longitudinal Brain Tumor Volumetry,26,https://www.nature.com/articles/srep23376
+Comparison of Automatic Seed Generation Methods for Breast Tumor Detection Using Region Growing Technique,7,https://link.springer.com/chapter/10.1007/978-3-319-19578-0_10
+Segmentation of Pulmonary Nodules in Computed Tomography Using a Regression Neural Network Approach and its Application to the Lung Image Database Consortium and Image Database Resource Initiative Dataset,55,https://www.sciencedirect.com/science/article/pii/S1361841515000316
+Segmentation of Pulmonary Nodules in Computed Tomography Using a Regression Neural Network Approach and its Application to the Lung Image Database Consortium and Image Database Resource Initiative Dataset,55,https://www.sciencedirect.com/science/article/pii/S1361841515000316
+Phase I trial of preoperative chemoradiation plus sorafenib for high-risk extremity soft tissue sarcomas with dynamic contrast-enhanced MRI correlates,41,http://clincancerres.aacrjournals.org/content/early/2013/11/26/1078-0432.CCR-13-1594.short
 Detection of Lung Cancer Nodule on CT scan Images by using Region Growing Method,0,http://www.ijcter.com/papers/volume-2/issue-7/detection-of-lung-cancer-nodule-on-ct-scan-images.pdf
-Transcription elongation factors represent in vivo cancer dependencies in glioblastoma,29,https://www.nature.com/articles/nature23000
+Transcription elongation factors represent in vivo cancer dependencies in glioblastoma,41,https://www.nature.com/articles/nature23000
 Volumetric brain tumour detection from MRI using visual saliency,2,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187209
 Informatics in Radiology: An Open-Source and Open-Access Cancer Biomedical Informatics Grid Annotation and Image Markup Template Builder,15,https://pubs.rsna.org/doi/abs/10.1148/rg.324115080
-De-identification of Medical Images with Retention of Scientific Research Value,9,https://pubs.rsna.org/doi/abs/10.1148/rg.2015140244
-Deep Learning For Brain Tumor Segmentation,0,http://cs230.stanford.edu/projects_spring_2018/reports/8290768.pdf
+De-identification of Medical Images with Retention of Scientific Research Value,13,https://pubs.rsna.org/doi/abs/10.1148/rg.2015140244
+Deep Learning For Brain Tumor Segmentation,393,https://ieeexplore.ieee.org/abstract/document/7426413/
 Optimization Methods for Medical Image Super Resolution Reconstruction,0,https://link.springer.com/chapter/10.1007/978-3-319-21212-8_6
 Forschungsanwendungen in der digitalen Radiologie,1,https://link.springer.com/article/10.1007/s00117-015-0042-1
-Tumor metabolic features identified by FDG PET correlates with gene networks of immune cell microenvironment in head and neck cancer,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5708955/
-Tumor Metabolic Features Identified by 18F-FDG PET Correlate with Gene Networks of Immune Cell Microenvironment in Head and Neck Cancer,2,https://europepmc.org/abstract/med/28588149
-Automated Brain Lesion Detection and Segmentation Using Magnetic Resonance Images,8,https://scholarlyrepository.miami.edu/oa_dissertations/1409/
-Brain tumors detection and segmentation in MR images: Gabor wavelet vs. statistical features,73,https://www.sciencedirect.com/science/article/pii/S0045790615000324
-Automatic tumor segmentation in single-spectral MRI using a texture-based and contour-based algorithm,6,https://www.sciencedirect.com/science/article/pii/S0957417417300453
+Tumor metabolic features identified by FDG PET correlates with gene networks of immune cell microenvironment in head and neck cancer,1,https://link.springer.com/article/10.1186/s13550-018-0435-z
+Tumor Metabolic Features Identified by 18F-FDG PET Correlate with Gene Networks of Immune Cell Microenvironment in Head and Neck Cancer,4,http://jnm.snmjournals.org/content/59/1/31.short
+Automated Brain Lesion Detection and Segmentation Using Magnetic Resonance Images,10,https://scholarlyrepository.miami.edu/oa_dissertations/1409/
+Brain tumors detection and segmentation in MR images: Gabor wavelet vs. statistical features,85,https://www.sciencedirect.com/science/article/pii/S0045790615000324
+Automatic tumor segmentation in single-spectral MRI using a texture-based and contour-based algorithm,8,https://www.sciencedirect.com/science/article/pii/S0957417417300453
 Automatic rectum limit detection by anatomical markers correlation,1,https://www.sciencedirect.com/science/article/pii/S0895611114000159
 Tumor image-derived texture features are associated with CD3 T-cell infiltration status in glioblastoma,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5731870/
 Performance analysis of a computer-aided detection system for lung nodules in CT at different slice thicknesses,2,https://www.spiedigitallibrary.org/journals/Journal-of-Medical-Imaging/volume-5/issue-1/014504/Performance-analysis-of-a-computer-aided-detection-system-for-lung/10.1117/1.JMI.5.1.014504.short
-Image Processing and Classification Techniques for Early Detection of Lung Cancer for Preventive Health Care: A Survey,5,https://pdfs.semanticscholar.org/3375/45611a5257463325225efcfa5b86f2c7b882.pdf
-Security of Multi-frame DICOM Images Using XOR Encryption Approach,2,https://www.sciencedirect.com/science/article/pii/S1877050916311966
-Automatic Classification of Brain MRI Images Using SVM and Neural Network Classifiers,7,https://link.springer.com/chapter/10.1007/978-3-319-11218-3_3
+Image Processing and Classification Techniques for Early Detection of Lung Cancer for Preventive Health Care: A Survey,6,https://pdfs.semanticscholar.org/3375/45611a5257463325225efcfa5b86f2c7b882.pdf
+Security of Multi-frame DICOM Images Using XOR Encryption Approach,4,https://www.sciencedirect.com/science/article/pii/S1877050916311966
+Automatic Classification of Brain MRI Images Using SVM and Neural Network Classifiers,8,https://link.springer.com/chapter/10.1007/978-3-319-11218-3_3
 Discrimination of Benign and Malignant Suspicious Breast Tumors Based on Semi-Quantitative DCE-MRI Parameters Employing Support Vector Machine,4,http://fbt.tums.ac.ir/index.php/fbt/article/view/49
-Big biomedical image processing hardware acceleration: A case study for K-means and image filtering,5,https://ieeexplore.ieee.org/abstract/document/7527445/
-Multisite concordance of apparent diffusion coefficient measurements across the NCI Quantitative Imaging Network,1,https://www.spiedigitallibrary.org/journals/Journal-of-Medical-Imaging/volume-5/issue-1/011003/Multisite-concordance-of-apparent-diffusion-coefficient-measurements-across-the-NCI/10.1117/1.JMI.5.1.011003.short
-Pulmonary nodule classification with deep residual networks,15,https://link.springer.com/article/10.1007/s11548-017-1605-6
-Addition of MR imaging features and genetic biomarkers strengthens glioblastoma survival prediction in TCGA patients,43,https://www.sciencedirect.com/science/article/pii/S0150986114001874
+Big biomedical image processing hardware acceleration: A case study for K-means and image filtering,7,https://ieeexplore.ieee.org/abstract/document/7527445/
+Multisite concordance of apparent diffusion coefficient measurements across the NCI Quantitative Imaging Network,6,https://www.spiedigitallibrary.org/journals/Journal-of-Medical-Imaging/volume-5/issue-1/011003/Multisite-concordance-of-apparent-diffusion-coefficient-measurements-across-the-NCI/10.1117/1.JMI.5.1.011003.short
+Pulmonary nodule classification with deep residual networks,19,https://link.springer.com/article/10.1007/s11548-017-1605-6
+Addition of MR imaging features and genetic biomarkers strengthens glioblastoma survival prediction in TCGA patients,49,https://www.sciencedirect.com/science/article/pii/S0150986114001874
 Efficient Colorization of Medical Imaging based on Colour Transfer Method,0,http://www.paspk.org/wp-content/uploads/2016/12/Efficient-Colorization-of-Medical-Imaging.pdf
-A FRAMEWORK FOR AUTOMATIC COLORIZATION OF MEDICAL IMAGING,2,https://www.researchgate.net/profile/Muhammad_Sharif9/publication/309313383_A_framework_for_automatic_colorization_of_medical_imaging/links/580931d408ae1c98c2525f3d/A-framework-for-automatic-colorization-of-medical-imaging.pdf
-Computer-aided Diagnosis for Lung Cancer: Usefulness of Nodule Heterogeneity,8,https://www.sciencedirect.com/science/article/pii/S1076633216303816
-Computer-aided diagnosis of lung nodule using gradient tree boosting and Bayesian optimization,0,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0195875
-Image descriptors in radiology images: a systematic review,6,https://link.springer.com/article/10.1007/s10462-016-9492-8
-Medical Image Retrieval Using Vector Quantization and Fuzzy S-tree,23,https://link.springer.com/article/10.1007/s10916-016-0659-2
+A FRAMEWORK FOR AUTOMATIC COLORIZATION OF MEDICAL IMAGING,3,https://www.researchgate.net/profile/Muhammad_Sharif9/publication/309313383_A_framework_for_automatic_colorization_of_medical_imaging/links/580931d408ae1c98c2525f3d/A-framework-for-automatic-colorization-of-medical-imaging.pdf
+Computer-aided Diagnosis for Lung Cancer: Usefulness of Nodule Heterogeneity,12,https://www.sciencedirect.com/science/article/pii/S1076633216303816
+Computer-aided diagnosis of lung nodule using gradient tree boosting and Bayesian optimization,3,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0195875
+Image descriptors in radiology images: a systematic review,8,https://link.springer.com/article/10.1007/s10462-016-9492-8
+Medical Image Retrieval Using Vector Quantization and Fuzzy S-tree,33,https://link.springer.com/article/10.1007/s10916-016-0659-2
 Memory-efficient 3D connected component labeling with parallel computing,0,https://link.springer.com/article/10.1007/s11760-017-1175-7
-Development of Clinically-Informed 3D Tumor Models for Microwave Imaging Applications,6,https://ieeexplore.ieee.org/abstract/document/7155480/
+Development of Clinically-Informed 3D Tumor Models for Microwave Imaging Applications,8,https://ieeexplore.ieee.org/abstract/document/7155480/
 Uma Proposta Para Utilização De Workflows Científicos Para A Definição De Pipelines Para A Recuperação De Imagens Médicas Por Conteúdo Em Um Ambiente Distribuído,1,http://www.uel.br/cce/dc/wp-content/uploads/TCC-LUIS_FERNANDO_MILANO_OLIVEIRA-BCC-UEL-2015.pdf
 Image segmentation on GPGPUs: a cellular automata-based approach,0,https://dl.acm.org/citation.cfm?id=2557752
 Application of Sparse-Coding Super-Resolution to 16-Bit DICOM Images for Improving the Image Resolution in MRI,1,http://www.scirp.org/journal/PaperInformation.aspx?paperID=79508
 Automatic localization of target vertebrae in spine surgery using fast CT-to-fluoroscopy (3D-2D) image registration,8,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8316/83160N/Automatic-localization-of-target-vertebrae-in-spine-surgery-using-fast/10.1117/12.911308.short
 Medical image retrieval using hybrid wavelet network classifier,3,https://ieeexplore.ieee.org/abstract/document/7008009/
-3D PULMONARY NODULES DETECTION USING FAST MARCHING SEGMENTATION,0,https://www.ajol.info/index.php/jfas/article/download/165306/154766
+3D PULMONARY NODULES DETECTION USING FAST MARCHING SEGMENTATION,1,https://www.ajol.info/index.php/jfas/article/download/165306/154766
 Compressibility variations of JPEG2000 compressed computed tomography,3,https://ieeexplore.ieee.org/abstract/document/6610265/
-A Novel Biomedical Image Indexing and Retrieval System via Deep Preference Learning,1,https://www.sciencedirect.com/science/article/pii/S0169260717305436
-A Novel End-to-End Classifier Using Domain Transferred Deep Convolutional Neural Networks for Biomedical Images,16,https://www.sciencedirect.com/science/article/pii/S0169260716313062
+A Novel Biomedical Image Indexing and Retrieval System via Deep Preference Learning,4,https://www.sciencedirect.com/science/article/pii/S0169260717305436
+A Novel End-to-End Classifier Using Domain Transferred Deep Convolutional Neural Networks for Biomedical Images,21,https://www.sciencedirect.com/science/article/pii/S0169260716313062
 Deep learning for segmentation of brain tumors: Can we train with images from different institutions?,2,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10134/101341P/Deep-learning-for-segmentation-of-brain-tumors--can-we/10.1117/12.2255696.short
 Content dependent intra mode selection for medical image compression using HEVC,3,https://ieeexplore.ieee.org/abstract/document/7430731/
 Influence of Contrast Administration on Computed Tomography–Based Analysis of Visceral Adipose and Skeletal Muscle Tissue in Clear Cell Renal Cell Carcinoma,0,https://onlinelibrary.wiley.com/doi/abs/10.1002/jpen.1067
 Tumor Propagation Model using Generalized Hidden Markov Model,0,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10133/101331G/Tumor-propagation-model-using-generalized-hidden-Markov-model/10.1117/12.2254583.short
-Automated Facial Recognition of Computed Tomography-Derived Facial Images: Patient Privacy Implications,1,https://link.springer.com/article/10.1007/s10278-016-9932-7
-Machine learning applications for Radiomics: towards robust non-invasive predictors in clinical oncology,0,https://cris.maastrichtuniversity.nl/portal/files/12791600/a5659.pdf
-Machine Learning methods for Quantitative Radiomic Biomarkers,137,https://www.nature.com/articles/srep13087
-Radiomic feature clusters and Prognostic Signatures specific for Lung and Head &Neck cancer,138,https://www.nature.com/articles/srep11044
+Automated Facial Recognition of Computed Tomography-Derived Facial Images: Patient Privacy Implications,3,https://link.springer.com/article/10.1007/s10278-016-9932-7
+Machine learning applications for Radiomics: towards robust non-invasive predictors in clinical oncology,1,https://cris.maastrichtuniversity.nl/portal/files/12791600/a5659.pdf
+Machine Learning methods for Quantitative Radiomic Biomarkers,178,https://www.nature.com/articles/srep13087
+Radiomic feature clusters and Prognostic Signatures specific for Lung and Head &Neck cancer,157,https://www.nature.com/articles/srep11044
 Fast and robust methods for non-rigid registration of medical images,1,https://www.researchgate.net/profile/Stefan_Pszczolkowski/publication/303458906_Fast_and_robust_methods_for_non-rigid_registration_of_medical_images/links/57441ae808ae9ace841b47a0/Fast-and-robust-methods-for-non-rigid-registration-of-medical-images.pdf
-Multimodal Retrieval Framework for Brain Volumes in 3D MR Volumes,0,https://link.springer.com/content/pdf/10.1007/s40846-017-0287-4.pdf
+Multimodal Retrieval Framework for Brain Volumes in 3D MR Volumes,1,https://link.springer.com/content/pdf/10.1007/s40846-017-0287-4.pdf
 Swift Pre Rendering Volumetric Visualization of Magnetic Resonance Cardiac Images based on Isosurface Technique,0,https://www.sciencedirect.com/science/article/pii/S2212017314000905
-An Approach Toward Automatic Classification of Tumor Histopathology of Non–Small Cell Lung Cancer Based on Radiomic Features,1,http://tomography.org/media/vol2/issue4/pdf/tomo-02-374.pdf
+An Approach Toward Automatic Classification of Tumor Histopathology of Non–Small Cell Lung Cancer Based on Radiomic Features,2,http://tomography.org/media/vol2/issue4/pdf/tomo-02-374.pdf
 Semantic imaging features predict disease progression and survival in glioblastoma multiforme patients,1,https://link.springer.com/article/10.1007/s00066-018-1276-4
-Auto Diagnostics of Lung Nodules Using Minimal Characteristics Extraction Technique,4,https://www.mdpi.com/2075-4418/6/1/13htm
+Auto Diagnostics of Lung Nodules Using Minimal Characteristics Extraction Technique,6,https://www.mdpi.com/2075-4418/6/1/13htm
 An Automated Method for Locating Phantom Nodules in Anthropomorphic Thoracic Phantom CT Studies,1,http://world-comp.org/p2012/IPC3604.pdf
 Texture classification of lung computed tomography images,2,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8768/87683Z/Texture-classification-of-lung-computed-tomography-images/10.1117/12.2011108.short
-Precision Medicine and Radiogenomics in Breast Cancer: New Approaches toward Diagnosis and Treatment,0,https://pubs.rsna.org/doi/abs/10.1148/radiol.2018172171
+Precision Medicine and Radiogenomics in Breast Cancer: New Approaches toward Diagnosis and Treatment,7,https://pubs.rsna.org/doi/abs/10.1148/radiol.2018172171
 A versatile method for bladder segmentation in computed tomography two-dimensional images under adverse conditions,1,http://journals.sagepub.com/doi/abs/10.1177/0954411917714294
-Genomics of Brain Tumor Imaging,24,https://www.neuroimaging.theclinics.com/article/S1052-5149(14)00086-0/abstract
-Radiomic features from the peritumoral brain parenchyma on treatment-naïve multi-parametric MR imaging predict long versus short-term survival in glioblastoma multiforme: Preliminary findings,33,https://link.springer.com/article/10.1007/s00330-016-4637-3
-TCIA: an information resource to enable open science,25,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4257783/
-An anatomic transcriptional atlas of human glioblastoma,1,http://science.sciencemag.org/content/360/6389/660.abstract
-Identification of biomarkers for pseudo and true progression of GBM based on radiogenomics study,7,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5342424/
-Prostate segmentation: An efficient convex optimization approach with axial symmetry using 3-D TRUS and MR images,50,https://ieeexplore.ieee.org/abstract/document/6714457/
+Genomics of Brain Tumor Imaging,26,https://www.neuroimaging.theclinics.com/article/S1052-5149(14)00086-0/abstract
+Radiomic features from the peritumoral brain parenchyma on treatment-naïve multi-parametric MR imaging predict long versus short-term survival in glioblastoma multiforme: Preliminary findings,45,https://link.springer.com/article/10.1007/s00330-016-4637-3
+TCIA: an information resource to enable open science,28,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4257783/
+An anatomic transcriptional atlas of human glioblastoma,6,http://science.sciencemag.org/content/360/6389/660.abstract
+Identification of biomarkers for pseudo and true progression of GBM based on radiogenomics study,8,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5342424/
+Prostate segmentation: An efficient convex optimization approach with axial symmetry using 3-D TRUS and MR images,58,https://ieeexplore.ieee.org/abstract/document/6714457/
 Fully Automated Multi-Modal Anatomic Atlas Generation Using 3D-Slicer,2,https://link.springer.com/chapter/10.1007/978-3-662-54345-0_69
 Intelligent texture feature extraction and indexing for MRI image retrieval using curvelet and PCA with HTF,0,http://go.galegroup.com/ps/i.do?id=GALE%7CA420324666&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=19950772&p=AONE&sw=w
 Exploring relationships between multivariate radiological phenotypes and genetic features: A case-study in Glioblastoma using the Cancer Genome Atlas ,0,https://ieeexplore.ieee.org/abstract/document/6736815/
-"Integrative Analysis of mRNA, microRNA, and Protein Correlates of Relative Cerebral Blood Volume Values in GBM Reveals the Role for Modulators of Angiogenesis and Tumor Proliferation",4,http://journals.sagepub.com/doi/abs/10.4137/CIN.S33014
-A combinatorial radiographic phenotype may stratify patient survival and be associated with invasion and proliferation characteristics in glioblastoma,19,http://thejns.org/doi/abs/10.3171/2015.4.JNS142732
+"Integrative Analysis of mRNA, microRNA, and Protein Correlates of Relative Cerebral Blood Volume Values in GBM Reveals the Role for Modulators of Angiogenesis and Tumor Proliferation",5,http://journals.sagepub.com/doi/abs/10.4137/CIN.S33014
+A combinatorial radiographic phenotype may stratify patient survival and be associated with invasion and proliferation characteristics in glioblastoma,19,https://thejns.org/view/journals/j-neurosurg/124/4/article-p1008.xml
 Automated image quality assessment for chest CT scans,0,https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.12729
-Improved False Positive Reduction by Novel Morphological Features for Computer-Aided Polyp Detection in CT Colonography,0,https://ieeexplore.ieee.org/abstract/document/8295217/
-Multi-fractal detrended texture feature for brain tumor classification,3,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9414/941410/Multi-fractal-detrended-texture-feature-for-brain-tumor-classification/10.1117/12.2083596.short
+Improved False Positive Reduction by Novel Morphological Features for Computer-Aided Polyp Detection in CT Colonography,3,https://ieeexplore.ieee.org/abstract/document/8295217/
+Multi-fractal detrended texture feature for brain tumor classification,5,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9414/941410/Multi-fractal-detrended-texture-feature-for-brain-tumor-classification/10.1117/12.2083596.short
 Detection of Lung Nodules on Medical Images by the Use of Fractal Segmentation,0,http://www.ijimai.org/journal/sites/default/files/files/2016/12/ijimai20174_5_2_pdf_65326.pdf
-Computer Simulation of Low-dose CT with Clinical Lung Image Database: a preliminary study,0,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10132/101322U/Computer-simulation-of-low-dose-CT-with-clinical-lung-image/10.1117/12.2253973.short
+Computer Simulation of Low-dose CT with Clinical Lung Image Database: a preliminary study,1,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10132/101322U/Computer-simulation-of-low-dose-CT-with-clinical-lung-image/10.1117/12.2253973.short
 3D medical image denoising using 3D block matching and low-rank matrix completion,0,https://ieeexplore.ieee.org/abstract/document/6810271/
-3D-SCoBeP: 3D medical image registration using sparse coding and belief propagation,3,http://www.sciedu.ca/journal/index.php/ijdi/article/view/4891
+3D-SCoBeP: 3D medical image registration using sparse coding and belief propagation,4,http://www.sciedu.ca/journal/index.php/ijdi/article/view/4891
 Malignant nodule detection on lung ct scan images with kernel rx-algorithm,22,https://ieeexplore.ieee.org/abstract/document/6211627/
-How will big data improve clinical and basic research in radiation therapy?,16,https://www.sciencedirect.com/science/article/pii/S036030161526703X
-A new 2.5D representation for lymph node detection in CT,2,
+How will big data improve clinical and basic research in radiation therapy?,18,https://www.redjournal.org/article/S0360-3016(15)26703-X/abstract
+A new 2.5D representation for lymph node detection in CT,,
 External clinical validation of prone and supine CT colonography registration,2,https://link.springer.com/chapter/10.1007/978-3-642-33612-6_2
-A new 2.5 D representation for lymph node detection using random sets of deep convolutional neural network observations,174,https://link.springer.com/10.1007/978-3-319-10404-1_65
-Visual Interpretation with Three-Dimensional Annotations (VITA): Three-Dimensional Image Interpretation Tool for Radiological Reporting,4,https://link.springer.com/article/10.1007/s10278-013-9624-5
+A new 2.5 D representation for lymph node detection using random sets of deep convolutional neural network observations,192,https://link.springer.com/10.1007/978-3-319-10404-1_65
+Visual Interpretation with Three-Dimensional Annotations (VITA): Three-Dimensional Image Interpretation Tool for Radiological Reporting,5,https://link.springer.com/article/10.1007/s10278-013-9624-5
 Automatic Removal of Mechanical Fixations from CT Imagery with Particle Swarm Optimisation,0,https://link.springer.com/chapter/10.1007/978-3-319-56148-6_37
 Computer-assisted subtyping and prognosis for non-small cell lung cancer patients with unresectable tumor,0,https://www.sciencedirect.com/science/article/pii/S0895611118301873
-DEMARCATE: Density-based Magnetic Resonance Image Clustering for Assessing Tumor Heterogeneity in Cancer,2,https://www.sciencedirect.com/science/article/pii/S2213158216300882
+DEMARCATE: Density-based Magnetic Resonance Image Clustering for Assessing Tumor Heterogeneity in Cancer,4,https://www.sciencedirect.com/science/article/pii/S2213158216300882
 High Level Mammographic Information Fusion For Real World Ontology Population,1,http://dline.info/fpaper/jdim/v15i5/jdimv15i5_3.pdf
-"Towards Generation, Management, and Exploration of Combined Radiomics and Pathomics Datasets for Cancer Research",3,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5543366/
-Spatial Organization and Molecular Correlation of Tumor-Infiltrating Lymphocytes Using Deep Learning on Pathology Images,5,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5943714/
+"Towards Generation, Management, and Exploration of Combined Radiomics and Pathomics Datasets for Cancer Research",4,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5543366/
+Spatial Organization and Molecular Correlation of Tumor-Infiltrating Lymphocytes Using Deep Learning on Pathology Images,23,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5943714/
 Identifying key radiogenomic associations between DCE-MRI and micro-RNA expressions for breast cancer,1,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10134/101340T/Identifying-key-radiogenomic-associations-between-DCE-MRI-and-micro-RNA/10.1117/12.2255512.short
-A scheme for patient study retrieval from 3D brain MR volumes,0,https://ieeexplore.ieee.org/abstract/document/7380460/
+A scheme for patient study retrieval from 3D brain MR volumes,1,https://ieeexplore.ieee.org/abstract/document/7380460/
 Semi-automatic 3D lung nodule segmentation in CT using dynamic programming,0,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10133/101332R/Semi-automatic-3D-lung-nodule-segmentation-in-CT-using-dynamic/10.1117/12.2254575.short
-Mir-21–Sox2 Axis Delineates Glioblastoma Subtypes with Prognostic Impact,16,http://www.jneurosci.org/content/35/45/15097.short
+Mir-21–Sox2 Axis Delineates Glioblastoma Subtypes with Prognostic Impact,18,http://www.jneurosci.org/content/35/45/15097.short
 BRAIN CANCER DETECTION FROM MRI: A MACHINE LEARNING APPROACH (TENSORFLOW),0,https://www.irjet.net/archives/V5/i4/IRJET-V5I4468.pdf
 Optimal transformations leading to normal distributions of positron emission tomography standardized uptake values,2,http://iopscience.iop.org/article/10.1088/1361-6560/aaa175/meta
 Multisite Concordance of DSC-MRI Analysis for Brain Tumors: Results of a National Cancer Institute Quantitative Imaging Network Collaborative Project,0,http://www.ajnr.org/content/39/6/1008.abstract
-Wwox–Brca1 interaction: role in DNA repair pathway choice,5,https://www.nature.com/articles/onc2016389
+Wwox–Brca1 interaction: role in DNA repair pathway choice,12,https://www.nature.com/articles/onc2016389
 Wwox deficiency in human cancers: Role in treatment resistance,0,http://rave.ohiolink.edu/etdc/view?acc_num=osu1492793625915816
 2d view aggregation for lymph node detection using a shallow hierarchy of linear classifiers,21,https://link.springer.com/chapter/10.1007/978-3-319-10404-1_68
-A Population-Based Digital Reference Object (DRO) for Optimizing Dynamic Susceptibility Contrast (DSC)-MRI Methods for Clinical Trials,4,https://europepmc.org/articles/pmc5454781
-"Validation, comparison, and combination of algorithms for automatic detection of pulmonary nodules in computed tomography images: the LUNA16 challenge",51,https://www.sciencedirect.com/science/article/pii/S1361841517301020
+A Population-Based Digital Reference Object (DRO) for Optimizing Dynamic Susceptibility Contrast (DSC)-MRI Methods for Clinical Trials,5,https://europepmc.org/articles/pmc5454781
+"Validation, comparison, and combination of algorithms for automatic detection of pulmonary nodules in computed tomography images: the LUNA16 challenge",87,https://www.sciencedirect.com/science/article/pii/S1361841517301020
 Early detection of lung cancer from CT images: nodule segmentation and classification using deep learning,0,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10696/106960W/Early-detection-of-lung-cancer-from-CT-images--nodule/10.1117/12.2309530.short
 Fully automatic and accurate detection of lung nodules in CT images using a hybrid feature set,2,https://link.springer.com/content/pdf/10.1007/s10044-017-0653-4.pdf
-2D and 3D CT Radiomics Features Prognostic Performance Comparison in Non-Small Cell Lung Cancer,2,https://www.sciencedirect.com/science/article/pii/S1936523317302516
-An automated lung segmentation approach using bidirectional chain codes to improve nodule detection accuracy,28,https://www.sciencedirect.com/science/article/pii/S0010482514003540
-Combination of fuzzy c-means clustering and texture pattern matrix for brain MRI segmentation,1,
-Radiogenomics of Clear Cell Renal Cell Carcinoma: Preliminary Findings of The Cancer Genome Atlas-Renal Cell Carcinoma (TCGA-RCC) Research Group,42,https://link.springer.com/article/10.1007/s00261-015-0386-z
+2D and 3D CT Radiomics Features Prognostic Performance Comparison in Non-Small Cell Lung Cancer,10,https://www.sciencedirect.com/science/article/pii/S1936523317302516
+An automated lung segmentation approach using bidirectional chain codes to improve nodule detection accuracy,31,https://www.sciencedirect.com/science/article/pii/S0010482514003540
+Combination of fuzzy c-means clustering and texture pattern matrix for brain MRI segmentation,,
+Radiogenomics of Clear Cell Renal Cell Carcinoma: Preliminary Findings of The Cancer Genome Atlas-Renal Cell Carcinoma (TCGA-RCC) Research Group,47,https://link.springer.com/article/10.1007/s00261-015-0386-z
+Radiogenomics of clear cell renal cell carcinoma: preliminary findings of The Cancer Genome Atlas–Renal Cell Carcinoma (TCGA–RCC) Imaging Research Group,47,https://link.springer.com/article/10.1007/s00261-015-0386-z
 Performance analysis of various machine learning-based approaches for detection and classification of lung cancer in humans,0,https://link.springer.com/article/10.1007/s00521-018-3518-x
 Brain Tumor Segmentation Using Deep Learning Technique,0,http://search.proquest.com/openview/9dc3064fb24f708cdaefe7e2de41cfbf/1?pq-origsite=gscholar&cbl=18750&diss=y
 Simultaneous segmentation and correspondence improvement using statistical modes,3,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10133/101331B/Simultaneous-segmentation-and-correspondence-improvement-using-statistical-modes/10.1117/12.2253533.short
 Wireless Distributive Personal Communication for Early Detection of Collateral Cancer Using Optimized Machine Learning Methodology,1,https://link.springer.com/article/10.1007/s11277-016-3411-9
 Lungs image segmentation through weighted FCM,8,https://ieeexplore.ieee.org/abstract/document/6212707/
-Lung nodule detection using fuzzy clustering and support vector machines,40,http://www.enggjournals.com/ijet/docs/IJET13-05-01-065.pdf
+Lung nodule detection using fuzzy clustering and support vector machines,43,http://www.enggjournals.com/ijet/docs/IJET13-05-01-065.pdf
 A STUDY ON IMAGE DENOISING FOR LUNG CT SCAN IMAGES,1,https://pdfs.semanticscholar.org/d509/2bef27963ce12a0d306bdb1f5f7c6a518e63.pdf
 A Novel Noise Removal Method for Lung CT SCAN Images Using Statistical Filtering Techniques,,
-Imaging correlates of adult glioma genotypes,17,https://pubs.rsna.org/doi/abs/10.1148/radiol.2017151930
-Non-small cell lung cancer: quantitative phenotypic analysis of CT images as a potential marker of prognosis,13,https://www.nature.com/articles/srep38282
-Using Deep Learning for Classification of lung nodules on Computed Tomography Images,7,https://www.hindawi.com/journals/jhe/2017/8314740/abs/
+Imaging correlates of adult glioma genotypes,21,https://pubs.rsna.org/doi/abs/10.1148/radiol.2017151930
+Non-small cell lung cancer: quantitative phenotypic analysis of CT images as a potential marker of prognosis,14,https://www.nature.com/articles/srep38282
+Using Deep Learning for Classification of lung nodules on Computed Tomography Images,19,https://www.hindawi.com/journals/jhe/2017/8314740/abs/
 MR and mammographic imaging features of HER2-positive breast cancers according to hormone receptor status: a retrospective comparative study,2,http://journals.sagepub.com/doi/abs/10.1177/0284185116673119
-Exploration of temporal stability and prognostic power of radiomic features based on electronic portal imaging device images,4,https://www.sciencedirect.com/science/article/pii/S1120179717306324
+Exploration of temporal stability and prognostic power of radiomic features based on electronic portal imaging device images,7,https://www.sciencedirect.com/science/article/pii/S1120179717306324
 An Image Processing Tool for Efficient Feature Extraction in Computer-Aided Detection Systems,3,https://ieeexplore.ieee.org/abstract/document/5575956/
-Iterative Probabilistic Voxel Labeling: Automated Segmentation for Analysis of The Cancer Imaging Archive Glioblastoma Images,12,http://www.ajnr.org/content/early/2014/11/20/ajnr.A4171.abstract
-Quantification of glioblastoma mass effect by lateral ventricle displacement,0,https://www.nature.com/articles/s41598-018-21147-w
-Differential localization of glioblastoma subtype: implications on glioblastoma pathogenesis,7,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5041878/
-Comparison of Safety Margin Generation Concepts in Image Guided Radiotherapy to Account for Daily Head and Neck Pose Variations,1,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0168916
-Progress in Fully Automated Abdominal CT Interpretation,22,https://www.ajronline.org/doi/abs/10.2214/AJR.15.15996
-Breast cancer molecular subtype classifier that incorporates MRI features,29,https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.25119
-Breast MRI radiomics: comparison of computer-and human-extracted imaging phenotypes,1,https://link.springer.com/article/10.1186/s41747-017-0025-2
+Iterative Probabilistic Voxel Labeling: Automated Segmentation for Analysis of The Cancer Imaging Archive Glioblastoma Images,12,http://www.ajnr.org/content/36/4/678.short
+Quantification of glioblastoma mass effect by lateral ventricle displacement,1,https://www.nature.com/articles/s41598-018-21147-w
+Differential localization of glioblastoma subtype: implications on glioblastoma pathogenesis,8,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5041878/
+Comparison of Safety Margin Generation Concepts in Image Guided Radiotherapy to Account for Daily Head and Neck Pose Variations,2,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0168916
+Progress in Fully Automated Abdominal CT Interpretation,25,https://www.ajronline.org/doi/abs/10.2214/AJR.15.15996
+Breast cancer molecular subtype classifier that incorporates MRI features,34,https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.25119
+Breast MRI radiomics: comparison of computer-and human-extracted imaging phenotypes,4,https://link.springer.com/article/10.1186/s41747-017-0025-2
 "Personalized Medicine, Biomarkers of Risk and Breast MRI",0,https://link.springer.com/chapter/10.1007/978-3-319-42563-4_17
 Classification of Benign and Malignant Tumors of Lung Using Bag of Features,0,https://www.ijser.org/researchpaper/Classification-of-Benign-and-Malignant-Tumors-of-Lung-Using-Bag-of-Features.pdf
-Segmentation-free direct tumor volume and metabolic activity estimation from PET scans,1,https://www.sciencedirect.com/science/article/pii/S0895611117301325
-Analysis of a feature-deselective neuroevolution classifier (FD-NEAT) in a computer-aided lung nodule detection system for CT images,7,https://dl.acm.org/citation.cfm?id=2330869
+Segmentation-free direct tumor volume and metabolic activity estimation from PET scans,2,https://www.sciencedirect.com/science/article/pii/S0895611117301325
+Analysis of a feature-deselective neuroevolution classifier (FD-NEAT) in a computer-aided lung nodule detection system for CT images,9,https://dl.acm.org/citation.cfm?id=2330869
 Association between tumor architecture derived from generalized Q-space MRI and survival in glioblastoma,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5522030/
 Lung Nodule Detection and Classification using Machine Learning Techniques,0,http://asianssr.org/index.php/ajct/article/view/478
 Handling images of patient postures in arms up and arms down position using a biomechanical skeleton model,0,https://www.degruyter.com/view/j/cdbme.2017.3.issue-2/cdbme-2017-0099/cdbme-2017-0099.xml
 Automated detection of glioblastoma tumor in brain magnetic imaging using ANFIS classifier,3,https://onlinelibrary.wiley.com/doi/abs/10.1002/ima.22169
-The Immune Landscape of Cancer,25,https://www.sciencedirect.com/science/article/pii/S1074761318301213
+The Immune Landscape of Cancer,84,https://www.sciencedirect.com/science/article/pii/S1074761318301213
 PREDICTION OF LUNG CANCER USING IMAGE PROCESSING TECHNIQUES: A REVIEW,3,https://pdfs.semanticscholar.org/b960/061b413c2787104660cbcdeb3292334c836a.pdf
-Sharing big biomedical data,27,https://link.springer.com/article/10.1186/s40537-015-0016-1
-The Cancer Genome Atlas (TCGA): an immeasurable source of knowledge,315,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4322527/
-3D/2D model-to-image registration by imitation learning for cardiac procedures,0,https://link.springer.com/article/10.1007/s11548-018-1774-y
+Sharing big biomedical data,29,https://link.springer.com/article/10.1186/s40537-015-0016-1
+The Cancer Genome Atlas (TCGA): an immeasurable source of knowledge,399,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4322527/
+3D/2D model-to-image registration by imitation learning for cardiac procedures,1,https://link.springer.com/article/10.1007/s11548-018-1774-y
 Automatic fissure detection in CT images based on the genetic algorithm,5,https://ieeexplore.ieee.org/abstract/document/5580871/
 Super-Resolution Imaging of Mammograms Based on the Super-Resolution Convolutional Neural Network,0,http://www.scirp.org/journal/PaperInformation.aspx?paperID=80266
-A framework for multimodal imaging-based prognostic model building: Preliminary study on multimodal MRI in Glioblastoma Multiforme,10,https://www.sciencedirect.com/science/article/pii/S1959031815000962
-Prognosis classification in glioblastoma multiforme using multimodal MRI derived heterogeneity textural features: impact of pre-processing choices,3,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9785/97850W/Prognosis-classification-in-glioblastoma-multiforme-using-multimodal-MRI-derived-heterogeneity/10.1117/12.2217151.short
-Prognostic value of multimodal MRI tumor features in Glioblastoma multiforme using textural features analysis,10,https://ieeexplore.ieee.org/abstract/document/7163814/
-Brain tumor classification from multi-modality MRI using wavelets and machine learning,11,https://link.springer.com/article/10.1007/s10044-017-0597-8
-Automatic 3D pulmonary nodule detection in CT images: a survey,58,https://www.sciencedirect.com/science/article/pii/S0169260715300298
-Data from: A radiomics model from joint FDG-PET and MRI texture features for the prediction of lung metastases in soft-tissue sarcomas of the extremities,153,http://iopscience.iop.org/article/10.1088/0031-9155/60/14/5471/meta
-Radiomics strategies for risk assessment of tumour failure in head-and-neck cancer,12,https://www.nature.com/articles/s41598-017-10371-5
-Enhancement of multimodality texture-based prediction models via optimization of PET and MR image acquisition protocols: a proof of concept,1,http://iopscience.iop.org/article/10.1088/1361-6560/aa8a49/meta
+A framework for multimodal imaging-based prognostic model building: Preliminary study on multimodal MRI in Glioblastoma Multiforme,11,https://www.sciencedirect.com/science/article/pii/S1959031815000962
+Prognosis classification in glioblastoma multiforme using multimodal MRI derived heterogeneity textural features: impact of pre-processing choices,4,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9785/97850W/Prognosis-classification-in-glioblastoma-multiforme-using-multimodal-MRI-derived-heterogeneity/10.1117/12.2217151.short
+Prognostic value of multimodal MRI tumor features in Glioblastoma multiforme using textural features analysis,12,https://ieeexplore.ieee.org/abstract/document/7163814/
+Brain tumor classification from multi-modality MRI using wavelets and machine learning,17,https://link.springer.com/article/10.1007/s10044-017-0597-8
+Automatic 3D pulmonary nodule detection in CT images: a survey,67,https://www.sciencedirect.com/science/article/pii/S0169260715300298
+Data from: A radiomics model from joint FDG-PET and MRI texture features for the prediction of lung metastases in soft-tissue sarcomas of the extremities,199,http://iopscience.iop.org/article/10.1088/0031-9155/60/14/5471/meta
+A radiomics model from joint FDG-PET and MRI texture features for the prediction of lung metastases in soft-tissue sarcomas of the extremities,199,http://iopscience.iop.org/article/10.1088/0031-9155/60/14/5471/meta
+Radiomics strategies for risk assessment of tumour failure in head-and-neck cancer,32,https://www.nature.com/articles/s41598-017-10371-5
+Enhancement of multimodality texture-based prediction models via optimization of PET and MR image acquisition protocols: a proof of concept,3,http://iopscience.iop.org/article/10.1088/1361-6560/aa8a49/meta
 Brain Tumor Classification using Support Vector Machine,0,https://www.irjet.net/archives/V4/i7/IRJET-V4I7367.pdf
 Radiogenomics of High-Grade Serous Ovarian Cancer: Multireader Multi-Institutional Study from the Cancer Genome Atlas Ovarian Cancer Imaging Research Group,3,https://pubs.rsna.org/doi/abs/10.1148/radiol.2017161870
 Classification of benign and malignant lung nodules using image processing techniques,0,https://www.irjet.net/archives/V4/i4/IRJET-V4I4815.pdf
-Fully automatic GBM segmentation in the TCGA-GBM dataset: Prognosis and correlation with VASARI features,38,https://www.nature.com/articles/srep16822
+Fully automatic GBM segmentation in the TCGA-GBM dataset: Prognosis and correlation with VASARI features,42,https://www.nature.com/articles/srep16822
 Medical image thresholding using WQPSO and maximum entropy,1,https://dl.acm.org/citation.cfm?id=2345592
-Assessing the prognostic impact of 3D CT image tumour rind texture features on lung cancer survival modelling,0,https://ieeexplore.ieee.org/abstract/document/8309057/
-Classificação Multirrótulo na Anotação Automática de Nódulo Pulmonar Solitário,1,
-Robust High-dimensional Bioinformatics Data Streams Mining by ODR-ioVFDT,2,https://www.nature.com/articles/srep43167
+Assessing the prognostic impact of 3D CT image tumour rind texture features on lung cancer survival modelling,1,https://ieeexplore.ieee.org/abstract/document/8309057/
+Classificação Multirrótulo na Anotação Automática de Nódulo Pulmonar Solitário,,
+Robust High-dimensional Bioinformatics Data Streams Mining by ODR-ioVFDT,3,https://www.nature.com/articles/srep43167
 Simultaneous encryption and compression of medical images based on optimized tensor compressed sensing with 3D Lorenz,1,https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/s12938-016-0239-1
-Data Analysis of the Lung Imaging Database Consortium and Image Database Resource Initiative,4,https://www.sciencedirect.com/science/article/pii/S1076633214004620
+Data Analysis of the Lung Imaging Database Consortium and Image Database Resource Initiative,5,https://www.sciencedirect.com/science/article/pii/S1076633214004620
 Single NMR image super-resolution based on extreme learning machine,0,https://www.sciencedirect.com/science/article/pii/S1120179716309218
-Multicenter imaging outcomes study of The Cancer Genome Atlas glioblastoma patient cohort: imaging predictors of overall and progression-free survival,35,https://academic.oup.com/neuro-oncology/article-abstract/17/11/1525/1041335
+Multicenter imaging outcomes study of The Cancer Genome Atlas glioblastoma patient cohort: imaging predictors of overall and progression-free survival,40,https://academic.oup.com/neuro-oncology/article-abstract/17/11/1525/1041335
 Survival analysis of pre-operative GBM patients by using quantitative image features,1,https://ieeexplore.ieee.org/abstract/document/6996968/
 NI-83DIFFUSION AND CONVENTIONAL MR IMAGING GENOMIC BIOMARKER SIGNATURE PREDICTS IDH-1 MUTATION IN GLIOBLASTOMA PATIENTS,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4218413/
 NI-82DIFFUSION AND CONVENTIONAL MR IMAGING GENOMIC BIOMARKER SIGNATURE FOR EGFR MUTATION IDENTIFICATION IN GLIOBLASTOMA,0,https://academic.oup.com/neuro-oncology/article-abstract/16/suppl_5/v156/1054580
-CT-based radiomic analysis of hepatocellular carcinoma patients to predict key genomic information,0,http://ascopubs.org/doi/abs/10.1200/JCO.2017.35.15_suppl.e15623
+CT-based radiomic analysis of hepatocellular carcinoma patients to predict key genomic information,1,http://ascopubs.org/doi/abs/10.1200/JCO.2017.35.15_suppl.e15623
 Supervised Machine Learning Approach Utilizing Artificial Neural Networks for Automated Prostate Zone Segmentation in Abdominal MR images,0,http://www.marshallplan.at/s/Wieser.pdf
-Introducing the Medical Physics Dataset Article,4,https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.12003
+Introducing the Medical Physics Dataset Article,7,https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.12003
 Quantifying the reproducibility of lung ventilation images between 4-Dimensional Cone Beam CT and 4-Dimensional CT,2,https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.12199
-Unsupervised clustering of quantitative image phenotypes reveals breast cancer subtypes with distinct prognoses and molecular pathways,10,http://clincancerres.aacrjournals.org/content/early/2017/04/03/1078-0432.CCR-16-2415.abstract
-Intratumor partitioning and texture analysis of dynamic contrast‐enhanced (DCE)‐MRI identifies relevant tumor subregions to predict pathological response of breast cancer to neoadjuvant chemotherapy,38,https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.25279
-Heterogeneous Enhancement Patterns of Tumor-adjacent Parenchyma at MR Imaging Are Associated with Dysregulated Signaling Pathways and Poor Survival in Breast Cancer,5,https://pubs.rsna.org/doi/abs/10.1148/radiol.2017162823
-Identifying relations between imaging phenotypes and molecular subtypes of breast cancer: Model discovery and external validation,13,https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.25661
-Correlation coefficient based supervised locally linear embedding for pulmonary nodule recognition,3,https://www.sciencedirect.com/science/article/pii/S0169260715303424
-Volume fractions of DCE-MRI parameter as early predictor of histologic response in soft tissue sarcoma: A feasibility study,1,https://www.sciencedirect.com/science/article/pii/S0720048X17303406
-An Automated Segmentation Method for Lung Parenchyma Image Sequences Based on Fractal Geometry and Convex Hull Algorithm,0,https://www.mdpi.com/2076-3417/8/5/832
-"Low-complexity atlas-based prostate segmentation by combining global, regional, and local metrics",13,https://onlinelibrary.wiley.com/doi/abs/10.1118/1.4867855
-"Fusing texture, shape and deep model-learned information at decision level for automated classification of lung nodules on chest CT",4,https://www.sciencedirect.com/science/article/pii/S1566253516301063
-Independent external validation of predictive models for urinary dysfunction following external beam radiotherapy of the prostate: Issues in model development and reporting,3,https://www.sciencedirect.com/science/article/pii/S0167814016311136
+Unsupervised clustering of quantitative image phenotypes reveals breast cancer subtypes with distinct prognoses and molecular pathways,14,http://clincancerres.aacrjournals.org/content/early/2017/04/03/1078-0432.CCR-16-2415.abstract
+Intratumor partitioning and texture analysis of dynamic contrast‐enhanced (DCE)‐MRI identifies relevant tumor subregions to predict pathological response of breast cancer to neoadjuvant chemotherapy,43,https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.25279
+Heterogeneous Enhancement Patterns of Tumor-adjacent Parenchyma at MR Imaging Are Associated with Dysregulated Signaling Pathways and Poor Survival in Breast Cancer,9,https://pubs.rsna.org/doi/abs/10.1148/radiol.2017162823
+Identifying relations between imaging phenotypes and molecular subtypes of breast cancer: Model discovery and external validation,17,https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.25661
+Correlation coefficient based supervised locally linear embedding for pulmonary nodule recognition,5,https://www.sciencedirect.com/science/article/pii/S0169260715303424
+Volume fractions of DCE-MRI parameter as early predictor of histologic response in soft tissue sarcoma: A feasibility study,2,https://www.sciencedirect.com/science/article/pii/S0720048X17303406
+An Automated Segmentation Method for Lung Parenchyma Image Sequences Based on Fractal Geometry and Convex Hull Algorithm,1,https://www.mdpi.com/2076-3417/8/5/832
+"Low-complexity atlas-based prostate segmentation by combining global, regional, and local metrics",15,https://onlinelibrary.wiley.com/doi/abs/10.1118/1.4867855
+"Fusing texture, shape and deep model-learned information at decision level for automated classification of lung nodules on chest CT",13,https://www.sciencedirect.com/science/article/pii/S1566253516301063
+Independent external validation of predictive models for urinary dysfunction following external beam radiotherapy of the prostate: Issues in model development and reporting,4,https://www.sciencedirect.com/science/article/pii/S0167814016311136
 Automatic 3D Mesh-Based Centerline Extraction from a Tubular Geometry Form,0,http://www.itc.ktu.lt/index.php/ITC/article/view/12162
-MRI Brain Tumor Segmentation and Patient Survival Prediction Using Random Forests and Fully Convolutional Networks,0,https://link.springer.com/chapter/10.1007/978-3-319-75238-9_18
+MRI Brain Tumor Segmentation and Patient Survival Prediction Using Random Forests and Fully Convolutional Networks,1,https://link.springer.com/chapter/10.1007/978-3-319-75238-9_18
 Research on the Content-Based Classification of Medical Image,1,https://www.ingentaconnect.com/contentone/asp/jmihi/2017/00000007/00000001/art00021
-Clinically relevant modeling of tumor growth and treatment response,63,http://stm.sciencemag.org/content/5/187/187ps9.short
-Automatic interstitial photodynamic therapy planning via convex optimization,2,https://www.osapublishing.org/abstract.cfm?uri=boe-9-2-898
-Lung Cancers Manifesting as Part-Solid Nodules in the National Lung Screening Trial,6,https://www.ajronline.org/doi/abs/10.2214/AJR.16.16930
-Recurrent Convolutional Networks for Pulmonary Nodule Detection in CT Imaging,7,https://arxiv.org/abs/1609.09143
+Clinically relevant modeling of tumor growth and treatment response,70,http://stm.sciencemag.org/content/5/187/187ps9.short
+Automatic interstitial photodynamic therapy planning via convex optimization,3,https://www.osapublishing.org/abstract.cfm?uri=boe-9-2-898
+Lung Cancers Manifesting as Part-Solid Nodules in the National Lung Screening Trial,13,https://www.ajronline.org/doi/abs/10.2214/AJR.16.16930
+Recurrent Convolutional Networks for Pulmonary Nodule Detection in CT Imaging,8,https://arxiv.org/abs/1609.09143
 Co-Segmentation Methods for Improving Tumor Target Delineation in PET-CT Images,0,https://ecommons.usask.ca/handle/10388/7624
 A 3D semi-automated co-segmentation method for improved tumor target delineation in 3D PET/CT imaging,1,https://ieeexplore.ieee.org/abstract/document/7344536/
-Effect of color visualization and display hardware on the visual assessment of pseudocolor medical images,3,https://onlinelibrary.wiley.com/doi/abs/10.1118/1.4921125
-Statistical Analysis of Haralick Texture Features to Discriminate Lung Abnormalities,18,https://dl.acm.org/citation.cfm?id=2929799
+Effect of color visualization and display hardware on the visual assessment of pseudocolor medical images,4,https://onlinelibrary.wiley.com/doi/abs/10.1118/1.4921125
+Statistical Analysis of Haralick Texture Features to Discriminate Lung Abnormalities,30,https://dl.acm.org/citation.cfm?id=2929799
 Segmentation of gliomas in pre-operative and post-operative multimodal magnetic resonance imaging volumes based on a hybrid generative-discriminative framework,8,https://link.springer.com/chapter/10.1007/978-3-319-55524-9_18
 A fully automatic extraction of magnetic resonance image features in Glioblastoma patients,17,https://onlinelibrary.wiley.com/doi/abs/10.1118/1.4866218
-Radiomics Strategy for Molecular Subtype Stratification of Lower‐Grade Glioma: Detecting IDH and TP53 Mutations Based on Multimodal MRI,0,https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.25960
-Reproducibility of radiomics for deciphering tumor phenotype with imaging,69,https://www.nature.com/articles/srep23428
+Radiomics Strategy for Molecular Subtype Stratification of Lower‐Grade Glioma: Detecting IDH and TP53 Mutations Based on Multimodal MRI,5,https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.25960
+Reproducibility of radiomics for deciphering tumor phenotype with imaging,91,https://www.nature.com/articles/srep23428
 Two-stage fusion set selection in multi-atlas-based image segmentation,0,https://ieeexplore.ieee.org/abstract/document/7163948/
-Agile convolutional neural network for pulmonary nodule classification using CT images,3,https://link.springer.com/content/pdf/10.1007/s11548-017-1696-0.pdf
+Agile convolutional neural network for pulmonary nodule classification using CT images,6,https://link.springer.com/content/pdf/10.1007/s11548-017-1696-0.pdf
 A statistical method for lung tumor segmentation uncertainty in PET images based on user inference,0,https://ieeexplore.ieee.org/abstract/document/7318841/
 Topology guided demons registration with local rigidity preservation,1,https://ieeexplore.ieee.org/abstract/document/7590913/
-MRI features predict survival and molecular markers in diffuse lower-grade gliomas,27,https://academic.oup.com/neuro-oncology/article-abstract/19/6/862/2948265
-"Radiomics in Brain Tumor: Image Assessment, Quantitative Feature Descriptors, and Machine-Learning Approaches",8,http://www.ajnr.org/content/39/2/208.abstract
+MRI features predict survival and molecular markers in diffuse lower-grade gliomas,41,https://academic.oup.com/neuro-oncology/article-abstract/19/6/862/2948265
+"Radiomics in Brain Tumor: Image Assessment, Quantitative Feature Descriptors, and Machine-Learning Approaches",20,http://www.ajnr.org/content/39/2/208.abstract
 Data sharing in clinical trials: An experience with two large cancer screening trials,1,http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002304
 Identifying molecular genetic features and oncogenic pathways of clear cell renal cell carcinoma through the anatomical (PADUA) scoring system,3,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4891099/
-Deciphering Genomic Underpinnings of Quantitative MRI-based Radiomic Phenotypes of Invasive Breast Carcinoma,46,https://www.nature.com/articles/srep17787
-Imaging Genomic Mapping in Glioblastoma,24,https://academic.oup.com/neurosurgery/article-abstract/60/CN_suppl_1/126/2595479
+Deciphering Genomic Underpinnings of Quantitative MRI-based Radiomic Phenotypes of Invasive Breast Carcinoma,52,https://www.nature.com/articles/srep17787
+Imaging Genomic Mapping in Glioblastoma,26,https://academic.oup.com/neurosurgery/article-abstract/60/CN_suppl_1/126/2595479
 Diffusion MRI ADC Mapping of Glioblastoma Edema/Tumor Invasion and Associated Gene Signatures,2,https://insights.ovid.com/neurosurgery/neusg/2015/08/001/138-diffusion-mri-adc-mapping-glioblastoma-edema/77/00006123
 Diffusion Weighted Magnetic Resonance Imaging Radiophenotypes and Associated Molecular Pathways in Glioblastoma,2,https://academic.oup.com/neurosurgery/article-abstract/63/CN_suppl_1/127/2975362
-Radiogenomic mapping of edema/cellular invasion MRI-phenotypes in glioblastoma multiforme,183,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0025451
+Radiogenomic mapping of edema/cellular invasion MRI-phenotypes in glioblastoma multiforme,192,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0025451
 A novel volume-age-KPS (VAK) glioblastoma classification identifies a prognostic cognate microRNA-gene signature,63,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0041522
 Distinct Radiomic Phenotypes Define Glioblastoma TP53-PTEN-EGFR Mutational Landscape,2,https://academic.oup.com/neurosurgery/article-abstract/64/CN_suppl_1/203/4093200
