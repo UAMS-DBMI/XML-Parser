@@ -8,8 +8,22 @@ import csv
 
 path = "Pubs_basedon_TCIA0618.xml"
 
+
 class Record:
-    def __init__(self,i="",authors="",title="",periodical="",year="",pubtype="",citations="",url="",abstract="",keywords="",abstract_div=""):
+    def __init__(
+        self,
+        i="",
+        authors="",
+        title="",
+        periodical="",
+        year="",
+        pubtype="",
+        citations="",
+        url="",
+        abstract="",
+        keywords="",
+        abstract_div="",
+    ):
         self.i = i
         self.authors = authors
         self.title = title
@@ -25,7 +39,7 @@ class Record:
         self.abstract_div = abstract_div
 
     def __str__(self):
-     return """
+        return """
         <div id="{0}" class="paper droppable">
             <h4>{1}</h4>
             <author>{2}</author>
@@ -36,22 +50,37 @@ class Record:
             {9}
             {10}
         </div>
-     """.format(*self.tuple_form())
+     """.format(
+            *self.tuple_form()
+        )
 
     def tuple_form(self):
-        return (self.i,self.title,self.authors,self.periodical,self.year,self.pubtype,self.citations,self.url,self.abstract,self.keywords,self.abstract_div)
+        return (
+            self.i,
+            self.title,
+            self.authors,
+            self.periodical,
+            self.year,
+            self.pubtype,
+            self.citations,
+            self.url,
+            self.abstract,
+            self.keywords,
+            self.abstract_div,
+        )
 
-with open("titleinfo.csv","r",encoding="utf8") as f:
+
+with open("titleinfo.csv", "r", encoding="utf8") as f:
     reader = csv.reader(f)
     title_info = []
     for row in reader:
-        title_info.append((row[0],row[1],row[2]))
+        title_info.append((row[0], row[1], row[2]))
 
-with open(path,encoding="utf8") as f:
+with open(path, encoding="utf8") as f:
     xml = f.read()
 
 records = []
-soup = BeautifulSoup(xml,"lxml")
+soup = BeautifulSoup(xml, "lxml")
 
 abstract_number = 1
 keyword_number = 1
@@ -74,24 +103,36 @@ for record in soup.xml.records:
     citations = ""
     info_url = ""
     for i in title_info:
-        if title.replace("‐","-") == i[0].replace("‐","-"):
+        if title.replace("‐", "-") == i[0].replace("‐", "-"):
             citations = ", cited " + i[1] + " times"
             if i[1] == "1":
                 citations = citations[:-1]
             if len(i[2]) == 0:
                 info_url = ""
             else:
-                info_url = "<a href=\"" + str(i[2]) + "\"><span class=\"glyphicon glyphicon-link\"></span>Website</a>"
+                info_url = (
+                    '<a href="'
+                    + str(i[2])
+                    + '"><span class="glyphicon glyphicon-link"></span>Website</a>'
+                )
     if len(citations) == 0:
         citations = ", cited 0 times"
 
     try:
-        url = "<a href=\"" + record.urls.find_all("related-urls")[0].url.text + "\"><span class=\"glyphicon glyphicon-link\"></span>Website</a>"
+        url = (
+            '<a href="'
+            + record.urls.find_all("related-urls")[0].url.text
+            + '"><span class="glyphicon glyphicon-link"></span>Website</a>'
+        )
     except IndexError:
         url = info_url
     try:
-        abstract = """<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#abstract{0}"><span class="glyphicon glyphicon-arrow-down"></span>Abstract</button>""".format(abstract_number)
-        abstract_div = """<div id="abstract{0}" class="collapse abstract">{1}</div>""".format(abstract_number,record.abstract.text)
+        abstract = """<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#abstract{0}"><span class="glyphicon glyphicon-arrow-down"></span>Abstract</button>""".format(
+            abstract_number
+        )
+        abstract_div = """<div id="abstract{0}" class="collapse abstract">{1}</div>""".format(
+            abstract_number, record.abstract.text
+        )
         abstract_number += 1
     except AttributeError:
         abstract = ""
@@ -110,25 +151,47 @@ for record in soup.xml.records:
                 ALL_KEYWORDS.append(s)
         keyword_list = "· " + " · ".join(keyword_list) + " ·"
         keyword_list = """<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#tag{0}"><span class="glyphicon glyphicon-tag"></span>Keywords</button>
-            <div id="tag{0}" class="collapse tag"> {1} </div>""".format(keyword_number,keyword_list)
+            <div id="tag{0}" class="collapse tag"> {1} </div>""".format(
+            keyword_number, keyword_list
+        )
 
         keyword_number += 1
     except:
         pass
 
-    records.append(Record(str(record_number),authors,title,periodical,year,pubtype,citations,url,abstract,keyword_list,abstract_div))
+    records.append(
+        Record(
+            str(record_number),
+            authors,
+            title,
+            periodical,
+            year,
+            pubtype,
+            citations,
+            url,
+            abstract,
+            keyword_list,
+            abstract_div,
+        )
+    )
     record_number += 1
 
 entry = ""
 for r in records:
     entry += str(r)
 
-ALL_KEYWORDS = sorted([sub("[\"\\t]","",x.lower()) for x in ALL_KEYWORDS])
+ALL_KEYWORDS = sorted([sub('["\\t]', "", x.lower()) for x in ALL_KEYWORDS])
 counter = Counter(ALL_KEYWORDS)
 keywords_to_add = ""
 for c in counter.keys():
     if counter[c] > 1:
-        keywords_to_add += "<button type=\"button\" class=\"btn btn-link sidebar-tag\">" + c + "</button> (" + str(counter[c]) + ")<br>\n"
+        keywords_to_add += (
+            '<button type="button" class="btn btn-link sidebar-tag">'
+            + c
+            + "</button> ("
+            + str(counter[c])
+            + ")<br>\n"
+        )
 
 paperpile_html = """<!DOCTYPE html>
 <html>
@@ -460,7 +523,9 @@ paperpile_html = """<!DOCTYPE html>
         <ul class="pagination pagination-sm"></ul>
     </body>
 </html>
-""".format(keywords_to_add,entry)
+""".format(
+    keywords_to_add, entry
+)
 
-with open("Publications.html","w",encoding="utf8") as f:
+with open("Publications.html", "w", encoding="utf8") as f:
     f.write(paperpile_html)
