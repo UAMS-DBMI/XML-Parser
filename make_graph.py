@@ -1,6 +1,10 @@
 from bs4 import BeautifulSoup
 from collections import Counter
 from scipy.interpolate import spline
+
+import matplotlib as mpl
+mpl.use('Agg')
+
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 import numpy as np
