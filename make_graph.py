@@ -11,47 +11,57 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 import numpy as np
 
-with open("Pubs_basedon_TCIA0618.xml","r",encoding="utf8") as f:
-    xml = f.read()
 
-soup = BeautifulSoup(xml,"lxml")
 
-y = []
-for record in soup.xml.records:
-    year = record.dates.year.text.strip()
-    y.append(int(year))
+def main(input_filename, output_filename):
 
-counter = Counter(y)
+    with open(input_filename, "r", encoding="utf8") as f:
+        xml = f.read()
 
-years = sorted([int(x) for x in counter.keys()])
-count = []
-for c in sorted(counter.keys()):
-    count.append(counter[c])
-total = list(np.cumsum(count))
+    soup = BeautifulSoup(xml,"lxml")
 
-ax1 = plt.figure().add_subplot(111)
-ax1.bar(years,count,color="#FF8888",label="Publications")
-plt.ylabel("Peer-Reviewed Publications")
+    y = []
+    for record in soup.xml.records:
+        year = record.dates.year.text.strip()
+        y.append(int(year))
 
-ynew = np.linspace(min(years),max(years),100)
-smooth = spline(years,total,ynew)
+    counter = Counter(y)
 
-ax2 = plt.twinx()
-ax2.plot(ynew,smooth,label="Cumulative")
+    years = sorted([int(x) for x in counter.keys()])
+    count = []
+    for c in sorted(counter.keys()):
+        count.append(counter[c])
+    total = list(np.cumsum(count))
 
-rows = ["Publications","Cumulative"]
-table = plt.table(cellText=[count,total],rowLabels=rows,colLabels=years,loc="bottom")
+    ax1 = plt.figure().add_subplot(111)
+    ax1.bar(years,count,color="#FF8888",label="Publications")
+    plt.ylabel("Peer-Reviewed Publications")
 
-props = table.properties()
-cells = props["child_artists"]
-for cell in cells:
-    cell.set_height(0.1)
-    cell.set_width(0.104)
+    ynew = np.linspace(min(years),max(years),100)
+    smooth = spline(years,total,ynew)
 
-red = mpatches.Patch(color="#FF8888",label="Publications")
-blue = mpatches.Rectangle((0,0),1,8,color="#1F77B4",label="Cumulative")
-plt.legend(handles=[red,blue])
+    ax2 = plt.twinx()
+    ax2.plot(ynew,smooth,label="Cumulative")
 
-ax2.set_ylim(ymin=0)
+    rows = ["Publications","Cumulative"]
+    table = plt.table(cellText=[count,total],rowLabels=rows,colLabels=years,loc="bottom")
 
-plt.savefig("TCIAGraph.svg",bbox_inches="tight")
+    props = table.properties()
+    cells = props["child_artists"]
+    for cell in cells:
+        cell.set_height(0.1)
+        cell.set_width(0.104)
+
+    red = mpatches.Patch(color="#FF8888",label="Publications")
+    blue = mpatches.Rectangle((0,0),1,8,color="#1F77B4",label="Cumulative")
+    plt.legend(handles=[red,blue])
+
+    ax2.set_ylim(ymin=0)
+
+    plt.savefig(output_filename,bbox_inches="tight")
+
+if __name__ == '__main__':
+    main(
+        input_filename="Pubs_basedon_TCIA0618.xml", 
+        output_filename="TCIAGraph.svg",
+    )
