@@ -5,8 +5,7 @@ from collections import Counter
 from re import sub
 import ftfy
 import csv
-
-path = "Pubs_basedon_TCIA0618.xml"
+import argparse
 
 
 class Record:
@@ -67,130 +66,6 @@ class Record:
             self.abstract,
             self.keywords,
             self.abstract_div,
-        )
-
-
-with open("titleinfo.csv", "r", encoding="utf8") as f:
-    reader = csv.reader(f)
-    title_info = []
-    for row in reader:
-        title_info.append((row[0], row[1], row[2]))
-
-with open(path, encoding="utf8") as f:
-    xml = f.read()
-
-records = []
-soup = BeautifulSoup(xml, "lxml")
-
-abstract_number = 1
-keyword_number = 1
-record_number = 1
-ALL_KEYWORDS = []
-
-for record in soup.xml.records:
-    authors = ""
-    for author in record.contributors.authors:
-        authors += author.text + "; "
-    authors = ftfy.fix_text(authors[:-2])
-    title = record.titles.title.text
-    try:
-        periodical = record.periodical.find_all("full-title")[0].text + ", "
-    except AttributeError:
-        periodical = ""
-    year = record.dates.year.text
-    pubtype = record.find_all("ref-type")[0]["name"]
-
-    citations = ""
-    info_url = ""
-    for i in title_info:
-        if title.replace("‐", "-") == i[0].replace("‐", "-"):
-            citations = ", cited " + i[1] + " times"
-            if i[1] == "1":
-                citations = citations[:-1]
-            if len(i[2]) == 0:
-                info_url = ""
-            else:
-                info_url = (
-                    '<a href="'
-                    + str(i[2])
-                    + '"><span class="glyphicon glyphicon-link"></span>Website</a>'
-                )
-    if len(citations) == 0:
-        citations = ", cited 0 times"
-
-    try:
-        url = (
-            '<a href="'
-            + record.urls.find_all("related-urls")[0].url.text
-            + '"><span class="glyphicon glyphicon-link"></span>Website</a>'
-        )
-    except IndexError:
-        url = info_url
-    try:
-        abstract = """<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#abstract{0}"><span class="glyphicon glyphicon-arrow-down"></span>Abstract</button>""".format(
-            abstract_number
-        )
-        abstract_div = """<div id="abstract{0}" class="collapse abstract">{1}</div>""".format(
-            abstract_number, record.abstract.text
-        )
-        abstract_number += 1
-    except AttributeError:
-        abstract = ""
-        abstract_div = ""
-
-    keyword_list = []
-    keyword_list_div = ""
-    try:
-        for kw in record.keywords:
-            s = ftfy.fix_text(kw.text.lower())
-            if "," in s:
-                keyword_list.extend([x.strip() for x in s.split(", ")])
-                ALL_KEYWORDS.extend([x.strip() for x in s.split(", ")])
-            else:
-                keyword_list.append(s)
-                ALL_KEYWORDS.append(s)
-        keyword_list = "· " + " · ".join(keyword_list) + " ·"
-        keyword_list = """<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#tag{0}"><span class="glyphicon glyphicon-tag"></span>Keywords</button>
-            <div id="tag{0}" class="collapse tag"> {1} </div>""".format(
-            keyword_number, keyword_list
-        )
-
-        keyword_number += 1
-    except:
-        pass
-
-    records.append(
-        Record(
-            str(record_number),
-            authors,
-            title,
-            periodical,
-            year,
-            pubtype,
-            citations,
-            url,
-            abstract,
-            keyword_list,
-            abstract_div,
-        )
-    )
-    record_number += 1
-
-entry = ""
-for r in records:
-    entry += str(r)
-
-ALL_KEYWORDS = sorted([sub('["\\t]', "", x.lower()) for x in ALL_KEYWORDS])
-counter = Counter(ALL_KEYWORDS)
-keywords_to_add = ""
-for c in counter.keys():
-    if counter[c] > 1:
-        keywords_to_add += (
-            '<button type="button" class="btn btn-link sidebar-tag">'
-            + c
-            + "</button> ("
-            + str(counter[c])
-            + ")<br>\n"
         )
 
 paperpile_html = """<!DOCTYPE html>
@@ -523,9 +398,165 @@ paperpile_html = """<!DOCTYPE html>
         <ul class="pagination pagination-sm"></ul>
     </body>
 </html>
-""".format(
-    keywords_to_add, entry
-)
+"""
 
-with open("Publications.html", "w", encoding="utf8") as f:
-    f.write(paperpile_html)
+def main(titleinfo_file, publications_file, output_file):
+
+    with open(titleinfo_file, "r", encoding="utf8") as f:
+        reader = csv.reader(f)
+        title_info = []
+        for row in reader:
+            title_info.append((row[0], row[1], row[2]))
+
+    with open(publications_file, encoding="utf8") as f:
+        xml = f.read()
+
+    records = []
+    soup = BeautifulSoup(xml, "lxml")
+
+    abstract_number = 1
+    keyword_number = 1
+    record_number = 1
+    ALL_KEYWORDS = []
+
+    for record in soup.xml.records:
+        authors = ""
+        for author in record.contributors.authors:
+            authors += author.text + "; "
+        authors = ftfy.fix_text(authors[:-2])
+        title = record.titles.title.text
+        try:
+            periodical = record.periodical.find_all("full-title")[0].text + ", "
+        except AttributeError:
+            periodical = ""
+        year = record.dates.year.text
+        pubtype = record.find_all("ref-type")[0]["name"]
+
+        citations = ""
+        info_url = ""
+        for i in title_info:
+            if title.replace("‐", "-") == i[0].replace("‐", "-"):
+                citations = ", cited " + i[1] + " times"
+                if i[1] == "1":
+                    citations = citations[:-1]
+                if len(i[2]) == 0:
+                    info_url = ""
+                else:
+                    info_url = (
+                        '<a href="'
+                        + str(i[2])
+                        + '"><span class="glyphicon glyphicon-link"></span>Website</a>'
+                    )
+        if len(citations) == 0:
+            citations = ", cited 0 times"
+
+        try:
+            url = (
+                '<a href="'
+                + record.urls.find_all("related-urls")[0].url.text
+                + '"><span class="glyphicon glyphicon-link"></span>Website</a>'
+            )
+        except IndexError:
+            url = info_url
+        try:
+            abstract = """<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#abstract{0}"><span class="glyphicon glyphicon-arrow-down"></span>Abstract</button>""".format(
+                abstract_number
+            )
+            abstract_div = """<div id="abstract{0}" class="collapse abstract">{1}</div>""".format(
+                abstract_number, record.abstract.text
+            )
+            abstract_number += 1
+        except AttributeError:
+            abstract = ""
+            abstract_div = ""
+
+        keyword_list = []
+        keyword_list_div = ""
+        try:
+            for kw in record.keywords:
+                s = ftfy.fix_text(kw.text.lower())
+                if "," in s:
+                    keyword_list.extend([x.strip() for x in s.split(", ")])
+                    ALL_KEYWORDS.extend([x.strip() for x in s.split(", ")])
+                else:
+                    keyword_list.append(s)
+                    ALL_KEYWORDS.append(s)
+            keyword_list = "· " + " · ".join(keyword_list) + " ·"
+            keyword_list = """<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#tag{0}"><span class="glyphicon glyphicon-tag"></span>Keywords</button>
+                <div id="tag{0}" class="collapse tag"> {1} </div>""".format(
+                keyword_number, keyword_list
+            )
+
+            keyword_number += 1
+        except:
+            pass
+
+        records.append(
+            Record(
+                str(record_number),
+                authors,
+                title,
+                periodical,
+                year,
+                pubtype,
+                citations,
+                url,
+                abstract,
+                keyword_list,
+                abstract_div,
+            )
+        )
+        record_number += 1
+
+    entry = ""
+    for r in records:
+        entry += str(r)
+
+    ALL_KEYWORDS = sorted([sub('["\\t]', "", x.lower()) for x in ALL_KEYWORDS])
+    counter = Counter(ALL_KEYWORDS)
+    keywords_to_add = ""
+    for c in counter.keys():
+        if counter[c] > 1:
+            keywords_to_add += (
+                '<button type="button" class="btn btn-link sidebar-tag">'
+                + c
+                + "</button> ("
+                + str(counter[c])
+                + ")<br>\n"
+            )
+
+
+    with open(output_file, "w", encoding="utf8") as f:
+        f.write(paperpile_html.format(keywords_to_add, entry))
+
+
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description='Render a static HTML page from an EndNote file and '
+        'a titleinfo file.'
+    )
+
+    parser.add_argument(
+        "titleinfo",
+        help="A csv file containing a title, citation count, and url for each "
+        "publication; this is the file produced by update_citations_and_urls.py"
+    )
+    parser.add_argument(
+        "endnote",
+        help="An XML file exported from EndNote, with a list of publications"
+    )
+    parser.add_argument(
+        "output",
+        help="The filename to write output to"
+    )
+
+    return parser.parse_args()
+
+if __name__ == '__main__':
+    args = parse_args()
+
+    main(
+        args.titleinfo,
+        args.endnote,
+        args.output
+    )

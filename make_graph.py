@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import argparse
 from bs4 import BeautifulSoup
 from collections import Counter
 from scipy.interpolate import spline
@@ -63,5 +64,22 @@ def main(input_filename, output_filename):
     plt.savefig(output_filename, bbox_inches="tight")
 
 
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description="Generate svg graph of TCIA papers by year")
+
+    parser.add_argument(
+        'input_file',
+        help='EndNote XML export file'
+    )
+    parser.add_argument(
+        'output_file',
+        help='Output filename, SVG'
+    )
+
+    args = parser.parse_args()
+    return args
+
 if __name__ == "__main__":
-    main(input_filename="Pubs_basedon_TCIA0618.xml", output_filename="TCIAGraph.svg")
+    args = parse_args()
+    main(args.input_file, args.output_file)
