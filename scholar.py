@@ -1,4 +1,5 @@
 #! /usr/bin/env python
+# -*- coding: utf-8 -*-
 
 """
 This module provides classes for querying Google Scholar and parsing
@@ -184,6 +185,7 @@ except ImportError:
 # Import BeautifulSoup -- try 4 first, fall back to older
 try:
     from bs4 import BeautifulSoup
+    import bs4
 except ImportError:
     try:
         from BeautifulSoup import BeautifulSoup
@@ -568,7 +570,7 @@ class ScholarArticleParser120726(ScholarArticleParser):
         for tag in div:
             if not hasattr(tag, 'name'):
                 continue
-            if str(tag).lower().find('.pdf'):
+            if str(tag).lower().find('.pdf') and not isinstance(tag, bs4.element.NavigableString):
                 if tag.find('div', {'class': 'gs_ttss'}):
                     self._parse_links(tag.find('div', {'class': 'gs_ttss'}))
 
