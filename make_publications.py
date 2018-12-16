@@ -421,8 +421,12 @@ def main(titleinfo_file, publications_file, output_file):
 
     for record in soup.xml.records:
         authors = ""
-        for author in record.contributors.authors:
-            authors += author.text + "; "
+        try:
+            for author in record.contributors.authors:
+                authors += author.text + "; "
+        except AttributeError:
+            continue
+
         authors = ftfy.fix_text(authors[:-2])
         title = record.titles.title.text
         try:

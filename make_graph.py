@@ -23,8 +23,13 @@ def main(input_filename, output_filename):
 
     y = []
     for record in soup.xml.records:
-        year = record.dates.year.text.strip()
-        y.append(int(year))
+        try:
+            year = record.dates.year.text.strip()
+            y.append(int(year))
+        except AttributeError:
+            # Sometimes we end up on a NavigableString node,
+            # which won't have any child nodes. Just skip it
+            pass
 
     counter = Counter(y)
 

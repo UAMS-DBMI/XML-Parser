@@ -22,7 +22,12 @@ def main(publications_file, titleinfo_file, cookiejar, delay=10):
     # Get the titles of all publications from the EndNote file
     record_titles = []
     for record in soup.xml.records:
-        record_titles.append(fix_text(record.titles.title.text))
+        try:
+            record_titles.append(fix_text(record.titles.title.text))
+        except AttributeError:
+            # If we run into a NavigableString instance it won't
+            # have any children, but we skip it safely
+            pass
 
     # Get any titles that are already in titleinfo.csv, if it exists. If not, then
     # create the file.
@@ -76,7 +81,7 @@ def main(publications_file, titleinfo_file, cookiejar, delay=10):
                     [fix_text(record_title), fix_text(str(citations)), fix_text(url)]
                 )
 
-                sleep(request_delay)
+                sleep(delay)
 
 def parse_args():
     parser = argparse.ArgumentParser(

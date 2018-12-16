@@ -536,4 +536,1920 @@ Diffusion MRI ADC Mapping of Glioblastoma Edema/Tumor Invasion and Associated Ge
 Diffusion Weighted Magnetic Resonance Imaging Radiophenotypes and Associated Molecular Pathways in Glioblastoma,2,https://academic.oup.com/neurosurgery/article-abstract/63/CN_suppl_1/127/2975362
 Radiogenomic mapping of edema/cellular invasion MRI-phenotypes in glioblastoma multiforme,192,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0025451
 A novel volume-age-KPS (VAK) glioblastoma classification identifies a prognostic cognate microRNA-gene signature,63,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0041522
-Distinct Radiomic Phenotypes Define Glioblastoma TP53-PTEN-EGFR Mutational Landscape,2,https://academic.oup.com/neurosurgery/article-abstract/64/CN_suppl_1/203/4093200
+Distinct Radiomic Phenotypes Define Glioblastoma TP53-PTEN-EGFR Mutational Landscape,3,https://academic.oup.com/neurosurgery/article-abstract/64/CN_suppl_1/203/4093200
+Two-phase multi-model automatic brain tumour diagnosis system from magnetic resonance images using convolutional neural networks,0,https://jivp-eurasipjournals.springeropen.com/articles/10.1186/s13640-018-0332-4
+Computer-aided diagnosis of clinically significant prostate cancer from MRI images using sparse autoencoder and random forest classifier,0,https://www.sciencedirect.com/science/article/pii/S0208521618300780
+Automated lung tumor detection and diagnosis in CT Scans using texture feature analysis and SVM,0,https://annals-csis.org/Volume_17/drp/pdf/176.pdf
+Automatic lung segmentation in low-dose chest CT scans using convolutional deep and wide network (CDWN),0,https://link.springer.com/article/10.1007/s00521-018-3877-3
+Imaging Biomarker Ontology (IBO): A Biomedical Ontology to Annotate and Share Imaging Biomarker Data,0,https://link.springer.com/article/10.1007/s13740-018-0093-3
+Classification of lung adenocarcinoma transcriptome subtypes from pathological images using deep convolutional networks,0,https://link.springer.com/article/10.1007/s11548-018-1835-2
+Potentials of radiomics for cancer diagnosis and treatment in comparison with computer-aided diagnosis,0,https://link.springer.com/article/10.1007/s12194-018-0486-x
+Discovery of pre-therapy 2-deoxy-2-18 F-fluoro-D-glucose positron emission tomography-based radiomics classifiers of survival outcome in non-small-cell lung cancer patients,0,https://link.springer.com/article/10.1007/s00259-018-4139-4
+A radiogenomic dataset of non-small cell lung cancer,1,https://www.nature.com/articles/sdata2018202
+Bone-Cancer Assessment and Destruction Pattern Analysis in Long-Bone X-ray Image,0,https://link.springer.com/article/10.1007/s10278-018-0145-0
+Reengineering Workflow for Curation of DICOM Datasets,0,https://link.springer.com/article/10.1007/s10278-018-0097-4
+Radiogenomics of Clear Cell Renal Cell Carcinoma: Associations Between mRNA-Based Subtyping and CT Imaging Features,0,https://www.sciencedirect.com/science/article/pii/S1076633218302411
+A volumetric technique for fossil body mass estimation applied to Australopithecus afarensis,3,https://www.sciencedirect.com/science/article/pii/S0047248417303196
+Quantitative variations in texture analysis features dependent on MRI scanning parameters: A phantom model,0,https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/acm2.12482
+"Segmentation, tracking, and kinematics of lung parenchyma and lung tumors from 4D CT with application to radiation treatment planning",0,https://ir.library.louisville.edu/etd/2938/
+Computational assessment of stomach tumor volume from multi-slice computerized tomography images in presence of type 2 cancer,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6234734/
+Multimodal Radiomic Features for the Predicting Gleason Score of Prostate Cancer,1,https://www.mdpi.com/2072-6694/10/8/249
+Prediction of survival with multi-scale radiomic analysis in glioblastoma patients,1,https://link.springer.com/article/10.1007/s11517-018-1858-4
+Improving Brain Tumor Diagnosis Using MRI Segmentation Based on Collaboration of Beta Mixture Model and Learning Automata,0,https://link.springer.com/article/10.1007/s13369-018-3320-1
+4D robust optimization including uncertainties in time structures can reduce the interplay effect in proton pencil beam scanning radiation therapy,2,https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.13094
+ Somatostatin Receptor Expression on VHL-Associated Hemangioblastomas Offers Novel Therapeutic Target,0,https://insights.ovid.com/neusg/201508001/00006123-201508001-00076
+Extraction of pulmonary vessels and tumour from plain computed tomography sequence,0,http://iopscience.iop.org/article/10.1088/1757-899X/402/1/012175/meta
+Synthetic Head and Neck and Phantom Images for Determining Deformable Image Registration Accuracy in Magnetic Resonance Imaging,0,https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.13090
+Imaging and clinical data archive for head and neck squamous cell carcinoma patients treated with radiotherapy,0,https://www.nature.com/articles/sdata2018173
+Generative Models and Feature Extraction on Patient Images and Structure Data in Radiation Therapy,0,http://www.diva-portal.org/smash/record.jsf?pid=diva2:1215620
+"The REMBRANDT study, a large collection of genomic data from brain cancer patients",1,https://www.nature.com/articles/sdata2018158
+Multi-faceted computational assessment of risk and progression in oligodendroglioma implicates NOTCH and PI3K pathways,0,https://www.nature.com/articles/s41698-018-0067-9
+A biomarker basing on radiomics for the prediction of overall survival in non–small cell lung cancer patients,0,https://respiratory-research.biomedcentral.com/articles/10.1186/s12931-018-0887-8
+Deep Feature Learning For Soft Tissue Sarcoma Classification In MR Images Via Transfer Learning,0,https://www.sciencedirect.com/science/article/pii/S0957417418307450
+Pulmonary nodule detection on computed tomography using neuro-evolutionary scheme,0,https://link.springer.com/article/10.1007/s11760-018-1327-4
+"Non-invasive tumor genotyping using radiogenomic biomarkers, a systematic review and oncology-wide pathway analysis",0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5929452/
+On-demand big data integration,2,https://link.springer.com/chapter/10.1007/978-3-319-67186-4_2
+A Probabilistic U-Net for Segmentation of Ambiguous Images,3,https://arxiv.org/abs/1806.05034
+Glioma Segmentation with Cascaded Unet,0,https://arxiv.org/abs/1810.04008
+A Three-Dimensional-Printed Patient-Specific Phantom for External Beam Radiation Therapy of Prostate Cancer,0,http://pressurevesseltech.asmedigitalcollection.asme.org/article.aspx?articleid=2688205
+High quality imaging from sparsely sampled computed tomography data with deep learning and wavelet transform in various domains,0,https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.13258
+Restoration of Full Data from Sparse Data in Low-Dose Chest Digital Tomosynthesis Using Deep Convolutional Neural Networks,0,https://link.springer.com/article/10.1007/s10278-018-0124-5
+Multiregional radiomics profiling from multiparametric MRI: Identifying an imaging predictor of IDH1 mutation status in glioblastoma,0,https://onlinelibrary.wiley.com/doi/abs/10.1002/cam4.1863
+A radiomic signature as a non-invasive predictor of progression-free survival in patients with lower-grade gliomas,0,https://www.sciencedirect.com/science/article/pii/S2213158218303243
+Molecular profiles of tumor contrast enhancement: A radiogenomic analysis in anaplastic gliomas,0,https://onlinelibrary.wiley.com/doi/abs/10.1002/cam4.1672
+Conventional MR-based Preoperative Nomograms for Prediction of IDH/1p19q Subtype in Low-Grade Glioma,0,https://www.sciencedirect.com/science/article/pii/S1076633218304616
+Evolutionary image simplification for lung nodule classification with convolutional neural networks,0,https://link.springer.com/article/10.1007/s11548-018-1794-7
+Automated Classification of Lung Diseases in Computed Tomography Images Using a Wavelet Based Convolutional Neural Network,0,http://www.scirp.org/journal/PaperInformation.aspx?paperID=88015
+EQUIPMENT TO ADDRESS INFRASTRUCTURE AND HUMAN RESOURCE CHALLENGES FOR RADIOTHERAPY IN LOW-RESOURCE SETTINGS,0,https://digitalcommons.library.tmc.edu/utgsbs_dissertations/895/
+Content-Based Image Retrieval System for Pulmonary Nodules Using Optimal Feature Sets and Class Membership-Based Retrieval,0,https://link.springer.com/article/10.1007/s10278-018-0136-1
+More accurate and efficient segmentation of organs‐at‐risk in radiotherapy with Convolutional Neural Networks Cascades,0,https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.13296
+CNN models discriminating between pulmonary micro-nodules and non-nodules from CT images,1,https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/s12938-018-0529-x
+Synergy of Sex Differences in Visceral Fat Measured with CT and Tumor Metabolism Helps Predict Overall Survival in Patients with Renal Cell Carcinoma,1,https://pubs.rsna.org/doi/abs/10.1148/radiol.2018171504
+Segmentation of lung from CT using various active contour models,0,https://www.sciencedirect.com/science/article/pii/S1746809418301988
+A Neuro-Fuzzy Based System for the Classification of Cells as Cancerous or Non-Cancerous,0,http://www.ijmrhs.com/abstract/a-neurofuzzy-based-system-for-the-classification-of-cells-as-cancerous-or-noncancerous-15061.html
+A novel fused convolutional neural network for biomedical image classification,0,https://link.springer.com/article/10.1007/s11517-018-1819-y
+An efficient low-dose CT reconstruction technique using partial derivatives based guided image filter,0,https://link.springer.com/article/10.1007/s11042-018-6840-5
+An Efficient Framework for Accurate Arterial Input Selection in DSC-MRI of Glioma Brain Tumors,0,http://jbpe.org/Journal_OJS/JBPE/index.php/jbpe/article/viewFile/899/472
+Conditional Generative Refinement Adversarial Networks for Unbalanced Medical Image Semantic Segmentation,1,https://arxiv.org/abs/1810.03871
+TCIApathfinder: an R client for The Cancer Imaging Archive REST API,1,http://cancerres.aacrjournals.org/content/early/2018/06/05/0008-5472.CAN-18-0678.short
+Total Variation for Image Denoising Based on a Novel Smart Edge Detector: An Application to Medical Images,0,https://link.springer.com/article/10.1007/s10851-018-0829-6
+Anatomical Segmentation of CT images for Radiation Therapy planning using Deep Learning,0,https://aaltodoc.aalto.fi/bitstream/handle/123456789/34379/master_Schreier_Jan_2018.pdf?sequence=1
+GFAP expression is influenced by astrocytoma grade and rs2070935 polymorphism,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6277660/
+Multi-Institutional Deep Learning Modeling Without Sharing Patient Data: A Feasibility Study on Brain Tumor Segmentation,0,https://arxiv.org/abs/1810.04304
+Automatic Lung Segmentation for the Inclusion of Juxtapleural Nodules and Pulmonary Vessels using Curvature based Border Correction,1,https://www.sciencedirect.com/science/article/pii/S1319157818300521
+Towards automatic initialization of registration algorithms using simulated endoscopy images,0,https://arxiv.org/abs/1806.10748
+Glioblastoma radiomics: can genomic and molecular characteristics correlate with imaging response patterns?,1,https://link.springer.com/article/10.1007/s00234-018-2060-y
+Identification of optimal mother wavelets in survival prediction of lung cancer patients using wavelet decomposition‐based radiomic features,1,https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.13202
+"A radiomics approach to assess tumour-infiltrating CD8 cells and response to anti-PD-1 or anti-PD-L1 immunotherapy: an imaging biomarker, retrospective multicohort study",4,https://www.sciencedirect.com/science/article/pii/S1470204518304133
+Effect of machine learning methods on predicting NSCLC overall survival time based on Radiomics analysis,0,https://ro-journal.biomedcentral.com/articles/10.1186/s13014-018-1140-9
+Scalable and flexible management of medical image big data,0,https://link.springer.com/article/10.1007/s10619-018-7230-8
+Number of Useful Components in Gaussian Mixture Models for Patch-Based Image Denoising,0,https://link.springer.com/chapter/10.1007/978-3-319-94211-7_13
+Novel Framework for Breast Cancer Classification for Retaining Computational Efficiency and Precise Diagnosis,0,https://www.caeaccess.org/archives/volume7/number15/vidya-2018-cae-652760.pdf
+"Methylation of L1RE1, RARB, and RASSF1 function as possible biomarkers for the differential diagnosis of lung cancer",1,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0195716
+A Gaussian Mixture Model based Level Set Method for Volume Segmentation in Medical Images,0,http://www.diva-portal.org/smash/record.jsf?pid=diva2:1217463
+Predicting Genotype and Survival in Glioma Using Standard Clinical MR Imaging Apparent Diffusion Coefficient Images: A Pilot Study from The Cancer Genome Atlas,1,http://www.ajnr.org/content/39/10/1814.abstract
+Magnetic resonance imaging and molecular features associated with tumor-infiltrating lymphocytes in breast cancer,0,https://breast-cancer-research.biomedcentral.com/articles/10.1186/s13058-018-1039-2
+Deep Domain Adaptation Learning Framework for Associating Image Features to Tumour Gene Profile,0,https://ses.library.usyd.edu.au/handle/2123/18589
+Regression Analyses of Distributions using Quantile Functional Regression,0,https://arxiv.org/abs/1810.03496
+Assessing robustness of radiomic features by image perturbation,0,https://arxiv.org/abs/1806.06719
+"
+Two-phase multi-model automatic brain tumour diagnosis system from magnetic resonance images using convolutional neural networks
+",0,https://jivp-eurasipjournals.springeropen.com/articles/10.1186/s13640-018-0332-4
+"
+Robust Computer-Aided Detection of Pulmonary Nodules from Chest Computed Tomography
+",5,https://www.ingentaconnect.com/contentone/asp/jmihi/2016/00000006/00000003/art00015
+"
+A generalized framework for medical image classification and recognition
+",19,https://ieeexplore.ieee.org/abstract/document/7094962/
+"
+Computer-aided diagnosis of clinically significant prostate cancer from MRI images using sparse autoencoder and random forest classifier
+",0,https://www.sciencedirect.com/science/article/pii/S0208521618300780
+"
+Adaptive Enhancement Technique for Cancerous Lung Nodule in Computed Tomography Images
+",1,http://www.enggjournals.com/ijet/docs/IJET16-08-03-406.pdf
+"
+Automated lung tumor detection and diagnosis in CT Scans using texture feature analysis and SVM
+",0,https://annals-csis.org/Volume_17/drp/pdf/176.pdf
+"
+Defining a Radiomic Response Phenotype: A Pilot Study using targeted therapy in NSCLC
+",40,https://www.nature.com/articles/srep33860
+"
+Decoding tumour phenotype by noninvasive imaging using a quantitative radiomics approach
+",1029,https://www.nature.com/articles/ncomms5006
+"
+Decoding tumour phenotype by noninvasive imaging using a quantitative radiomics approach
+",1029,https://www.nature.com/articles/ncomms5006
+"
+Patient-Wise Versus Nodule-Wise Classification of Annotated Pulmonary Nodules using Pathologically Confirmed Cases
+",5,http://www.jcomputers.us/vol8/jcp0809-13.pdf
+"
+Automatic lung segmentation in low-dose chest CT scans using convolutional deep and wide network (CDWN)
+",0,https://link.springer.com/article/10.1007/s00521-018-3877-3
+"
+Robust Image Denoising with Multi-Column Deep Neural Networks
+",60,https://ieeexplore.ieee.org/abstract/document/7018004/
+"
+Adaptive Multi-Column Deep Neural Networks with Application to Robust Image Denoising
+",118,http://papers.nips.cc/paper/5030-adaptive-multi-column-deep-neural-networks-with-application-to-robust-image-denoising
+"
+Tumor Lesion Segmentation from 3D PET Using a Machine Learning Driven Active Surface
+",4,https://link.springer.com/chapter/10.1007/978-3-319-47157-0_33
+"
+Increased robustness in reference region model analysis of DCE MRI using two‐step constrained approaches
+",1,https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.26530
+"
+An extended reference region model for DCE‐MRI that accounts for plasma volume
+",0,https://onlinelibrary.wiley.com/doi/abs/10.1002/nbm.3924
+"
+GLISTRboost: Combining Multimodal MRI Segmentation, Registration, and Biophysical Tumor Growth Modeling with Gradient Boosting Machines for Glioma Segmentation
+",24,https://link.springer.com/chapter/10.1007/978-3-319-30858-6_13
+"
+A review of lung cancer screening and the role of computer-aided detection
+",23,https://www.sciencedirect.com/science/article/pii/S0009926017300296
+"
+Breast Cancer Diagnostic System Based on MR images Using KPCA-Wavelet Transform and Support Vector Machine
+",0,http://ijaers.com/uploads/issue_files/41%20IJAERS-MAR-2017-58-Breast%20Cancer%20Diagnostic%20System%20Based%20on%20MR.pdf
+"
+Quantitative assessment of colorectal morphology: Implications for robotic colonoscopy
+",11,https://www.sciencedirect.com/science/article/pii/S1350453315002763
+"
+Deep learning for segmentation of brain tumors: Impact of cross-institutional training and testing
+",5,https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.12752
+"
+Self-organizing Approach to Learn a Level-set Function for Object Segmentation in Complex Background Environments
+",0,http://rave.ohiolink.edu/etdc/view?acc_num=dayton1429545327
+"
+Automatic intensity windowing of mammographic images based on a perceptual metric
+",0,https://onlinelibrary.wiley.com/doi/abs/10.1002/mp.12144
+"
+Radiogenomics in renal cell carcinoma
+",0,https://link.springer.com/content/pdf/10.1007/s00261-018-1624-y.pdf
+"
+SurfCut: Surfaces of Minimal Paths From Topological Structures
+",0,https://ieeexplore.ieee.org/abstract/document/8306823/
+"
+Robust Detection of Circles in the Vessel Contours and Application to Local Probability Density Estimation
+",,
+"
+Imaging Biomarker Ontology (IBO): A Biomedical Ontology to Annotate and Share Imaging Biomarker Data
+",,
+"
+Breast Cancer Response Prediction in Neoadjuvant Chemotherapy Treatment Based on Texture Analysis
+",,
+"
+Application of Fuzzy c-means and Neural networks to categorize tumor affected breast MR Images
+",,
+"
+Imaging Genomics in Glioblastoma Multiforme: A Predictive Tool for Patients Prognosis, Survival, and Outcome
+",,
+"
+Lung nodule detection using 3D convolutional neural networks trained on weakly labeled data
+",,
+"
+Brain tumour classification using two-tier classifier with adaptive segmentation technique
+",,
+"
+Classification of lung adenocarcinoma transcriptome subtypes from pathological images using deep convolutional networks
+",,
+"
+Fast wavelet based image characterization for content based medical image retrieval
+",,
+"
+Beyin MR Görüntülerinden Bilgisayar Destekli Tümör Teşhisi Sistemi Computer-aided Tumor Detection System Using Brain MR Images
+",,
+"
+Potentials of radiomics for cancer diagnosis and treatment in comparison with computer-aided diagnosis
+",,
+"
+The lung image database consortium (LIDC) and image database resource initiative (IDRI): a completed reference database of lung nodules on CT scans
+",,
+"
+Collaborative projects
+",,
+"
+SPIE-AAPM-NCI Lung Nodule Classification Challenge Dataset
+",,
+"
+Special Section Guest Editorial: LUNGx Challenge for computerized lung nodule classification: reflections and lessons learned
+",,
+"
+Discovery of pre-therapy 2-deoxy-2-18 F-fluoro-D-glucose positron emission tomography-based radiomics classifiers of survival outcome in non-small-cell lung cancer patients
+",,
+"
+Computer Aided Detection Scheme To Improve The Prognosis Assessment Of Early Stage Lung Cancer Patients
+",,
+"
+Radiogenomics of clear cell renal cell carcinoma: preliminary findings of The Cancer Genome Atlas–Renal Cell Carcinoma (TCGA–RCC) Imaging Research Group
+",,
+"
+Analysis of dual tree M‐band wavelet transform based features for brain image classification
+",,
+"
+Analysis of Classification Methods for Diagnosis of Pulmonary Nodules in CT Images
+",,
+"
+Detection of Brain Tumour in MRI Scan Images using Tetrolet Transform and SVM Classifier
+",,
+"
+BIOMEDICAL IMAGE RETRIEVAL USING LBWP
+",,
+"
+Imaging genomics in cancer research: limitations and promises
+",,
+"
+BraTS Multimodal Brain Tumor Segmetation Challenge
+",,
+"
+A radiogenomic dataset of non-small cell lung cancer
+",,
+"
+Test–Retest Reproducibility Analysis of Lung CT Image Features
+",,
+"
+Bone-Cancer Assessment and Destruction Pattern Analysis in Long-Bone X-ray Image
+",,
+"
+A New Adaptive-Weighted Fusion Rule for Wavelet based PET/CT Fusion
+",,
+"
+Removing Mixture Noise from Medical Images Using Block Matching Filtering and Low-Rank Matrix Completion
+",,
+"
+Anatomical DCE-MRI phantoms generated from glioma patient data
+",,
+"
+Multi‐site quality and variability analysis of 3D FDG PET segmentations based on phantom and clinical image data
+",,
+"
+Radiogenomic analysis of hypoxia pathway is predictive of overall survival in Glioblastoma
+",,
+"
+Radiogenomic analysis of hypoxia pathway reveals computerized MRI descriptors predictive of overall survival in Glioblastoma
+",,
+"
+Automatic Design of Window Operators for the Segmentation of the Prostate Gland in Magnetic Resonance Images
+",,
+"
+Overview of the American Society for Radiation Oncology–National Institutes of Health–American Association of Physicists in Medicine Workshop 2015: Exploring Opportunities for Radiation Oncology in the Era of Big Data
+",,
+"
+Reengineering Workflow for Curation of DICOM Datasets
+",,
+"
+Segmentation of Three-dimensional Images with Parametric Active Surfaces and Topology Changes
+",,
+"
+Pulmonary nodule detection using a cascaded SVM classifier
+",,
+"
+G-DOC Plus–an integrative bioinformatics platform for precision medicine
+",,
+"
+A comparison of ground truth estimation methods
+",,
+"
+Performance analysis of unsupervised optimal fuzzy clustering algorithm for MRI brain tumor segmentation
+",,
+"
+CT Colonography: External Clinical Validation of an Algorithm for Computer-assisted Prone and Supine Registration
+",,
+"
+DOIs for DICOM Raw Images: Enabling Science Reproducibility
+",,
+"
+Radiogenomics of Clear Cell Renal Cell Carcinoma: Associations Between mRNA-Based Subtyping and CT Imaging Features
+",,
+"
+Singular value decomposition using block least mean square method for image denoising and compression
+",,
+"
+A volumetric technique for fossil body mass estimation applied to Australopithecus afarensis
+",,
+"
+Constructing 3D-Printable CAD Models of Prostates from MR Images
+",,
+"
+Quantitative variations in texture analysis features dependent on MRI scanning parameters: A phantom model
+",,
+"
+Quantitative Imaging Biomarker Ontology (QIBO) for Knowledge Representation of Biomedical Imaging Biomarkers
+",,
+"
+Comparing nonrigid registration techniques for motion corrected MR prostate diffusion imaging
+",,
+"
+Using computer‐extracted image phenotypes from tumors on breast magnetic resonance imaging to predict breast cancer pathologic stage
+",,
+"
+Image Area Reduction for Efficient Medical Image Retrieval
+",,
+"
+Selección de un algoritmo para la clasificación de Nódulos Pulmonares Solitarios
+",,
+"
+Highly accurate model for prediction of lung nodule malignancy with CT scans
+",,
+"
+Segmentation, tracking, and kinematics of lung parenchyma and lung tumors from 4D CT with application to radiation treatment planning
+",,
+"
+Computational assessment of stomach tumor volume from multi-slice computerized tomography images in presence of type 2 cancer
+",,
+"
+Automated feature extraction in brain tumor by magnetic resonance imaging using gaussian mixture models
+",,
+"
+Phenotypic characterization of glioblastoma identified through shape descriptors
+",,
+"
+GBM heterogeneity characterization by radiomic analysis of phenotype anatomical planes
+",,
+"
+Radiomic analysis of multi-contrast brain MRI for the prediction of survival in patients with glioblastoma multiforme
+",,
+"
+Predicting survival time of lung cancer patients using radiomic analysis
+",,
+"
+Multimodal Radiomic Features for the Predicting Gleason Score of Prostate Cancer
+",,
+"
+Prediction of survival with multi-scale radiomic analysis in glioblastoma patients
+",,
+"
+High-Throughput Quantification of Phenotype Heterogeneity Using Statistical Features
+",,
+"
+Quantitative evaluation of robust skull stripping and tumor detection applied to axial MR images
+",,
+"
+Extracted magnetic resonance texture features discriminate between phenotypes and are associated with overall survival in glioblastoma multiforme patients
+",,
+"
+Automated lung field segmentation in CT images using mean shift clustering and geometrical features
+",,
+"
+Using Docker to support reproducible research
+",,
+"
+Residual Convolutional Neural Network for the Determination of IDH Status in Low-and High-Grade Gliomas from MR Imaging
+",,
+"
+Deep-Learning Convolutional Neural Networks Accurately Classify Genetic Mutations in Gliomas
+",,
+"
+Primer for Image Informatics in Personalized Medicine
+",,
+"
+""Big data"" and ""open data"": What kind of access should researchers enjoy?
+",,
+"
+MRI prostate cancer radiomics: Assessment of effectiveness and perspectives
+",,
+"
+A Fast Semi-Automatic Segmentation Tool for Processing Brain Tumor Images
+",,
+"
+aLow-dose CT via convolutional neural network
+",,
+"
+An Assessment of Imaging Informatics for Precision Medicine in Cancer
+",,
+"
+Integrative analysis of imaging and transcriptomic data of the immune landscape associated with tumor metabolism in lung adenocarcinoma: Clinical and prognostic implications
+",,
+"
+Incremental Prognostic Value of ADC Histogram Analysis over MGMT Promoter Methylation Status in Patients with Glioblastoma
+",,
+"
+ST3GAL1-associated transcriptomic program in glioblastoma tumor growth, invasion, and prognosis
+",,
+"
+Automatic detection of spiculation of pulmonary nodules in computed tomography images
+",,
+"
+The Cancer Imaging Archive (TCIA): maintaining and operating a public information repository
+",,
+"
+Reproducing 2D breast mammography images with 3D printed phantoms
+",,
+"
+The Quantitative Imaging Network: NCI's Historical Perspective and Planned Goals
+",,
+"
+Automated Medical Image Modality Recognition by Fusion of Visual and Text Information
+",,
+"
+Semantic Model Vector for ImageCLEF2013
+",,
+"
+NCI Workshop Report: Clinical and Computational Requirements for Correlating Imaging Phenotypes with Genomics Signatures
+",,
+"
+Glioblastoma: Imaging Genomic Mapping Reveals Sex-specific Oncogenic Associations of Cell Death
+",,
+"
+Imaging genomic mapping of an invasive MRI phenotype predicts patient outcome and metabolic dysfunction: a TCGA glioma phenotype research group project
+",,
+"
+Glioblastoma: Imaging Genomic Mapping Reveals Sex-specific Oncogenic Associations of Cell Death
+",,
+"
+A Query Tool for Investigator Access to the Data and Images of the National Lung Screening Trial
+",,
+"
+Extended Modality Propagation: Image Synthesis of Pathological Cases
+",,
+"
+Bayesian Kernel Models for Statistical Genetics and Cancer Genomics
+",,
+"
+Topological Summaries of Tumor Images Improve Prediction of Disease Free Survival in Glioblastoma Multiforme
+",,
+"
+Primary lung tumor segmentation from PET–CT volumes with spatial–topological constraint
+",,
+"
+Volume of high-risk intratumoral subregions at multi-parametric MR imaging predicts overall survival and complements molecular analysis of glioblastoma
+",,
+"
+Prognostic Imaging Biomarkers in Glioblastoma: Development and Independent Validation on the Basis of Multiregion and Quantitative Analysis of MR Images
+",,
+"
+Algorithmic three-dimensional analysis of tumor shape in MRI improves prognosis of survival in glioblastoma: a multi-institutional study
+",,
+"
+Radiogenomics of glioblastoma: a pilot multi-institutional study to investigate a relationship between tumor shape features and tumor molecular subtype
+",,
+"
+Machine learning: a useful radiological adjunct in determination of a newly diagnosed glioma's grade and IDH status
+",,
+"
+Directional local ternary quantized extrema pattern: A new descriptor for biomedical image indexing and retrieval
+",,
+"
+Local mesh ternary patterns: a new descriptor for MRI and CT biomedical image indexing and retrieval
+",,
+"
+Predicting response before initiation of neoadjuvant chemotherapy in breast cancer using new methods for the analysis of dynamic contrast enhanced MRI (DCE MRI) data
+",,
+"
+Mesoscopic imaging of glioblastomas: Are diffusion, perfusion and spectroscopic measures influenced by the radiogenetic phenotype?
+",,
+"
+Computer-aided detection of lung nodules using outer surface features
+",,
+"
+Development of a nomogram combining clinical staging with 18F-FDG PET/CT image features in non-small-cell lung cancer stage I–III
+",,
+"
+Spatial habitats from multiparametric MR imaging are associated with signaling pathway activities and survival in glioblastoma
+",,
+"
+Measurement of spiculation index in 3D for solitary pulmonary nodules in volumetric lung CT images
+",,
+"
+3d texture analysis of solitary pulmonary nodules using co-occurrence matrix from volumetric lung CT images
+",,
+"
+Automated segmentation refinement of small lung nodules in CT scans by local shape analysis
+",,
+"
+Most-enhancing tumor volume by MRI radiomics predicts recurrence-free survival ""early on"" in neoadjuvant treatment of breast cancer
+",,
+"
+Local Wavelet Pattern: A New Feature Descriptor for Image Retrieval in Medical CT Databases
+",,
+"
+Assessing the Effects of Software Platforms on Volumetric Segmentation of Glioblastoma
+",,
+"
+Improving Brain Tumor Diagnosis Using MRI Segmentation Based on Collaboration of Beta Mixture Model and Learning Automata
+",,
+"
+Automated 3-D Tissue Segmentation Via Clustering
+",,
+"
+Performance Analysis of Prediction Methods for Lossless Image Compression
+",,
+"
+Decision forests for learning prostate cancer probability maps from multiparametric MRI
+",,
+"
+A Content-Based-Image-Retrieval Approach for Medical Image Repositories
+",,
+"
+Imaging genomics of glioblastoma: state of the art bridge between genomics and neuroradiology
+",,
+"
+A Novel Hybrid Perceptron Neural Network Algorithm for Classifying Breast MRI Tumors
+",,
+"
+A COMPUTER AIDED DIAGNOSIS SYSTEM FOR LUNG CANCER DETECTION USING SVM
+",,
+"
+4D robust optimization including uncertainties in time structures can reduce the interplay effect in proton pencil beam scanning radiation therapy
+",,
+"
+Radiology and Enterprise Medical Imaging Extensions (REMIX)
+",,
+"
+Multisite Image Data Collection and Management Using the RSNA Image Sharing Network
+",,
+"
+New prognostic factor telomerase reverse transcriptase promotor mutation presents without MR imaging biomarkers in primary glioblastoma
+",,
+"
+Adaptive texture energy measure method
+",,
+"
+Computer-aided detection of Pulmonary Nodules based on SVM in thoracic CT images
+",,
+"
+Feature fusion for lung nodule classification
+",,
+"
+Hybrid intelligent approach for diagnosis of the lung nodule from CT images using spatial kernelized fuzzy c-means and ensemble learning
+",,
+"
+Computational Challenges and Collaborative Projects in the NCI Quantitative Imaging Network
+",,
+"
+Signal intensity analysis of ecological defined habitat in soft tissue sarcomas to predict metastasis development
+",,
+"
+DICOM for quantitative imaging biomarker development: a standards based approach to sharing clinical data and structured PET/CT analysis results in head and neck cancer research
+",,
+"
+A comparison of two methods for estimating DCE-MRI parameters 
+via
+ individual and cohort based AIFs in prostate cancer: A step towards practical implementation
+",,
+"
+ Somatostatin Receptor Expression on VHL-Associated Hemangioblastomas Offers Novel Therapeutic Target
+",,
+"
+HEVC optimizations for medical environments
+",,
+"
+Characterization of Pulmonary Nodules Based on Features of Margin Sharpness and Texture
+",,
+"
+LCD-OpenPACS: sistema integrado de telerradiologia com auxílio ao diagnóstico de nódulos pulmonares em exames de tomografia computadorizada
+",,
+"
+Computer-aided detection (CADe) and diagnosis (CADx) system for lung cancer with likelihood of malignancy
+",,
+"
+A radiomics model from joint FDG-PET and MRI texture features for the prediction of lung metastases in soft-tissue sarcomas of the extremities
+",,
+"
+Image data sharing for biomedical research—meeting HIPAA requirements for de-identification
+",,
+"
+Supervised Machine-Learning Framework and Classifier Evaluation for Automated Three-dimensional Medical Image Segmentation based on Body MRI
+",,
+"
+Extraction of pulmonary vessels and tumour from plain computed tomography sequence
+",,
+"
+An Improved Mammogram Classification Approach Using Back Propagation Neural Network
+",,
+"
+A resource for the assessment of lung nodule size estimation methods: database of thoracic CT scans of an anthropomorphic phantom
+",,
+"
+Benefit of overlapping reconstruction for improving the quantitative assessment of CT lung nodule volume
+",,
+"
+Automatic Segmentation of Colon in 3D CT Images and Removal of Opacified Fluid Using Cascade Feed Forward Neural Network
+",,
+"
+Segmentation of colon and removal of opacified fluid for virtual colonoscopy
+",,
+"
+Synthetic Head and Neck and Phantom Images for Determining Deformable Image Registration Accuracy in Magnetic Resonance Imaging
+",,
+"
+Glioblastoma multiforme: exploratory radiogenomic analysis by using quantitative image features
+",,
+"
+Glioblastoma Multiforme: Exploratory Radiogenomic Analysis by Using Quantitative Image Features
+",,
+"
+Non-small cell lung cancer: identifying prognostic imaging biomarkers by leveraging public gene expression microarray data--methods and preliminary results
+",,
+"
+Non-small cell lung cancer: identifying prognostic imaging biomarkers by leveraging public gene expression microarray data--methods and preliminary results.
+",,
+"
+Medical Imaging Segmentation Assessment via Bayesian Approaches to Fusion, Accuracy and Variability Estimation with Application to Head and Neck Cancer
+",,
+"
+Brain tumor detection from MRI image: An approach
+",,
+"
+Role of Imaging in the Era of Precision Medicine
+",,
+"
+Automatic Multi-organ Segmentation on Abdominal CT with Dense V-networks
+",,
+"
+Towards Image-Guided Pancreas and Biliary Endoscopy: Automatic Multi-organ Segmentation on Abdominal CT with Dense Dilated Networks
+",,
+"
+Machine Learning in Medical Imaging
+",,
+"
+Radiomics: Images are more than pictures, they are data
+",,
+"
+Intuitive Error Space Exploration of Medical Image Data in Clinical Daily Routine
+",,
+"
+DeepCADe: A Deep Learning Architecture for the Detection of Lung Nodules in CT Scans
+",,
+"
+Lung nodule detection in CT images using deep convolutional neural networks
+",,
+"
+Automatic detection of pulmonary nodules in CT images by incorporating 3D tensor filtering with local image feature analysis
+",,
+"
+Guest Editorial Deep Learning in Medical Imaging: Overview and Future Promise of an Exciting New Technique
+",,
+"
+Imaging and clinical data archive for head and neck squamous cell carcinoma patients treated with radiotherapy
+",,
+"
+Imaging-genomics reveals driving pathways of MRI derived volumetric tumor phenotype features in Glioblastoma
+",,
+"
+Defining the biological and clinical basis of radiomics: towards clinical imaging biomarkers
+",,
+"
+Data from: Quantitative computed tomographic descriptors associate tumor shape complexity and intratumor heterogeneity with prognosis in lung adenocarcinoma
+",,
+"
+Quantitative Computed Tomographic Descriptors Associate Tumor Shape Complexity and Intratumor Heterogeneity with Prognosis in Lung Adenocarcinoma
+",,
+"
+Using Deep Learning for Pulmonary Nodule Detection & Diagnosis
+",,
+"
+Smooth extrapolation of unknown anatomy via statistical shape models
+",,
+"
+Generative Models and Feature Extraction on Patient Images and Structure Data in Radiation Therapy
+",,
+"
+User-centered design and evaluation of interactive segmentation methods for medical images
+",,
+"
+User-guided graph reduction for fast image segmentation
+",,
+"
+A generalized graph reduction framework for interactive segmentation of large images
+",,
+"
+Feature selection and patch-based segmentation in MRI for prostate radiotherapy
+",,
+"
+Prediction of clinical phenotypes in invasive breast carcinomas from the integration of radiomics and genomics data
+",,
+"
+A tool for lung nodules analysis based on segmentation and morphological operation
+",,
+"
+Brain Tumor Detection using Curvelet Transform and Support Vector Machine
+",,
+"
+Appropriate Contrast Enhancement Measures for Brain and Breast Cancer Images
+",,
+"
+The REMBRANDT study, a large collection of genomic data from brain cancer patients
+",,
+"
+MR Imaging Predictors of Molecular Profile and Survival: Multi-institutional Study of the TCGA Glioblastoma Data Set
+",,
+"
+Cancer Digital Slide Archive: an informatics resource to support integrated in silico analysis of TCGA pathology data
+",,
+"
+MR Imaging Predictors of Molecular Profile and Survival: Multi-institutional Study of the TCGA Glioblastoma Data Set
+",,
+"
+Web based tools for visualizing imaging data and development of XNATView, a zero footprint image viewer
+",,
+"
+Somatic mutations associated with MRI-derived volumetric features in glioblastoma
+",,
+"
+OPTIMISING DELINEATION ACCURACY OF TUMOURS IN PET FOR RADIOTHERAPY PLANNING USING BLIND DECONVOLUTION
+",,
+"
+Multi-faceted computational assessment of risk and progression in oligodendroglioma implicates NOTCH and PI3K pathways
+",,
+"
+Vector quantization-based automatic detection of pulmonary nodules in thoracic CT images
+",,
+"
+A novel computer-aided detection system for pulmonary nodule identification in CT images
+",,
+"
+MRI to MGMT: predicting methylation status in glioblastoma patients using convolutional recurrent neural networks
+",,
+"
+Predictive capabilities of statistical learning methods for lung nodule malignancy classification using diagnostic image features: an investigation using the Lung Image Database Consortium dataset
+",,
+"
+SU-E-J-98: Radiogenomics: Correspondence Between Imaging and Genetic Features Based On Clustering Analysis
+",,
+"
+A biomarker basing on radiomics for the prediction of overall survival in non–small cell lung cancer patients
+",,
+"
+Multiparametric MRI of prostate cancer: An update on state‐of‐the‐art techniques and their performance in detecting and localizing prostate cancer
+",,
+"
+Deep Feature Learning For Soft Tissue Sarcoma Classification In MR Images Via Transfer Learning
+",,
+"
+Quantitative Radiology: Applications to Oncology
+",,
+"
+Design of a Patient-Specific Radiotherapy Treatment Target
+",,
+"
+Approaches to uncovering cancer diagnostic and prognostic molecular signatures
+",,
+"
+Publishing descriptions of non-public clinical datasets: proposed guidance for researchers, repositories, editors and funding organisations
+",,
+"
+Quantitative glioma grading using transformed gray-scale invariant textures of MRI
+",,
+"
+Computer-aided grading of gliomas based on local and global MRI features
+",,
+"
+Computer-aided grading of gliomas based on local and global MRI features
+",,
+"
+Effect of a computer-aided diagnosis system on radiologists' performance in grading gliomas with MRI
+",,
+"
+A neural network approach to lung nodule segmentation
+",,
+"
+The Path from Big Data to Precision Medicine
+",,
+"
+Image Super-Resolution Algorithm Based on an Improved Sparse Autoencoder
+",,
+"
+The Study on Data Hiding in Medical Images
+",,
+"
+A reversible data hiding method by histogram shifting in high quality medical images
+",,
+"
+The Impact of Arterial Input Function Determination Variations on Prostate Dynamic Contrast-Enhanced Magnetic Resonance Imaging Pharmacokinetic Modeling: A Multicenter Data Analysis Challenge
+",,
+"
+Variations of dynamic contrast-enhanced magnetic resonance imaging in evaluation of breast cancer therapy response: a multicenter data analysis challenge
+",,
+"
+Variations of dynamic contrast-enhanced magnetic resonance imaging in evaluation of breast cancer therapy response: a multicenter data analysis challenge
+",,
+"
+A longitudinal four‐dimensional computed tomography and cone beam computed tomography dataset for image‐guided radiation therapy research in lung cancer
+",,
+"
+Pulmonary nodule detection on computed tomography using neuro-evolutionary scheme
+",,
+"
+Radiomics of NSCLC: Quantitative CT Image Feature Characterization and Tumor Shrinkage Prediction
+",,
+"
+Collage CNN for Renal Cell Carcinoma Detection from CT
+",,
+"
+Advanced MRI Techniques in the Monitoring of Treatment of Gliomas
+",,
+"
+Brain tumor segmentation in multi‐spectral MRI using convolutional neural networks (CNN)
+",,
+"
+Magnetic resonance image features identify glioblastoma phenotypic subtypes with distinct molecular pathway activities
+",,
+"
+imaging and Genomics: is there a synergy?
+",,
+"
+Quantitative imaging in radiation oncology: An emerging science and clinical service
+",,
+"
+Genomic mapping and survival prediction in glioblastoma: molecular subclassification strengthened by hemodynamic imaging biomarkers
+",,
+"
+Correlation of perfusion parameters with genes related to angiogenesis regulation in glioblastoma: a feasibility study
+",,
+"
+Outcome prediction in patients with glioblastoma by using imaging, clinical, and genomic biomarkers: focus on the nonenhancing component of the tumor
+",,
+"
+Outcome Prediction in Patients with Glioblastoma by Using Imaging, Clinical, and Genomic Biomarkers: Focus on the Nonenhancing Component of the Tumor
+",,
+"
+Integrative analysis of diffusion-weighted MRI and genomic data to inform treatment of glioblastoma
+",,
+"
+Non-invasive tumor genotyping using radiogenomic biomarkers, a systematic review and oncology-wide pathway analysis
+",,
+"
+Integrating Open Data on Cancer in Support to Tumor Growth Analysis
+",,
+"
+Lung nodule detection from CT scans using 3D convolutional neural networks without candidate selection
+",,
+"
+Analysis of Vestibular Labyrinthine Geometry and Variation in the Human Temporal Bone
+",,
+"
+Interactive 3D Virtual Colonoscopic Navigation For Polyp Detection From CT Images
+",,
+"
+Cloud-based NoSQL open database of pulmonary nodules for computer-aided lung cancer diagnosis and reproducible research
+",,
+"
+Quantitative Imaging Network: Data Sharing and Competitive AlgorithmValidation Leveraging The Cancer Imaging Archive
+",,
+"
+Radiomics of Lung Nodules: A Multi-Institutional Study of Robustness and Agreement of Quantitative Imaging Features
+",,
+"
+Radiomics of Lung Nodules: A Multi-Institutional Study of Robustness and Agreement of Quantitative Imaging Features
+",,
+"
+QIN multi-site collection of Lung CT data with Nodule Segmentations
+",,
+"
+A Comparison of Lung Nodule Segmentation Algorithms: Methods and Results from a Multi-institutional Study
+",,
+"
+A low cost approach for brain tumor segmentation based on intensity modeling and 3D Random Walker
+",,
+"
+Learning MRI-based classification models for MGMT methylation status prediction in glioblastoma
+",,
+"
+3D multi-view convolutional neural networks for lung nodule classification
+",,
+"
+Public data and open source tools for multi-assay genomic investigation of disease
+",,
+"
+Radiogenomic correlation for prognosis in patients with glioblastoma multiformae
+",,
+"
+Identification of Tumor area from Brain MR Image
+",,
+"
+Mediator: A data sharing synchronization platform for heterogeneous medical image archives
+",,
+"
+On-demand big data integration
+",,
+"
+""Radiotranscriptomics"": A synergy of imaging and transcriptomics in clinical assessment
+",,
+"
+A joint intensity and edge magnitude-based multilevel thresholding algorithm for the automatic segmentation of pathological MR brain images
+",,
+"
+Radiological Atlas for Patient Specific Model Generation
+",,
+"
+Supervised Dimension-Reduction Methods for Brain Tumor Image Data Analysis
+",,
+"
+eFis: A Fuzzy Inference Method for Predicting Malignancy of Small Pulmonary Nodules
+",,
+"
+Malignancy prediction by using characteristic-based fuzzy sets: A preliminary study
+",,
+"
+Computer-aided detection of brain tumors using image processing techniques
+",,
+"
+Preliminary Detection and Analysis of Lung Cancer on CT images using MATLAB: A Cost-effective Alternative
+",,
+"
+Associations between gene expression profiles of invasive breast cancer and Breast Imaging Reporting and Data System MRI lexicon
+",,
+"
+Modification of population based arterial input function to incorporate individual variation
+",,
+"
+A Probabilistic U-Net for Segmentation of Ambiguous Images
+",,
+"
+Creation and Curation of the Society of Imaging Informatics in Medicine Hackathon Dataset
+",,
+"
+Creation and curation of the society of imaging informatics in Medicine Hackathon Dataset
+",,
+"
+Automated Segmentation of Hyperintense Regions in FLAIR MRI Using Deep Learning
+",,
+"
+Radiomics in Brain Tumors: An Emerging Technique for Characterization of Tumor Environment
+",,
+"
+The quest for'diagnostically lossless' medical image compression: a comparative study of objective quality metrics for compressed medical images
+",,
+"
+Performance Analysis of Denoising in MR Images with Double Density Dual Tree Complex Wavelets, Curvelets and NonSubsampled Contourlet Transforms
+",,
+"
+Three-dimensional lung nodule segmentation and shape variance analysis to detect lung cancer with reduced false positives
+",,
+"
+An Level Set Evolution Morphology Based Segmentation of Lung Nodules and False Nodule Elimination by 3D Centroid Shift and Frequency Domain DC Constant Analysis
+",,
+"
+Content-Based Medical Image Retrieval: A Survey of Applications to Multidimensional and Multimodality Data
+",,
+"
+A Visual Analytics Approach using the Exploration of Multi-Dimensional Feature Spaces for Content-based Medical Image Retrieval
+",,
+"
+Discovery Radiomics for Computed Tomography Cancer Detection
+",,
+"
+Lung Nodule Classification Using Deep Features in CT Images
+",,
+"
+Human Ether-a-Go-Go-Related-1 Gene (hERG) K+ Channel as a Prognostic Marker and Therapeutic Target for Glioblastoma
+",,
+"
+Combining Generative Models for Multifocal Glioma Segmentation and Registration
+",,
+"
+Glioma Segmentation with Cascaded Unet
+",,
+"
+Textural Analysis of Tumour Imaging: A Radiomics Approach
+",,
+"
+A simple texture feature for retrieval of medical images
+",,
+"
+Collaborative and Reproducible Research: Goals, Challenges, and Strategies
+",,
+"
+A Deep Learning-Based Radiomics Model for Prediction of Survival in Glioblastoma Multiforme
+",,
+"
+4DCT imaging to assess radiomics feature stability: An investigation for thoracic cancers
+",,
+"
+Robust semi-automatic segmentation of pulmonary subsolid nodules in chest computed tomography scans
+",,
+"
+Discrimination of Benign and Malignant Suspicious BreastTumors Based on Semi-Quantitative DCE-MRI ParametersEmploying Support Vector Machine
+",,
+"
+Automatic Prostate Cancer Segmentation Using Kinetic Analysis in Dynamic Contrast-Enhanced MRI
+",,
+"
+Automatic Prostate Cancer Segmentation Using Kinetic Analysis in Dynamic Contrast-Enhanced MRI
+",,
+"
+Liver Tumor Segmentation from MR Images Using 3D Fast Marching Algorithm and Single Hidden Layer Feedforward Neural Network
+",,
+"
+A Three-Dimensional-Printed Patient-Specific Phantom for External Beam Radiation Therapy of Prostate Cancer
+",,
+"
+High quality imaging from sparsely sampled computed tomography data with deep learning and wavelet transform in various domains
+",,
+"
+Restoration of Full Data from Sparse Data in Low-Dose Chest Digital Tomosynthesis Using Deep Convolutional Neural Networks
+",,
+"
+Comparison of novel multi-level Otsu (MO-PET) and conventional PET segmentation methods for measuring FDG metabolic tumor volume in patients with soft tissue sarcoma
+",,
+"
+Prognostic value and molecular correlates of a CT image-based quantitative pleural contact index in early stage NSCLC
+",,
+"
+Texture feature ratios from relative CBV maps of perfusion MRI are associated with patient survival in glioblastoma
+",,
+"
+Spatial Habitat Features Derived from Multiparametric Magnetic Resonance Imaging Data Are Associated with Molecular Subtype and 12-Month Survival Status in Glioblastoma Multiforme
+",,
+"
+Associating spatial diversity features of radiologically defined tumor habitats with epidermal growth factor receptor driver status and 12-month survival in glioblastoma: methods and preliminary investigation
+",,
+"
+Spatiotemporal genomic architecture informs precision oncology in glioblastoma
+",,
+"
+Quality of Radiomic Features in Glioblastoma Multiforme: Impact of Semi-Automated Tumor Segmentation Software
+",,
+"
+High-dimensional regression analysis links magnetic resonance imaging features and protein expression and signaling pathway alterations in breast invasive carcinoma
+",,
+"
+Multiple-response regression analysis links magnetic resonance imaging features to de-regulated protein expression and pathway activity in lower grade glioma
+",,
+"
+Informatics methods to enable sharing of quantitative imaging research data
+",,
+"
+Automated Segmentation of Prostate MR Images Using Prior Knowledge Enhanced Random Walker
+",,
+"
+MR Imaging Radiomics Signatures for Predicting the Risk of Breast Cancer Recurrence as Given by Research Versions of MammaPrint, Oncotype DX, and PAM50 Gene Assays
+",,
+"
+Quantitative MRI radiomics in the prediction of molecular classifications of breast cancer subtypes in the TCGA/TCIA data set
+",,
+"
+Patient-specific biomechanical model as whole-body CT image registration tool
+",,
+"
+Biomechanical model for computing deformations for whole‐body image registration: A meshless approach
+",,
+"
+A Fully-Automatic Multiparametric Radiomics Model: Towards Reproducible and Prognostic Imaging Signature for Prediction of Overall Survival in Glioblastoma Multiforme
+",,
+"
+Comparison Between Radiological Semantic Features and Lung-RADS in Predicting Malignancy of Screen-Detected Lung Nodules in the National Lung Screening Trial
+",,
+"
+Genotype prediction of ATRX mutation in lower-grade gliomas using an MRI radiomics signature
+",,
+"
+Large-scale retrieval for medical image analytics: A comprehensive review
+",,
+"
+Multiregional radiomics profiling from multiparametric MRI: Identifying an imaging predictor of IDH1 mutation status in glioblastoma
+",,
+"
+Evaluate the Malignancy of Pulmonary Nodules Using the 3D Deep Leaky Noisy-or Network
+",,
+"
+Promises and challenges for the implementation of computational medical imaging (radiomics) in oncology
+",,
+"
+High-resolution anatomic correlation of cyclic motor patterns in the human colon: Evidence of a rectosigmoid brake
+",,
+"
+Normalized Euclidean Super-Pixels for Medical Image Segmentation
+",,
+"
+The Current Role of Image Compression Standards in Medical Imaging
+",,
+"
+Computational Identification of Tumor Anatomic Location Associated with Survival in 2 Large Cohorts of Human Primary Glioblastomas
+",,
+"
+Magnetic resonance perfusion image features uncover an angiogenic subgroup of glioblastoma patients with poor survival and better response to antiangiogenic treatment
+",,
+"
+A CADe system for nodule detection in thoracic CT images based on artificial neural network
+",,
+"
+A radiomic signature as a non-invasive predictor of progression-free survival in patients with lower-grade gliomas
+",,
+"
+Molecular profiles of tumor contrast enhancement: A radiogenomic analysis in anaplastic gliomas
+",,
+"
+A Genetic Polymorphism in CTLA-4 Is Associated with Overall Survival in Sunitinib-Treated Patients with Clear Cell Metastatic Renal Cell Carcinoma
+",,
+"
+Relationship between Glioblastoma Heterogeneity and Survival Time: An MR Imaging Texture Analysis
+",,
+"
+Conventional MR-based Preoperative Nomograms for Prediction of IDH/1p19q Subtype in Low-Grade Glioma
+",,
+"
+Effect of Imaging Parameter Thresholds on MRI Prediction of Neoadjuvant Chemotherapy Response in Breast Cancer Subtypes
+",,
+"
+Machine Learning-Based Radiomics for Molecular Subtyping of Gliomas
+",,
+"
+Evolutionary image simplification for lung nodule classification with convolutional neural networks
+",,
+"
+vPSNR: a visualization-aware image fidelity metric tailored for diagnostic imaging
+",,
+"
+Automatic lung nodule classification with radiomics approach
+",,
+"
+Automatic Classification of Normal and Cancer Lung CT Images Using Multiscale AM-FM Features
+",,
+"
+Lung Cancer Detection using CT Scan Images
+",,
+"
+Measurement of smaller colon polyp in CT colonography images using morphological image processing
+",,
+"
+Tumor Growth in the Brain: Complexity and Fractality
+",,
+"
+Can Planning Images Reduce Scatter in Follow-Up Cone-Beam CT?
+",,
+"
+Computer-Assisted Decision Support System in Pulmonary Cancer Detection and Stage Classification on CT Images
+",,
+"
+Automated Classification of Lung Diseases in Computed Tomography Images Using a Wavelet Based Convolutional Neural Network
+",,
+"
+Pilot study for supervised target detection applied to spatially registered multiparametric MRI in order to non-invasively score prostate cancer
+",,
+"
+How can we effect culture change toward data driven medicine?
+",,
+"
+Radiogenomics of lower-grade glioma: algorithmically-assessed tumor shape is associated with tumor genomic subtypes and patient outcomes in a multi-institutional study with The Cancer Genome Atlas data
+",,
+"
+Predicting outcomes in glioblastoma patients using computerized analysis of tumor shape: preliminary data
+",,
+"
+Imaging descriptors improve the predictive power of survival models for glioblastoma patients
+",,
+"
+Radiogenomic Analysis of Breast Cancer: Luminal B Molecular Subtype Is Associated with Enhancement Dynamics at MR Imaging
+",,
+"
+Radiogenomic Analysis of Breast Cancer: Luminal B Molecular Subtype Is Associated with Enhancement Dynamics at MR Imaging
+",,
+"
+Computer-extracted MR imaging features are associated with survival in glioblastoma patients
+",,
+"
+Quantitative Multiparametric MRI Features and PTEN Expression of Peripheral Zone Prostate Cancer: A Pilot Study
+",,
+"
+EQUIPMENT TO ADDRESS INFRASTRUCTURE AND HUMAN RESOURCE CHALLENGES FOR RADIOTHERAPY IN LOW-RESOURCE SETTINGS
+",,
+"
+Determining the variability of lesion size measurements from ct patient data sets acquired under ""no change"" conditions
+",,
+"
+Content-Based Image Retrieval System for Pulmonary Nodules Using Optimal Feature Sets and Class Membership-Based Retrieval
+",,
+"
+Bolus arrival time and its effect on tissue characterization with dynamic contrast-enhanced magnetic resonance imaging
+",,
+"
+Clinical Evaluation of a Fully-automatic Segmentation Method for Longitudinal Brain Tumor Volumetry
+",,
+"
+Comparison of Automatic Seed Generation Methods for Breast Tumor Detection Using Region Growing Technique
+",,
+"
+More accurate and efficient segmentation of organs‐at‐risk in radiotherapy with Convolutional Neural Networks Cascades
+",,
+"
+Segmentation of Pulmonary Nodules in Computed Tomography Using a Regression Neural Network Approach and its Application to the Lung Image Database Consortium and Image Database Resource Initiative Dataset
+",,
+"
+Segmentation of Pulmonary Nodules in Computed Tomography Using a Regression Neural Network Approach and its Application to the Lung Image Database Consortium and Image Database Resource Initiative Dataset
+",,
+"
+Phase I trial of preoperative chemoradiation plus sorafenib for high-risk extremity soft tissue sarcomas with dynamic contrast-enhanced MRI correlates
+",,
+"
+Detection of Lung Cancer Nodule on CT scan Images by using Region Growing Method
+",,
+"
+Transcription elongation factors represent in vivo cancer dependencies in glioblastoma
+",,
+"
+Volumetric brain tumour detection from MRI using visual saliency
+",,
+"
+Informatics in Radiology: An Open-Source and Open-Access Cancer Biomedical Informatics Grid Annotation and Image Markup Template Builder
+",,
+"
+CNN models discriminating between pulmonary micro-nodules and non-nodules from CT images
+",,
+"
+De-identification of Medical Images with Retention of Scientific Research Value
+",,
+"
+Deep Learning For Brain Tumor Segmentation
+",,
+"
+Optimization Methods for Medical Image Super Resolution Reconstruction
+",,
+"
+Forschungsanwendungen in der digitalen Radiologie
+",,
+"
+Tumor metabolic features identified by FDG PET correlates with gene networks of immune cell microenvironment in head and neck cancer
+",,
+"
+Tumor Metabolic Features Identified by 18F-FDG PET Correlate with Gene Networks of Immune Cell Microenvironment in Head and Neck Cancer
+",,
+"
+Automated Brain Lesion Detection and Segmentation Using Magnetic Resonance Images
+",,
+"
+Brain tumors detection and segmentation in MR images: Gabor wavelet vs. statistical features
+",,
+"
+Automatic tumor segmentation in single-spectral MRI using a texture-based and contour-based algorithm
+",,
+"
+Automatic rectum limit detection by anatomical markers correlation
+",,
+"
+Tumor image-derived texture features are associated with CD3 T-cell infiltration status in glioblastoma
+",,
+"
+Performance analysis of a computer-aided detection system for lung nodules in CT at different slice thicknesses
+",,
+"
+Image Processing and Classification Techniques for Early Detection of Lung Cancer for Preventive Health Care: A Survey
+",,
+"
+Security of Multi-frame DICOM Images Using XOR Encryption Approach
+",,
+"
+Automatic Classification of Brain MRI Images Using SVM and Neural Network Classifiers
+",,
+"
+Discrimination of Benign and Malignant Suspicious Breast Tumors Based on Semi-Quantitative DCE-MRI Parameters Employing Support Vector Machine
+",,
+"
+Big biomedical image processing hardware acceleration: A case study for K-means and image filtering
+",,
+"
+Multisite concordance of apparent diffusion coefficient measurements across the NCI Quantitative Imaging Network
+",,
+"
+Synergy of Sex Differences in Visceral Fat Measured with CT and Tumor Metabolism Helps Predict Overall Survival in Patients with Renal Cell Carcinoma
+",,
+"
+Pulmonary nodule classification with deep residual networks
+",,
+"
+Addition of MR imaging features and genetic biomarkers strengthens glioblastoma survival prediction in TCGA patients
+",,
+"
+Efficient Colorization of Medical Imaging based on Colour Transfer Method
+",,
+"
+A FRAMEWORK FOR AUTOMATIC COLORIZATION OF MEDICAL IMAGING
+",,
+"
+Computer-aided Diagnosis for Lung Cancer: Usefulness of Nodule Heterogeneity
+",,
+"
+Computer-aided diagnosis of lung nodule using gradient tree boosting and Bayesian optimization
+",,
+"
+Segmentation of lung from CT using various active contour models
+",,
+"
+Image descriptors in radiology images: a systematic review
+",,
+"
+Medical Image Retrieval Using Vector Quantization and Fuzzy S-tree
+",,
+"
+Memory-efficient 3D connected component labeling with parallel computing
+",,
+"
+Development of Clinically-Informed 3D Tumor Models for Microwave Imaging Applications
+",,
+"
+Uma Proposta Para Utilização De Workflows Científicos Para A Definição De Pipelines Para A Recuperação De Imagens Médicas Por Conteúdo Em Um Ambiente Distribuído
+",,
+"
+Image segmentation on GPGPUs: a cellular automata-based approach
+",,
+"
+A Neuro-Fuzzy Based System for the Classification of Cells as Cancerous or Non-Cancerous
+",,
+"
+Application of Sparse-Coding Super-Resolution to 16-Bit DICOM Images for Improving the Image Resolution in MRI
+",,
+"
+Automatic localization of target vertebrae in spine surgery using fast CT-to-fluoroscopy (3D-2D) image registration
+",,
+"
+Medical image retrieval using hybrid wavelet network classifier
+",,
+"
+3D PULMONARY NODULES DETECTION USING FAST MARCHING SEGMENTATION
+",,
+"
+Compressibility variations of JPEG2000 compressed computed tomography
+",,
+"
+A novel fused convolutional neural network for biomedical image classification
+",,
+"
+A Novel Biomedical Image Indexing and Retrieval System via Deep Preference Learning
+",,
+"
+A Novel End-to-End Classifier Using Domain Transferred Deep Convolutional Neural Networks for Biomedical Images
+",,
+"
+Deep learning for segmentation of brain tumors: Can we train with images from different institutions?
+",,
+"
+Content dependent intra mode selection for medical image compression using HEVC
+",,
+"
+Influence of Contrast Administration on Computed Tomography–Based Analysis of Visceral Adipose and Skeletal Muscle Tissue in Clear Cell Renal Cell Carcinoma
+",,
+"
+Tumor Propagation Model using Generalized Hidden Markov Model
+",,
+"
+Automated Facial Recognition of Computed Tomography-Derived Facial Images: Patient Privacy Implications
+",,
+"
+Machine learning applications for Radiomics: towards robust non-invasive predictors in clinical oncology
+",,
+"
+Machine Learning methods for Quantitative Radiomic Biomarkers
+",,
+"
+Radiomic feature clusters and Prognostic Signatures specific for Lung and Head &Neck cancer
+",,
+"
+Fast and robust methods for non-rigid registration of medical images
+",,
+"
+Multimodal Retrieval Framework for Brain Volumes in 3D MR Volumes
+",,
+"
+Swift Pre Rendering Volumetric Visualization of Magnetic Resonance Cardiac Images based on Isosurface Technique
+",,
+"
+An efficient low-dose CT reconstruction technique using partial derivatives based guided image filter
+",,
+"
+An Approach Toward Automatic Classification of Tumor Histopathology of Non–Small Cell Lung Cancer Based on Radiomic Features
+",,
+"
+Semantic imaging features predict disease progression and survival in glioblastoma multiforme patients
+",,
+"
+Auto Diagnostics of Lung Nodules Using Minimal Characteristics Extraction Technique
+",,
+"
+An Automated Method for Locating Phantom Nodules in Anthropomorphic Thoracic Phantom CT Studies
+",,
+"
+Texture classification of lung computed tomography images
+",,
+"
+Precision Medicine and Radiogenomics in Breast Cancer: New Approaches toward Diagnosis and Treatment
+",,
+"
+A versatile method for bladder segmentation in computed tomography two-dimensional images under adverse conditions
+",,
+"
+Genomics of Brain Tumor Imaging
+",,
+"
+Radiomic features from the peritumoral brain parenchyma on treatment-naïve multi-parametric MR imaging predict long versus short-term survival in glioblastoma multiforme: Preliminary findings
+",,
+"
+TCIA: an information resource to enable open science
+",,
+"
+An anatomic transcriptional atlas of human glioblastoma
+",,
+"
+Identification of biomarkers for pseudo and true progression of GBM based on radiogenomics study
+",,
+"
+Prostate segmentation: An efficient convex optimization approach with axial symmetry using 3-D TRUS and MR images
+",,
+"
+Fully Automated Multi-Modal Anatomic Atlas Generation Using 3D-Slicer
+",,
+"
+An Efficient Framework for Accurate Arterial Input Selection in DSC-MRI of Glioma Brain Tumors
+",,
+"
+Intelligent texture feature extraction and indexing for MRI image retrieval using curvelet and PCA with HTF
+",,
+"
+Exploring relationships between multivariate radiological phenotypes and genetic features: A case-study in Glioblastoma using the Cancer Genome Atlas 
+",,
+"
+Integrative Analysis of mRNA, microRNA, and Protein Correlates of Relative Cerebral Blood Volume Values in GBM Reveals the Role for Modulators of Angiogenesis and Tumor Proliferation
+",,
+"
+A combinatorial radiographic phenotype may stratify patient survival and be associated with invasion and proliferation characteristics in glioblastoma
+",,
+"
+Automated image quality assessment for chest CT scans
+",,
+"
+Improved False Positive Reduction by Novel Morphological Features for Computer-Aided Polyp Detection in CT Colonography
+",,
+"
+Multi-fractal detrended texture feature for brain tumor classification
+",,
+"
+Conditional Generative Refinement Adversarial Networks for Unbalanced Medical Image Semantic Segmentation
+",,
+"
+Detection of Lung Nodules on Medical Images by the Use of Fractal Segmentation
+",,
+"
+Computer Simulation of Low-dose CT with Clinical Lung Image Database: a preliminary study
+",,
+"
+3D medical image denoising using 3D block matching and low-rank matrix completion
+",,
+"
+3D-SCoBeP: 3D medical image registration using sparse coding and belief propagation
+",,
+"
+Malignant nodule detection on lung ct scan images with kernel rx-algorithm
+",,
+"
+How will big data improve clinical and basic research in radiation therapy?
+",,
+"
+A new 2.5D representation for lymph node detection in CT
+",,
+"
+External clinical validation of prone and supine CT colonography registration
+",,
+"
+A new 2.5 D representation for lymph node detection using random sets of deep convolutional neural network observations
+",,
+"
+Visual Interpretation with Three-Dimensional Annotations (VITA): Three-Dimensional Image Interpretation Tool for Radiological Reporting
+",,
+"
+TCIApathfinder: an R client for The Cancer Imaging Archive REST API
+",,
+"
+Automatic Removal of Mechanical Fixations from CT Imagery with Particle Swarm Optimisation
+",,
+"
+Computer-assisted subtyping and prognosis for non-small cell lung cancer patients with unresectable tumor
+",,
+"
+DEMARCATE: Density-based Magnetic Resonance Image Clustering for Assessing Tumor Heterogeneity in Cancer
+",,
+"
+Total Variation for Image Denoising Based on a Novel Smart Edge Detector: An Application to Medical Images
+",,
+"
+High Level Mammographic Information Fusion For Real World Ontology Population
+",,
+"
+Towards Generation, Management, and Exploration of Combined Radiomics and Pathomics Datasets for Cancer Research
+",,
+"
+Spatial Organization and Molecular Correlation of Tumor-Infiltrating Lymphocytes Using Deep Learning on Pathology Images
+",,
+"
+Identifying key radiogenomic associations between DCE-MRI and micro-RNA expressions for breast cancer
+",,
+"
+A scheme for patient study retrieval from 3D brain MR volumes
+",,
+"
+Semi-automatic 3D lung nodule segmentation in CT using dynamic programming
+",,
+"
+Mir-21–Sox2 Axis Delineates Glioblastoma Subtypes with Prognostic Impact
+",,
+"
+BRAIN CANCER DETECTION FROM MRI: A MACHINE LEARNING APPROACH (TENSORFLOW)
+",,
+"
+Optimal transformations leading to normal distributions of positron emission tomography standardized uptake values
+",,
+"
+Multisite Concordance of DSC-MRI Analysis for Brain Tumors: Results of a National Cancer Institute Quantitative Imaging Network Collaborative Project
+",,
+"
+Anatomical Segmentation of CT images for Radiation Therapy planning using Deep Learning
+",,
+"
+Wwox–Brca1 interaction: role in DNA repair pathway choice
+",,
+"
+Wwox deficiency in human cancers: Role in treatment resistance
+",,
+"
+2d view aggregation for lymph node detection using a shallow hierarchy of linear classifiers
+",,
+"
+A Population-Based Digital Reference Object (DRO) for Optimizing Dynamic Susceptibility Contrast (DSC)-MRI Methods for Clinical Trials
+",,
+"
+GFAP expression is influenced by astrocytoma grade and rs2070935 polymorphism
+",,
+"
+Validation, comparison, and combination of algorithms for automatic detection of pulmonary nodules in computed tomography images: the LUNA16 challenge
+",,
+"
+Early detection of lung cancer from CT images: nodule segmentation and classification using deep learning
+",,
+"
+Fully automatic and accurate detection of lung nodules in CT images using a hybrid feature set
+",,
+"
+Multi-Institutional Deep Learning Modeling Without Sharing Patient Data: A Feasibility Study on Brain Tumor Segmentation
+",,
+"
+2D and 3D CT Radiomics Features Prognostic Performance Comparison in Non-Small Cell Lung Cancer
+",,
+"
+An automated lung segmentation approach using bidirectional chain codes to improve nodule detection accuracy
+",,
+"
+Combination of fuzzy c-means clustering and texture pattern matrix for brain MRI segmentation
+",,
+"
+Radiogenomics of Clear Cell Renal Cell Carcinoma: Preliminary Findings of The Cancer Genome Atlas-Renal Cell Carcinoma (TCGA-RCC) Research Group
+",,
+"
+Radiogenomics of clear cell renal cell carcinoma: preliminary findings of The Cancer Genome Atlas–Renal Cell Carcinoma (TCGA–RCC) Imaging Research Group
+",,
+"
+Automatic Lung Segmentation for the Inclusion of Juxtapleural Nodules and Pulmonary Vessels using Curvature based Border Correction
+",,
+"
+Performance analysis of various machine learning-based approaches for detection and classification of lung cancer in humans
+",,
+"
+Brain Tumor Segmentation Using Deep Learning Technique
+",,
+"
+Towards automatic initialization of registration algorithms using simulated endoscopy images
+",,
+"
+Simultaneous segmentation and correspondence improvement using statistical modes
+",,
+"
+Wireless Distributive Personal Communication for Early Detection of Collateral Cancer Using Optimized Machine Learning Methodology
+",,
+"
+Lungs image segmentation through weighted FCM
+",,
+"
+Lung nodule detection using fuzzy clustering and support vector machines
+",,
+"
+A STUDY ON IMAGE DENOISING FOR LUNG CT SCAN IMAGES
+",,
+"
+A Novel Noise Removal Method for Lung CT SCAN Images Using Statistical Filtering Techniques
+",,
+"
+Imaging correlates of adult glioma genotypes
+",,
+"
+Glioblastoma radiomics: can genomic and molecular characteristics correlate with imaging response patterns?
+",,
+"
+Non-small cell lung cancer: quantitative phenotypic analysis of CT images as a potential marker of prognosis
+",,
+"
+Using Deep Learning for Classification of lung nodules on Computed Tomography Images
+",,
+"
+MR and mammographic imaging features of HER2-positive breast cancers according to hormone receptor status: a retrospective comparative study
+",,
+"
+Identification of optimal mother wavelets in survival prediction of lung cancer patients using wavelet decomposition‐based radiomic features
+",,
+"
+Exploration of temporal stability and prognostic power of radiomic features based on electronic portal imaging device images
+",,
+"
+An Image Processing Tool for Efficient Feature Extraction in Computer-Aided Detection Systems
+",,
+"
+Iterative Probabilistic Voxel Labeling: Automated Segmentation for Analysis of The Cancer Imaging Archive Glioblastoma Images
+",,
+"
+Quantification of glioblastoma mass effect by lateral ventricle displacement
+",,
+"
+Differential localization of glioblastoma subtype: implications on glioblastoma pathogenesis
+",,
+"
+Comparison of Safety Margin Generation Concepts in Image Guided Radiotherapy to Account for Daily Head and Neck Pose Variations
+",,
+"
+Progress in Fully Automated Abdominal CT Interpretation
+",,
+"
+A radiomics approach to assess tumour-infiltrating CD8 cells and response to anti-PD-1 or anti-PD-L1 immunotherapy: an imaging biomarker, retrospective multicohort study
+",,
+"
+Effect of machine learning methods on predicting NSCLC overall survival time based on Radiomics analysis
+",,
+"
+Breast cancer molecular subtype classifier that incorporates MRI features
+",,
+"
+Breast MRI radiomics: comparison of computer-and human-extracted imaging phenotypes
+",,
+"
+Personalized Medicine, Biomarkers of Risk and Breast MRI
+",,
+"
+Classification of Benign and Malignant Tumors of Lung Using Bag of Features
+",,
+"
+Segmentation-free direct tumor volume and metabolic activity estimation from PET scans
+",,
+"
+Analysis of a feature-deselective neuroevolution classifier (FD-NEAT) in a computer-aided lung nodule detection system for CT images
+",,
+"
+Association between tumor architecture derived from generalized Q-space MRI and survival in glioblastoma
+",,
+"
+Lung Nodule Detection and Classification using Machine Learning Techniques
+",,
+"
+Scalable and flexible management of medical image big data
+",,
+"
+Handling images of patient postures in arms up and arms down position using a biomechanical skeleton model
+",,
+"
+Automated detection of glioblastoma tumor in brain magnetic imaging using ANFIS classifier
+",,
+"
+The Immune Landscape of Cancer
+",,
+"
+PREDICTION OF LUNG CANCER USING IMAGE PROCESSING TECHNIQUES: A REVIEW
+",,
+"
+Sharing big biomedical data
+",,
+"
+The Cancer Genome Atlas (TCGA): an immeasurable source of knowledge
+",,
+"
+3D/2D model-to-image registration by imitation learning for cardiac procedures
+",,
+"
+Number of Useful Components in Gaussian Mixture Models for Patch-Based Image Denoising
+",,
+"
+Automatic fissure detection in CT images based on the genetic algorithm
+",,
+"
+Super-Resolution Imaging of Mammograms Based on the Super-Resolution Convolutional Neural Network
+",,
+"
+A framework for multimodal imaging-based prognostic model building: Preliminary study on multimodal MRI in Glioblastoma Multiforme
+",,
+"
+Prognosis classification in glioblastoma multiforme using multimodal MRI derived heterogeneity textural features: impact of pre-processing choices
+",,
+"
+Prognostic value of multimodal MRI tumor features in Glioblastoma multiforme using textural features analysis
+",,
+"
+Brain tumor classification from multi-modality MRI using wavelets and machine learning
+",,
+"
+Automatic 3D pulmonary nodule detection in CT images: a survey
+",,
+"
+Data from: A radiomics model from joint FDG-PET and MRI texture features for the prediction of lung metastases in soft-tissue sarcomas of the extremities
+",,
+"
+A radiomics model from joint FDG-PET and MRI texture features for the prediction of lung metastases in soft-tissue sarcomas of the extremities
+",,
+"
+Radiomics strategies for risk assessment of tumour failure in head-and-neck cancer
+",,
+"
+Enhancement of multimodality texture-based prediction models via optimization of PET and MR image acquisition protocols: a proof of concept
+",,
+"
+Brain Tumor Classification using Support Vector Machine
+",,
+"
+Radiogenomics of High-Grade Serous Ovarian Cancer: Multireader Multi-Institutional Study from the Cancer Genome Atlas Ovarian Cancer Imaging Research Group
+",,
+"
+Classification of benign and malignant lung nodules using image processing techniques
+",,
+"
+Fully automatic GBM segmentation in the TCGA-GBM dataset: Prognosis and correlation with VASARI features
+",,
+"
+Medical image thresholding using WQPSO and maximum entropy
+",,
+"
+Assessing the prognostic impact of 3D CT image tumour rind texture features on lung cancer survival modelling
+",,
+"
+Novel Framework for Breast Cancer Classification for Retaining Computational Efficiency and Precise Diagnosis
+",,
+"
+Classificação Multirrótulo na Anotação Automática de Nódulo Pulmonar Solitário
+",,
+"
+Methylation of L1RE1, RARB, and RASSF1 function as possible biomarkers for the differential diagnosis of lung cancer
+",,
+"
+Robust High-dimensional Bioinformatics Data Streams Mining by ODR-ioVFDT
+",,
+"
+Simultaneous encryption and compression of medical images based on optimized tensor compressed sensing with 3D Lorenz
+",,
+"
+Data Analysis of the Lung Imaging Database Consortium and Image Database Resource Initiative
+",,
+"
+Single NMR image super-resolution based on extreme learning machine
+",,
+"
+Multicenter imaging outcomes study of The Cancer Genome Atlas glioblastoma patient cohort: imaging predictors of overall and progression-free survival
+",,
+"
+Survival analysis of pre-operative GBM patients by using quantitative image features
+",,
+"
+NI-83DIFFUSION AND CONVENTIONAL MR IMAGING GENOMIC BIOMARKER SIGNATURE PREDICTS IDH-1 MUTATION IN GLIOBLASTOMA PATIENTS
+",,
+"
+NI-82DIFFUSION AND CONVENTIONAL MR IMAGING GENOMIC BIOMARKER SIGNATURE FOR EGFR MUTATION IDENTIFICATION IN GLIOBLASTOMA
+",,
+"
+A Gaussian Mixture Model based Level Set Method for Volume Segmentation in Medical Images
+",,
+"
+CT-based radiomic analysis of hepatocellular carcinoma patients to predict key genomic information
+",,
+"
+Supervised Machine Learning Approach Utilizing Artificial Neural Networks for Automated Prostate Zone Segmentation in Abdominal MR images
+",,
+"
+Introducing the Medical Physics Dataset Article
+",,
+"
+Quantifying the reproducibility of lung ventilation images between 4-Dimensional Cone Beam CT and 4-Dimensional CT
+",,
+"
+Predicting Genotype and Survival in Glioma Using Standard Clinical MR Imaging Apparent Diffusion Coefficient Images: A Pilot Study from The Cancer Genome Atlas
+",,
+"
+Unsupervised clustering of quantitative image phenotypes reveals breast cancer subtypes with distinct prognoses and molecular pathways
+",,
+"
+Intratumor partitioning and texture analysis of dynamic contrast‐enhanced (DCE)‐MRI identifies relevant tumor subregions to predict pathological response of breast cancer to neoadjuvant chemotherapy
+",,
+"
+Heterogeneous Enhancement Patterns of Tumor-adjacent Parenchyma at MR Imaging Are Associated with Dysregulated Signaling Pathways and Poor Survival in Breast Cancer
+",,
+"
+Magnetic resonance imaging and molecular features associated with tumor-infiltrating lymphocytes in breast cancer
+",,
+"
+Identifying relations between imaging phenotypes and molecular subtypes of breast cancer: Model discovery and external validation
+",,
+"
+Correlation coefficient based supervised locally linear embedding for pulmonary nodule recognition
+",,
+"
+Deep Domain Adaptation Learning Framework for Associating Image Features to Tumour Gene Profile
+",,
+"
+Volume fractions of DCE-MRI parameter as early predictor of histologic response in soft tissue sarcoma: A feasibility study
+",,
+"
+An Automated Segmentation Method for Lung Parenchyma Image Sequences Based on Fractal Geometry and Convex Hull Algorithm
+",,
+"
+Low-complexity atlas-based prostate segmentation by combining global, regional, and local metrics
+",,
+"
+Fusing texture, shape and deep model-learned information at decision level for automated classification of lung nodules on chest CT
+",,
+"
+Independent external validation of predictive models for urinary dysfunction following external beam radiotherapy of the prostate: Issues in model development and reporting
+",,
+"
+Automatic 3D Mesh-Based Centerline Extraction from a Tubular Geometry Form
+",,
+"
+MRI Brain Tumor Segmentation and Patient Survival Prediction Using Random Forests and Fully Convolutional Networks
+",,
+"
+Regression Analyses of Distributions using Quantile Functional Regression
+",,
+"
+Research on the Content-Based Classification of Medical Image
+",,
+"
+Clinically relevant modeling of tumor growth and treatment response
+",,
+"
+Automatic interstitial photodynamic therapy planning via convex optimization
+",,
+"
+Lung Cancers Manifesting as Part-Solid Nodules in the National Lung Screening Trial
+",,
+"
+Recurrent Convolutional Networks for Pulmonary Nodule Detection in CT Imaging
+",,
+"
+Co-Segmentation Methods for Improving Tumor Target Delineation in PET-CT Images
+",,
+"
+A 3D semi-automated co-segmentation method for improved tumor target delineation in 3D PET/CT imaging
+",,
+"
+Effect of color visualization and display hardware on the visual assessment of pseudocolor medical images
+",,
+"
+Statistical Analysis of Haralick Texture Features to Discriminate Lung Abnormalities
+",,
+"
+Segmentation of gliomas in pre-operative and post-operative multimodal magnetic resonance imaging volumes based on a hybrid generative-discriminative framework
+",,
+"
+A fully automatic extraction of magnetic resonance image features in Glioblastoma patients
+",,
+"
+Radiomics Strategy for Molecular Subtype Stratification of Lower‐Grade Glioma: Detecting IDH and TP53 Mutations Based on Multimodal MRI
+",,
+"
+Reproducibility of radiomics for deciphering tumor phenotype with imaging
+",,
+"
+Two-stage fusion set selection in multi-atlas-based image segmentation
+",,
+"
+Agile convolutional neural network for pulmonary nodule classification using CT images
+",,
+"
+A statistical method for lung tumor segmentation uncertainty in PET images based on user inference
+",,
+"
+Topology guided demons registration with local rigidity preservation
+",,
+"
+MRI features predict survival and molecular markers in diffuse lower-grade gliomas
+",,
+"
+Radiomics in Brain Tumor: Image Assessment, Quantitative Feature Descriptors, and Machine-Learning Approaches
+",,
+"
+Data sharing in clinical trials: An experience with two large cancer screening trials
+",,
+"
+Identifying molecular genetic features and oncogenic pathways of clear cell renal cell carcinoma through the anatomical (PADUA) scoring system
+",,
+"
+Deciphering Genomic Underpinnings of Quantitative MRI-based Radiomic Phenotypes of Invasive Breast Carcinoma
+",,
+"
+Imaging Genomic Mapping in Glioblastoma
+",,
+"
+Diffusion MRI ADC Mapping of Glioblastoma Edema/Tumor Invasion and Associated Gene Signatures
+",,
+"
+Diffusion Weighted Magnetic Resonance Imaging Radiophenotypes and Associated Molecular Pathways in Glioblastoma
+",,
+"
+Radiogenomic mapping of edema/cellular invasion MRI-phenotypes in glioblastoma multiforme
+",,
+"
+A novel volume-age-KPS (VAK) glioblastoma classification identifies a prognostic cognate microRNA-gene signature
+",,
+"
+Distinct Radiomic Phenotypes Define Glioblastoma TP53-PTEN-EGFR Mutational Landscape
+",,
+"
+Assessing robustness of radiomic features by image perturbation
+",,
