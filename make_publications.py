@@ -115,7 +115,7 @@ paperpile_html = """<!DOCTYPE html>
             #wrapper {{
                 position: fixed;
                 top: 0;
-                width: 18.11vw;
+                width: 22vw;
                 height: 100%;
                 background-color: #eee;
                 z-index: 5;
@@ -127,7 +127,7 @@ paperpile_html = """<!DOCTYPE html>
                 left: 1vw;
                 height: 91vh;
                 overflow-y: scroll;
-                width: 17vw;
+                width: 22vw;
             }}
             #header {{
                 position: fixed;
@@ -156,9 +156,9 @@ paperpile_html = """<!DOCTYPE html>
             }}
             .container {{
                 padding-top: 110px;
-                margin-left: 16vw;
-                width: 65vw;
-                border: 2px solid #ccc;
+                margin-left: 2vw;
+                width: 75vw;
+                border: 0px solid #ccc;
             }}
             .draggable {{
                 height: 40px;
@@ -189,11 +189,16 @@ paperpile_html = """<!DOCTYPE html>
                 font-weight: Bold;
             }}
             .pagination {{
-                margin-left: 30vw;
+                margin-left: 4vw;
+                margin-right: 20vw;
             }}
             .padding-0 {{
                 padding-left: 0px;
                 padding-right: 0px;
+            }}
+            .btn {{
+                text-align: lef !important;
+                white-space: normal !important;
             }}
         </style>
 
@@ -351,7 +356,7 @@ paperpile_html = """<!DOCTYPE html>
                 	    <span class="glyphicon glyphicon-question-sign" style="font-size:32px;padding-left:8px;color:#1F77B4;" data-toggle="tooltip" data-placement="bottom" data-original-title="" title="Search using &quot;author:&quot;, &quot;title:&quot;, or &quot;year:&quot;"></span>
                 	</div>
                 	<div class="col-xs-1 padding-0">
-                	    <a href="Pubs_basedon_TCIA0618.xml" download><span class="glyphicon glyphicon-download-alt" style="font-size:32px;" data-toggle="tooltip" data-placement="bottom" data-original-title="" title="Download EndNote file"></span></a>
+                	    <a href="endnote/{endnote}" download><span class="glyphicon glyphicon-download-alt" style="font-size:32px;" data-toggle="tooltip" data-placement="bottom" data-original-title="" title="Download EndNote file"></span></a>
                 	</div>
                 	<div class="col-xs-1 padding-0">
                         <button type="button" class="btn btn-link" data-toggle="modal" data-target="#myModal"><span class="glyphicon glyphicon-stats" style="font-size:32px;" data-backdrop="false" data-toggle="tooltip" data-placement="bottom" data-original-title="" title="View publication statistics"></button>
@@ -531,7 +536,8 @@ def main(titleinfo_file, publications_file, output_file):
 
 
     with open(output_file, "w", encoding="utf8") as f:
-        f.write(paperpile_html.format(keywords_to_add, entry))
+        f.write(paperpile_html.format(keywords_to_add, entry, 
+                                      endnote=publications_file))
 
 
 def parse_args():
