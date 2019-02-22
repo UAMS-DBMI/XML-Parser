@@ -6,6 +6,7 @@ from re import sub
 import ftfy
 import csv
 import argparse
+import os
 
 
 class Record:
@@ -537,7 +538,7 @@ def main(titleinfo_file, publications_file, output_file):
 
     with open(output_file, "w", encoding="utf8") as f:
         f.write(paperpile_html.format(keywords_to_add, entry, 
-                                      endnote=publications_file))
+                                      endnote=os.path.basename(publications_file)))
 
 
 def parse_args():
